@@ -30,8 +30,9 @@ Conceptualisations of open educational practices (OEP) vary widely, ranging from
 - OEP
 - OEP theory
 
+### Methods
 
-### Key Qoutes
+### Key Quotes
 
 > Open education is defined broadly as encompassing resources, tools and practices to improve educational access, effectiveness, and equality worldwide (Lane, 2009; Open Education Consortium, n.d.).
 
