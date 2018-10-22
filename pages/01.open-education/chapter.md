@@ -1,5 +1,5 @@
 ---
-title: Intermediate
+title: Open Education
 taxonomy:
     category: docs
 child_type: docs
