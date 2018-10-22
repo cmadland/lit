@@ -1,9 +1,20 @@
 ---
-title: Cronin & MacLaren, 2018
+title: 'Cronin & MacLaren, 2018'
 taxonomy:
     category: docs
+    tag:
+        - 'open education'
+        - 'open education practices'
+        - OEP
+        - OER
+        - 'OEP theory'
+    author:
+        - 'Catherine Cronin'
+        - 'Iain MacLaren'
 process:
-	twig: true
+    markdown: true
+    twig: true
+visible: true
 ---
 
 !!! Cronin, C., & MacLaren, I. (2018). Conceptualising OEP: A review of theoretical and empirical literature in Open Educational Practices. Open Praxis, 10(2), 127–143.
