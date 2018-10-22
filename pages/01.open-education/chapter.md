@@ -5,6 +5,4 @@ taxonomy:
 child_type: docs
 ---
 
-### Open Education
-
-# Articles
+# Open Education
