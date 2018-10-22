@@ -5,8 +5,6 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 2
+### Open Education
 
-# Intermediate
-
-Delve deeper into more **complex** topics
+# Articles
