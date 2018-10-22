@@ -5,4 +5,4 @@ taxonomy:
 child_type: docs
 ---
 
-# General Education 
+# General Education
