@@ -8,6 +8,9 @@ taxonomy:
         - OEP
         - OER
         - 'OEP theory'
+    author:
+        - 'Catherine Cronin'
+        - 'Iain MacLaren'
 process:
     markdown: true
     twig: true
