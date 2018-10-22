@@ -13,7 +13,7 @@ taxonomy:
 process:
     markdown: true
     twig: true
-visible: false
+visible: true
 ---
 
 !!! Paskevicius, M. (2017). *Conceptualizing Open Educational Practices through the Lens of Constructive Alignment.* Open Praxis, 9(2), 125–140. Retrieved from https://openpraxis.org/index.php/OpenPraxis/article/view/519
