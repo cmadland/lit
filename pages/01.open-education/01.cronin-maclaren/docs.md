@@ -5,8 +5,6 @@ taxonomy:
 process:
 	twig: true
 ---
-## Conceptualising OEP: A review of theoretical and empirical literature in Open Educational Practices
-
 
 !!! Cronin, C., & MacLaren, I. (2018). Conceptualising OEP: A review of theoretical and empirical literature in Open Educational Practices. Open Praxis, 10(2), 127–143.
 
