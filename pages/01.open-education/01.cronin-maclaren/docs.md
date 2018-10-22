@@ -5,15 +5,16 @@ taxonomy:
 process:
 	twig: true
 ---
-# Conceptualising OEP: A review of theoretical and empirical literature in Open Educational Practices
+## Conceptualising OEP: A review of theoretical and empirical literature in Open Educational Practices
+
 
 !!! Cronin, C., & MacLaren, I. (2018). Conceptualising OEP: A review of theoretical and empirical literature in Open Educational Practices. Open Praxis, 10(2), 127–143.
 
-## Abstract
+### Abstract
 
 Conceptualisations of open educational practices (OEP) vary widely, ranging from those centred primarily on the creation and use of open educational resources (OER) to broader definitions of OEP, inclusive of but not necessarily focused on OER. The latter, referred to in this paper as expansive definitions of OEP, encompass open content but also allow for multiple entry points to, and avenues of, openness. This paper explores the theoretical and empirical literature to outline how the concept of OEP has evolved historically. The paper aims to provide a useful synthesis of OEP literature for education researchers and practitioners.
 
-## Keywords
+### Keywords
 - open education
 - open educational practices
 - OER
