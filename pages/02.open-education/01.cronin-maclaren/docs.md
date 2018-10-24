@@ -38,8 +38,7 @@ Conceptualisations of open educational practices (OEP) vary widely, ranging from
 
 #### OLCOS project
 > The Cape Town Open Education Declaration (2007) points to an expansive approach:
-
-    ... open education is not limited to just open educational resources. It also draws upon open technologies that facilitate collaborative, flexible learning and the open sharing of teaching practices that empower educators to benefit from the best ideas of their colleagues. It may also grow to include new approaches to assessment, accreditation and collaborative learning.
+> > ... open education is not limited to just open educational resources. It also draws upon open technologies that facilitate collaborative, flexible learning and the open sharing of teaching practices that empower educators to benefit from the best ideas of their colleagues. It may also grow to include new approaches to assessment, accreditation and collaborative learning.
 
 > The OLCOS project methodology included a detailed literature review, workshops, and interviews with experts. The final report had a five-year time-horizon and thus was titled Open Educational Practices and Resources: OLCOS Roadmap 2012 (Geser, 2007a). OEP were defined as: “…practices that involve students in active, constructive engagement with content, tools and services in the learning process, and promote learners’ self-management, creativity and working in teams” (Geser, 2007a, p. 37).
 
@@ -66,18 +65,13 @@ Conceptualisations of open educational practices (OEP) vary widely, ranging from
 
 > The revised framework has five attributes of openness within a larger ‘Open Education’ cycle:
 
-    Technical (interoperability and open formats; connectivity; technical skills & equipment; availability and discoverability of resources)
-    Legal (open license parameters; open license knowledge and advice)
-    Cultural (conceptions of knowledge as given or constructed; curricula)
-    Pedagogical (student demographics and types of engagement; pedagogic, learning & assessment strategies; accreditation/certification)
-    Financial (costs ranging from free to fees; sustainable business models)
-    The revised framework has five attributes of openness within a larger ‘Open Education’ cycle:
+> - Technical (interoperability and open formats; connectivity; technical skills & equipment; availability and discoverability of resources)
+> - Legal (open license parameters; open license knowledge and advice)
+> - Cultural (conceptions of knowledge as given or constructed; curricula)
+> - Pedagogical (student demographics and types of engagement; pedagogic, learning & assessment strategies; accreditation/certification)
+> - Financial (costs ranging from free to fees; sustainable business models)
+> - The revised framework has five attributes of openness within a larger ‘Open Education’ cycle:
 
-        Technical (interoperability and open formats; connectivity; technical skills & equipment; availability and discoverability of resources)
-        Legal (open license parameters; open license knowledge and advice)
-        Cultural (conceptions of knowledge as given or constructed; curricula)
-        Pedagogical (student demographics and types of engagement; pedagogic, learning & assessment strategies; accreditation/certification)
-        Financial (costs ranging from free to fees; sustainable business models)
 
 #### Evolving definitions of OEP
 
@@ -93,8 +87,7 @@ Conceptualisations of open educational practices (OEP) vary widely, ranging from
 > However, our concern in this paper is exploring the literature on OEP. In our review of the empirical OEP literature, we focused on studies that gathered and analysed data (e.g. via surveys, interviews, observations, case studies) in order to understand the development and use of OEP in specific contexts. Many empirical studies of OEP focus specifically on practices and policies that support the creation, use and repurposing of OER.
 
 > Nascimbeni and Burgos (2016) take such an approach in their study of “the Open Educator”:
-
-    We believe it is important to ‘disconnect’ the concept of open teaching from the use of OER since many teachers are indeed using open methodologies in their classroom activities, for example by fostering co-creation of knowledge from students allowing them to enrich the course content with any complementary information they deem important. In our view, these teachers can be indeed considered Open Educators even if they do not use – and maybe do not even know the existence of – OER (p. 7).
+>> We believe it is important to ‘disconnect’ the concept of open teaching from the use of OER since many teachers are indeed using open methodologies in their classroom activities, for example by fostering co-creation of knowledge from students allowing them to enrich the course content with any complementary information they deem important. In our view, these teachers can be indeed considered Open Educators even if they do not use – and maybe do not even know the existence of – OER (p. 7).
 
 #### Conclusions
 
