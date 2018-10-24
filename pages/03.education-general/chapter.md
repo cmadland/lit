@@ -1,5 +1,5 @@
 ---
-title: General Education
+title: 'General Education'
 taxonomy:
     category: docs
 child_type: docs
