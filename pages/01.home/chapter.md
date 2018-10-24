@@ -2,7 +2,6 @@
 title: Home
 taxonomy:
     category: docs
-child_type: docs
 ---
 
 ### Hey there!
