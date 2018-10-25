@@ -2,6 +2,7 @@
 title: 'Cronin & MacLaren, 2018'
 taxonomy:
     category: docs
+<<<<<<< HEAD
     tags:
         - 'open education'
         - 'open education practices'
@@ -11,6 +12,8 @@ taxonomy:
     author:
         - 'Catherine Cronin'
         - 'Iain MacLaren'
+=======
+>>>>>>> 7117b953c363b5e5a7e543ca60be454406f9da44
 process:
     markdown: true
     twig: true
