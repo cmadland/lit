@@ -2,7 +2,7 @@
 title: 'Paskevicius, 2017'
 taxonomy:
     category: docs
-    tag:
+    tags:
         - 'open education'
         - 'open education practices'
         - OEP
