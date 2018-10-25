@@ -2,15 +2,6 @@
 title: 'Cronin & MacLaren, 2018'
 taxonomy:
     category: docs
-    tag:
-        - 'open education'
-        - 'open education practices'
-        - OEP
-        - OER
-        - 'OEP theory'
-    author:
-        - 'Catherine Cronin'
-        - 'Iain MacLaren'
 process:
     markdown: true
     twig: true
