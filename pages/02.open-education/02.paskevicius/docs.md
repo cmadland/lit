@@ -76,7 +76,7 @@ The idea of participatory student-directed projects is the crux of the matter, I
 
 !!! Ehlers, U.-D. (2011). Extending the Territory: From Open Educational Resources to Open Educational Practices. Journal of Open, Flexible, and Distance Learning, 15(2), 1–10.
 
-- Low degrees of openness are reflected in learning outcomes where transmission and reproduction of knowledge is the intended goal. `transmission model`
+- Low degrees of openness are reflected in learning outcomes where transmission and reproduction of knowledge is the intended goal. `transmission model` 
 - Medium degrees of openness might be said to exist when learning outcomes are predetermined, but the pedagogy is flexible and students are actively involved in collective dialogue. `transaction model`
 - High degrees of openness would involve co-creation of the learning outcomes, objectives, and methods by students. `transformational model`
 
