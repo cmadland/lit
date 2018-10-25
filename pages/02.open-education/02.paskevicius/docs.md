@@ -66,7 +66,7 @@ The differences in the 'open' movement in Europe and North America are interesti
 
 I think that the focus on all aspects of instructional practice is important here. The focus of OER in NA has led to openness being enacted primarily in the selection of learning resources, leaving the rest untouched. This happens when a 'bolt-on' approach is taken or a faculty member simply replaces a commercial textbook with an open one.
 
-The idea of participatory student-directed projects is the crux of the matter.
+The idea of participatory student-directed projects is the crux of the matter, I think. Students *learn* what students *do.* Inviting them into the life of the university by including them in real, meaningful participation and contribution is critical.
 
 #### The Atomic Structure of Instructional Practice
 
@@ -76,6 +76,8 @@ The idea of participatory student-directed projects is the crux of the matter.
 
 !!! Ehlers, U.-D. (2011). Extending the Territory: From Open Educational Resources to Open Educational Practices. Journal of Open, Flexible, and Distance Learning, 15(2), 1–10.
 
-- Low degrees of openness are reflected in learning outcomes where transmission and reproduction of knowledge is the intended goal.
-- Medium degrees of openness might be said to exist when learning outcomes are predetermined, but the pedagogy is flexible and students are actively involved in collective dialogue.
-- High degrees of openness would involve co-creation of the learning outcomes, objectives, and methods by students.
+- Low degrees of openness are reflected in learning outcomes where transmission and reproduction of knowledge is the intended goal. `transmission model`
+- Medium degrees of openness might be said to exist when learning outcomes are predetermined, but the pedagogy is flexible and students are actively involved in collective dialogue. `transaction model`
+- High degrees of openness would involve co-creation of the learning outcomes, objectives, and methods by students. `transformational model`
+
+The idea of learning outcomes as artefacts of open practices is new to me, but it follows from why I choose to be more open. Exposing my work to the web makes it available for improvement.
