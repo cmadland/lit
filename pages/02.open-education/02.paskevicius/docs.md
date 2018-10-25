@@ -62,11 +62,11 @@ The differences in the 'open' movement in Europe and North America are interesti
 
 > Based on these attempts to articulate OEP and a desire to have a definition which more specifically addresses how faculty might make the shift from existing practices to open practices, a working definition in the context of this research is proposed.
 
->> *Teaching and learning practices where openness is enacted within all aspects of instructional practice; including the design of learning outcomes, the selection of teaching resources, and the planning of activities and assessment. OEP engage both faculty and students with the use and creation of OER, draw attention to the potential afforded by open licences, facilitate open peer-review, and support participatory student-directed projects.*
+!! Teaching and learning practices where openness is enacted within all aspects of instructional practice; including the design of learning outcomes, the selection of teaching resources, and the planning of activities and assessment. OEP engage both faculty and students with the use and creation of OER, draw attention to the potential afforded by open licences, facilitate open peer-review, and support participatory student-directed projects.
 
 I think that the focus on all aspects of instructional practice is important here. The focus of OER in NA has led to openness being enacted primarily in the selection of learning resources, leaving the rest untouched. This happens when a 'bolt-on' approach is taken or a faculty member simply replaces a commercial textbook with an open one.
 
-The idea of participatory student-directed projects is the crux of the matter. 
+The idea of participatory student-directed projects is the crux of the matter.
 
 #### The Atomic Structure of Instructional Practice
 
