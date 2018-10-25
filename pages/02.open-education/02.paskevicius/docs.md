@@ -34,6 +34,42 @@ The act of instruction may be conceptualized as consisting of four elements: lea
 - innovation in teaching and learning
 - Creative Commons
 
+### Methods
+
+Search Terms:
+- open educational practice
+- open education practice
+- open practice
+- open pedagogy
+
+Search Engines
+- Web of Science
+- Harzing's *Publish or Perish* software
+- Research databases
+- Google Scholar
+
+Included only empirical research on OEP in relation to instructional practice.
+
 ### Key Quotes
 
-test
+#### Defining Open Education Practice
+
+> While some literature has suggested OEP are simply those which make use of OER, one of the founding documents on open education suggests a broader vision. The Cape Town Open Education Declaration suggests,
+
+> > “open education is not limited to just open educational resources. It also draws upon open technologies that facilitate collaborative, flexible learning and the open sharing of teaching practices that empower educators to benefit from the best ideas of their colleagues. It may also grow to include new approaches to assessment, accreditation and collaborative learning” (The Cape Town Open Education Declaration, 2007, para. 4).
+
+> Based on these attempts to articulate OEP and a desire to have a definition which more specifically addresses how faculty might make the shift from existing practices to open practices, a working definition in the context of this research is proposed.
+
+>> *Teaching and learning practices where openness is enacted within all aspects of instructional practice; including the design of learning outcomes, the selection of teaching resources, and the planning of activities and assessment. OEP engage both faculty and students with the use and creation of OER, draw attention to the potential afforded by open licences, facilitate open peer-review, and support participatory student-directed projects.*
+
+#### The Atomic Structure of Instructional Practice
+
+> Considering OEP within a framework which supports pedagogically sound instructional design practices makes it more straightforward to identify specific, relevant, roles for integrating OER and enacting OEP (Masterman, 2016). An analysis of the literature on OEP follows considering these four core elements of constructive alignment.
+
+##### Open Practices for the Design of Learning Outcomes
+
+!!!! Ehlers, U.-D. (2011). Extending the Territory: From Open Educational Resources to Open Educational Practices. Journal of Open, Flexible, and Distance Learning, 15(2), 1–10.
+
+- Low degrees of openness are reflected in learning outcomes where transmission and reproduction of knowledge is the intended goal.
+- Medium degrees of openness might be said to exist when learning outcomes are predetermined, but the pedagogy is flexible and students are actively involved in collective dialogue.
+- High degrees of openness would involve co-creation of the learning outcomes, objectives, and methods by students.
