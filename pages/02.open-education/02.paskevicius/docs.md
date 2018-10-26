@@ -58,7 +58,8 @@ Included only empirical research on OEP in relation to instructional practice.
 
 > > “open education is not limited to just open educational resources. It also draws upon open technologies that facilitate collaborative, flexible learning and the open sharing of teaching practices that empower educators to benefit from the best ideas of their colleagues. It may also grow to include new approaches to assessment, accreditation and collaborative learning” (The Cape Town Open Education Declaration, 2007, para. 4).
 
->>>> The differences in the 'open' movement in Europe and North America are interesting in that the *OEP* and *open pedagogy* stream has been much more active in Europe, whereas *OER* have been at the forefront in North America. A large part of this has been due to the amount of private and government funding available in NA for the creation of OER. So OER have become somewhat of the thin edge of the wedge making room for further innovation in higher ed.
+
+>>> The differences in the 'open' movement in Europe and North America are interesting in that the *OEP* and *open pedagogy* stream has been much more active in Europe, whereas *OER* have been at the forefront in North America. A large part of this has been due to the amount of private and government funding available in NA for the creation of OER. So OER have become somewhat of the thin edge of the wedge making room for further innovation in higher ed.
 
 > Based on these attempts to articulate OEP and a desire to have a definition which more specifically addresses how faculty might make the shift from existing practices to open practices, a working definition in the context of this research is proposed.
 
