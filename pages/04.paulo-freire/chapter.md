@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### Paulo
 
-# Chapter Title
+# Freire
 
 Chapter description.
