@@ -7,5 +7,3 @@ taxonomy:
 ### Paulo
 
 # Freire
-
-Chapter description.
