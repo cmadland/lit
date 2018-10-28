@@ -1,7 +1,8 @@
 ---
-title: 'Freire'
+title: Freire
 taxonomy:
-    category: docs
+    category:
+        - docs
     tags:
         - 'open education'
         - oppression
