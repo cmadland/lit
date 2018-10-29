@@ -7,3 +7,5 @@ taxonomy:
 ### Paulo
 
 # Freire
+
+1921-1997
