@@ -54,8 +54,14 @@ Freire returns to this idea over and over again in the chapter. It seems almost 
 > A real humanist can be identified more by his trust in the people, which engages him in their struggle, than by a thousand actions in their favour without that trust. (p. 60)
 
 
-> A revolutionary leadership must accordingly practice *co-intentional* education. Teachers and students (leadership and people), co-intent on reality, are both Subjects, not only in the task of unveiling that reality, and thereby coming to know it critically, but in the task of recreating that knowledge. As they attain this knowledge of reality through common reflection and action, they discover themeselves as its permanent re-creators. In this was, the presence of the oppressed in the struggle for their liberation will be what it should be: not pseudo-participation, but committed involvement. (p. 69)
+> A revolutionary leadership must accordingly practice *co-intentional* education. Teachers and students (leadership and people), co-intent on reality, are both Subjects, not only in the task of unveiling that reality, and thereby coming to know it critically, but in the task of recreating that knowledge. As they attain this knowledge of reality through common reflection and action, they discover themselves as its permanent re-creators. In this was, the presence of the oppressed in the struggle for their liberation will be what it should be: not pseudo-participation, but committed involvement. (p. 69)
 
 #### Thoughts
 
-Well, I initially started out underlining things in the book, but there were some pages where it would have been easier to only underline the less-important parts.
+Well, I initially started out underlining things in the book, but there were some pages where it would have been easier to only underline the less-important parts. There is a tremendous amount to be gathered from Freire's work that is directly related to the current state of affairs in Canada's relationship to Indigenous people.
+
+##### Hegel
+
+Hegel's Master-Slave Dialectic (MSD) seems evident throughout this chapter in the relationship between oppressor and oppressed. The oppressor and oppressed can't exist without the other, and it is only through liberation that the oppressor can begin to see a subject ego in the oppressed. The problem that Freire identifies is that the subject ego of the oppressed *is the subject ego of the oppressor*. The oppressed want to be liberated so that they can then become the oppressors.
+
+In the MSD, it is seemingly only the object-ego (slave) who is dehumanized. Freire, however argues, rightly, I think, that oppression dehumanizes the oppressor as well as the oppressed. Further, Freire argues that liberation of the oppressed must happen *with* and not *for* the oppressed, and I'm not sure this distinction is made in the MSD.
