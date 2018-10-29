@@ -12,7 +12,7 @@ taxonomy:
 process:
     markdown: true
     twig: true
-visible: false
+visible: true
 ---
 
 !!! Freire, P. (2018). *Pedagogy of the Oppressed: 50th Anniversary Edition.* Bloomsbury Academic.
