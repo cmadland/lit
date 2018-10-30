@@ -89,4 +89,6 @@ I deeply appreciate Bellous' view expressed in this article. I look back with re
 The problem, though, with raising children empowered to resist is that they tend to grow up and make their own decisions, and if you have spent their entire lives teaching them to exercise their voice, you can't really go back on that when the start using their voice in a way that you think is not ideal. 
 
 
-#### Conclusion
+#### Voice
+
+Voice is the idea that schools ought to be open to having meaningful contributions from students. Why do we assume what students know and ought to know and want to know in our syllabi? Who creates outcomes?
