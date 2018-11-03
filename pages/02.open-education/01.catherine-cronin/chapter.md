@@ -2,7 +2,7 @@
 title: 'Catherine Cronin'
 taxonomy:
     category:
-        - chapter
+        - docs
 ---
 ### Catherine
 
