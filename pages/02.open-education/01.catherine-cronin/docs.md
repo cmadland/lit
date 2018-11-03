@@ -5,8 +5,6 @@ taxonomy:
         - docs
 ---
 
-### Catherine
 
-# Cronin
 
 National University of Ireland, Galway (Ireland)
