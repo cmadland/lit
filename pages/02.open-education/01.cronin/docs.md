@@ -17,7 +17,7 @@ process:
 visible: true
 ---
 
-!!! Cronin, C., & MacLaren, I. (2018). Conceptualising OEP: A review of theoretical and empirical literature in Open Educational Practices. Open Praxis, 10(2), 127–143. https://doi.org/10.5944/openpraxis.10.2.825
+!!! Cronin, C., & MacLaren, I. (2018). Conceptualising OEP: A review of theoretical and empirical literature in Open Educational Practices. Open Praxis, 10(2), 127–143.
 
 ### Abstract
 
