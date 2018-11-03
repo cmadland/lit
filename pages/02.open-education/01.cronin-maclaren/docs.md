@@ -1,7 +1,8 @@
 ---
 title: 'Cronin & MacLaren, 2018'
 taxonomy:
-    category: docs
+    category:
+        - docs
     tags:
         - 'open education'
         - 'open education practices'
