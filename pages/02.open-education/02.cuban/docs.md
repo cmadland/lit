@@ -38,7 +38,7 @@ Where on this spectrum does the idea of the “open classroom” lie? At first g
 
 > In both Britain and the United States, open classrooms contained no whole-class lessons, no standardized tests, and no detailed curriculum. The best of the open classrooms had planned settings where children came in contact with things, books, and one another at “interest centers” and learned at their own pace with the help of the teacher. Teachers structured the classroom and activities for individual students and small work groups. They helped students negotiate each of the reading, math, science, art, and other interest centers on the principle that children learn best when they are interested and see the importance of what they are doing. (para. 6)
 
-> In his 1973 book The Open Classroom Reader, Charles Silberman warned enthusiastic teachers and parents:
+> In his 1973 book *The Open Classroom Reader*, Charles Silberman warned enthusiastic teachers and parents:
 
 >> By itself, dividing a classroom into interest areas does not constitute open education; creating large open spaces does not constitute open education; individualizing instruction does not constitute open education. . . . For the open classroom . . . is not a model or set of techniques, it is an approach to teaching and learning.
 
