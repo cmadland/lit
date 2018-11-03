@@ -46,31 +46,30 @@ Conceptualisations of open educational practices (OEP) vary widely, ranging from
 
 > Early in the project, Conole and Ehlers (2010, p. 2) defined OEP as: “a set of activities and support around the creation, use and repurposing of open educational resources (OERs)”. Their conclusions proposed a somewhat broader definition of OEP, though still focused on OER: “the use of OER with the aim to improve quality of educational processes and innovate educational environments” (Conole & Ehlers, 2010, p. 3). In the final OPAL report, OEP was defined even more broadly (Andrade et al., 2011):
 
-    OEP are defined as practices which support the (re)use and production of OER through institutional policies, promote innovative pedagogical models, and respect and empower learners as co-producers on their lifelong learning path (p. 12).
+>> OEP are defined as practices which support the (re)use and production of OER through institutional policies, promote innovative pedagogical models, and respect and empower learners as co-producers on their lifelong learning path (p. 12).
 
 > OEP essentially represent collaborative practice in which resources are shared by making them openly available, and pedagogical practices are employed which rely on social interaction, knowledge creation, peer-learning, and shared learning practices (Ehlers, 2011a, p. 6).
 
 #### UKOER programme
 
 > Beetham et al. (2012) analysed the UKOER project outcomes and formulated an expansive definition of OEP encompassing six distinct practices:
-
-    - OER production, management, use and reuse
-    - Open/public pedagogies
-    - Open learning (including peer-to-peer learning and open accreditation)
-    - Open scholarship (including open research, open data and open access publication)
-    - Open sharing of teaching ideas
-    - Use of open technologies (including social media and digital open tools)
+>>  - OER production, management, use and reuse
+>>  - Open/public pedagogies
+>>  - Open learning (including peer-to-peer learning and open accreditation)
+>>  - Open scholarship (including open research, open data and open access publication)
+>>  - Open sharing of teaching ideas
+>>  - Use of open technologies (including social media and digital open tools)
 
 > CILT (Centre for Innovation in Learning & Teaching), UCT
 
 > The revised framework has five attributes of openness within a larger ‘Open Education’ cycle:
 
-> - Technical (interoperability and open formats; connectivity; technical skills & equipment; availability and discoverability of resources)
-> - Legal (open license parameters; open license knowledge and advice)
-> - Cultural (conceptions of knowledge as given or constructed; curricula)
-> - Pedagogical (student demographics and types of engagement; pedagogic, learning & assessment strategies; accreditation/certification)
-> - Financial (costs ranging from free to fees; sustainable business models)
-> - The revised framework has five attributes of openness within a larger ‘Open Education’ cycle:
+> 1. Technical (interoperability and open formats; connectivity; technical skills & equipment; availability and discoverability of resources)
+> 2. Legal (open license parameters; open license knowledge and advice)
+> 3. Cultural (conceptions of knowledge as given or constructed; curricula)
+> 4. Pedagogical (student demographics and types of engagement; pedagogic, learning & assessment strategies; accreditation/certification)
+> 5. Financial (costs ranging from free to fees; sustainable business models)
+
 
 
 #### Evolving definitions of OEP
