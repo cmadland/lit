@@ -71,7 +71,14 @@ Conceptualisations of open educational practices (OEP) vary widely, ranging from
 > 4. Pedagogical (student demographics and types of engagement; pedagogic, learning & assessment strategies; accreditation/certification)
 > 5. Financial (costs ranging from free to fees; sustainable business models)
 
+*Table 1: Four key strands of OEP research cited in the literature* 	
 
+|  |OLCOS project| 	OPAL initiative |	UKOER programme |	CILT research|
+|:---:|:---:|:---:|:---:|:---:|
+|Year |	2006-07 |	2010-11 |	2009-12 |	2009-present|
+|Scope |	Europe |	Europe |	UK |	Africa/Global South|
+|Publications |	Geser (2007a, 2007b), Schaffert (2008), Schaffert & Geser, (2008) |	Andrade et al. (2011), Camilleri & Ehlers (2011), Conole (2011), Conole & Ehlers (2010), Ehlers (2011a, 2011b) |	Beetham et al. (2012), McGill et al. (2013) |	Hodgkinson-Williams & Gray (2009), Hodgkinson-Williams (2010); Hodgkinson-Williams (2014), Czerniewicz et al. (2017a, 2017b)|
+|Definition of OEP |	“practices that involve students in active, constructive engagement with content, tools and services in the learning process, and promote learners’ self-management, creativity and working in teams” (Geser, 2007a) |	“practices which support the (re)use and production of OER through institutional policies, promote innovative pedagogical models, and respect and empower learners as co-producers on their lifelong learning path” (Andrade et al., 2011) |	6 practices: OER production, management, use and reuse; open/public pedagogies; open learning; open scholarship; open sharing of teaching ideas; use of open technologies” (Beetham et al., 2012) |	5 dimensions of openness: technical, legal, cultural, pedagogical, financial (Hodgkinson-Williams, 2014)|
 
 #### Evolving definitions of OEP
 
