@@ -1,7 +1,8 @@
 ---
-title: 'Barmona & Gleason, 2003'
+title: 'Barman & Gleason, 2003'
 taxonomy:
-    category: docs
+    category:
+        - docs
     tags:
         - education
         - resist
@@ -18,7 +19,7 @@ published: false
 !!! Barman, J., & Gleason, M. (2003). Children, teachers and schools in the history of British Columbia. Calgary: Detselig Enterprises.
 
 
-
+===
 
 ### Abstract
 NA
