@@ -61,7 +61,7 @@ Conceptualisations of open educational practices (OEP) vary widely, ranging from
 >>  - Open sharing of teaching ideas
 >>  - Use of open technologies (including social media and digital open tools)
 
-> CILT (Centre for Innovation in Learning & Teaching), UCT
+#### CILT (Centre for Innovation in Learning & Teaching), UCT
 
 > The revised framework has five attributes of openness within a larger ‘Open Education’ cycle:
 
