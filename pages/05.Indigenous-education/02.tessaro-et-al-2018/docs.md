@@ -88,7 +88,43 @@ Indigenous education; Aboriginal education; online education; First Nations scho
 
 | Indigenous education | Online Education |
 | :--- | :---|
-| community, place, context   |   |
-| customized around awareness of learner   |   |
-| holistic engagement (emotional, intellectual, spiritual, physical)   |   |
-| The relationship a learner has to the teacher, community, and place where the learning occurs is of such great importance in Indigenous education that the community and environment tend to be synonymous with the sources and content of learning. (p. 130-131)  |   |
+| community, place, context | not situated, meant to be accessed beyond confines of one place  |
+| customized around awareness of learner|  teachers and learners may never meet each other f2f |
+| holistic engagement (emotional, intellectual, spiritual, physical) | low context, easy access and interaction |
+| The relationship a learner has to the teacher, community, and place where the learning occurs is of such great importance in Indigenous education that the community and environment tend to be synonymous with the sources and content of learning. (p. 130-131)  |  community is a virtual construct, all communication mediated |
+
+### The Five Rs
+
+> By applying each R to the course design, structure, and delivery, it was found that the challenges of bridging Indigenous and online education could be effectively mitigated and these could act instead as opportunities for new types of learning. (p. 132)
+
+- original 4Rs were a response to institutional approaches to indigenous university students that are likened to assimilation and require indigenous students to distance themselves from their culture and values
+- 4Rs required institutions to adapt to First nations students, Indigenous knowledge and Learning
+- opposition to 2Ps of "power and profit"
+
+### Respect
+
+- recognize and respect first nations cultural norms and values
+  - indigenous worldviews are holistic
+    - hierarchies and separation between beings is not inherent
+    - attitudes about nature, community and education
+  - universities are bureaucratic, highly-structured, and hierarchical
+- Incorporated participant feedback
+
+### Reciprocity
+
+- emphasis is result of decades of exploitation
+  - one-sided projects that ignore needs of the community
+- research must be mutually beneficial
+- student voices should be actively listened to and their needs and goals accommodated
+- not transmission model, but 'horizontal sharing'
+
+### Relevance
+
+- learning should be relevant to First Nations culture and ways of knowing...beyond books
+- use of video for oral communication
+- tasks included hands-on activities in the community
+
+### Responsibility
+
+
+### Relationships
