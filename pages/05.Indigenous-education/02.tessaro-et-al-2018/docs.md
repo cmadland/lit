@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-!!! Tessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course. Canadian Journal of Native Education, 40(1), 125–143. [PDF available](https://www.researchgate.net/publication/328289320_The_Five_R%27s_for_Indigenizing_Online_Learning_A_Case_Study_of_the_First_Nations_Schools%27_Principals_Course)
+!!! Tessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course. *Canadian Journal of Native Education, 40*(1), 125–143. [PDF available](https://www.researchgate.net/publication/328289320_The_Five_R%27s_for_Indigenizing_Online_Learning_A_Case_Study_of_the_First_Nations_Schools%27_Principals_Course)
 
 ===
 
