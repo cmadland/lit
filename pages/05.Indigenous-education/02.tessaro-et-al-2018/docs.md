@@ -123,6 +123,24 @@ Indigenous education; Aboriginal education; online education; First Nations scho
 - tasks included hands-on activities in the community
 
 ### Responsibility
+> In Indigenous education, both the teacher and learner have a responsibility to recognize and uphold First Nations values, practices, and ways of knowing (Kirkness & Barnhardt, 2001). Further, personal responsibilities and relationships, such as to family members, work, or community, are acknowledged for their role in the functioning of society and the shaping of daily experiences. (p. 138)
+
+- assignments and tasks completed w/i local communities and schools
+- flexibility of access allowed participants to maintain work and home responsibilities
+- also institutional responsibility of FNSPC towards bureaucratic structures of the university
+  - these underlying responsibilities prevent a totally decolonized experience as the structures themselves are colonial
 
 
 ### Relationships
+
+> Relationships are the fifth R, as the other Four R’s of respect, reciprocity, relevance, and responsibility can only truly be realized through conscious tending and effort to relationships. Relationships between teacher and learner, and between community, culture, and school underlie all aspects
+of Indigenous education (Restoule, 2017). (p. 139)
+
+- direct communication can be too formal in online education and associated with assignments and course requirements this is a barrier for students
+- FNSPC provided a valuable support network for participants, some experiencing that support for the first time
+
+## Thoughts
+
+These principles of Indigenous education (respect, reciprocity, relevance, responsibility, and relationships) seem to me to be directly parallel to the historical aims of open education. Paquette's three dyads, "autonomy and interdependence; freedom and responsibility; democracy and participation" (2005, *trans.*) are particularly salient with multiple points of connection between the two models. Paquette's phrasing as three opposing dyads captures the inherent conflict between Indigenous ways of knowing and learning and online education.
+
+If open education is fundamentally concerned with increasing access to educational opportunities and improving the pedagogical effectiveness of those opportunities, then these 5Rs, as opposed to the 5R permissions enabled by open licenses (the right to reuse, revise, remix, redistribute, and retain learning materials), seem to me to be more foundational to open education than open licenses. Through the Indigenous 5Rs (i5Rs?) educators can ensure that all students have greater access to education and that the opportunities presented to them are of high quality.
