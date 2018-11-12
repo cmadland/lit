@@ -36,3 +36,9 @@ openness, information technology, transparency, access, participation, democracy
 Editorial
 
 ### Key Quotes
+
+![](framework-for-openness.gif) (Figure 1, p. 299)
+
+> The principles typically used to characterise this higher-order concept are: access to information and other resources; participation in an inclusive and often collaborative manner; transparency of resources and actions; and democracy or “democratization” such as the breaking up of exclusionary structures. The opposite of openness is closedness which is characterised by secrecy, exclusivity and “proprietary ownership”. This conceptualisation of “openness” is, of course, a Weberian “ideal type” (Weber, 1904), an archetypical and stylised conceptualisation of a particular idea. (p. 300)
+
+> For example, open education refers to a commitment to a long-standing ideal of removing barriers to education. Openness here implies particular social and political values oriented towards democracy, equality and liberalism (see Peters and Britez, 2008, particularly chapters 1 and 2). This meaning of openness is in line with Popper’s notion of an “open society” (Popper, 1945). (p. 300)
