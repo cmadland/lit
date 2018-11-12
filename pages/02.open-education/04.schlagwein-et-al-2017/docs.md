@@ -42,3 +42,33 @@ Editorial
 > The principles typically used to characterise this higher-order concept are: access to information and other resources; participation in an inclusive and often collaborative manner; transparency of resources and actions; and democracy or “democratization” such as the breaking up of exclusionary structures. The opposite of openness is closedness which is characterised by secrecy, exclusivity and “proprietary ownership”. This conceptualisation of “openness” is, of course, a Weberian “ideal type” (Weber, 1904), an archetypical and stylised conceptualisation of a particular idea. (p. 300)
 
 > For example, open education refers to a commitment to a long-standing ideal of removing barriers to education. Openness here implies particular social and political values oriented towards democracy, equality and liberalism (see Peters and Britez, 2008, particularly chapters 1 and 2). This meaning of openness is in line with Popper’s notion of an “open society” (Popper, 1945). (p. 300)
+
+### FLOSS vs OSS
+
+##### FLOSS
+
+- early software code in the 1950s was often shared freely among researchers and academics
+- as a result of compilers making deconstructing executable code very difficult, proprietary software development expanded between the  60's and 80's (Microsoft, etc)
+- FLOSS (Free/Libre Open Source Software) is a reaction to proprietary software
+  - an ideological view that software ought to be free and that proprietary software is immoral
+  - ex. Linux OS as replacement for Windows
+- led to process where source code was developed by a voluntary community, based on publicly available code
+
+##### OSS
+
+- shares open development model with FLOSS (accessible code, participatory development)
+- OSS allows for commercial uses
+
+### Access and Participation
+
+- open source software development (OSSD) works only because of networked technologies that allow
+  - easy and efficient access
+  - tracking and version control
+- when many people have access and contributions can be tracked (transparency) and organized, "transaction costs" are substantially reduced
+
+### IT is Malleable and Generative
+
+- IT is highly malleable, so allows for novel applications
+- IT is also generative as its development lead to further development
+
+Combining low transaction costs with high malleability allows openness to be enacted in OSSD.
