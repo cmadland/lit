@@ -21,6 +21,8 @@ visible: false
 
 ### Abstract
 
+> This article reviews the discourse of mission in large distance teaching and open universities, in order to analyse the theories of development and social justice that are claimed or may be inherent in them. It is suggested that in a number of cases the claims are unsupported or naive. The article goes on to set out the nature of Amartya Sen’s capability approach for development, and to identify its potential for reviewing distance and e-learning more widely as a contributor to development and social justice.
+
 ### Key Ideas
 
 > In brief, development activity should seek to support capabilities in people ‘to be and to do’. The approach has an existential commitment to human freedom to choose those capabilities, constrained as those freedoms may be by context.
