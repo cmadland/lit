@@ -1,5 +1,5 @@
 ---
-title: 'Selwyn, 2017'
+title: 'Selwyn, 2016'
 taxonomy:
     category: docs
     tags:
@@ -40,17 +40,17 @@ Editorial
 
 > One useful route into developing a critical take on the language of educational technology is Frankfurt’s (2005) philosophical treatise ‘On Bullshit’. Just as Frankfurt contends, the language that pervades education and technology does not set out deliberately to lie or hide the truth per se. Yet, it could be said to conform to Frankfurt’s description of language that is excessive, phony and generally ‘repeat[ed] quite mindlessly and without any regard for how things really are’ (p.30). Seen in these terms, then, much of what is said about education and technology can be classified fairly as bullshit. (p. 439)
 
-> the past 100 years show that education has been largely un-transformed and un-disrupted by successive waves of techno- logical innovation. (p. 439)
+> the past 100 years show that education has been largely un-transformed and un-disrupted by successive waves of techno-logical innovation. (p. 439)
 
-> Many dis- cussions of education and technology are therefore the result of people talking loudly, confidently and with sincerity regardless of accuracy, nuance and/or sensitivity to the realities of which they speak. (p. 440)
+> Many discussions of education and technology are therefore the result of people talking loudly, confidently and with sincerity regardless of accuracy, nuance and/or sensitivity to the realities of which they speak. (p. 440)
 
-> For example, it is surely not satis- factory that the dominant framing of education and technology blithely margin- alizes, ignores and/or denies the complex and compounded inequalities of the digital age. (p. 440)
+> For example, it is surely not satisfactory that the dominant framing of education and technology blithely marginalizes, ignores and/or denies the complex and compounded inequalities of the digital age. (p. 440)
 
 > Indeed, the ways that digital technology is talked about within educational circles certainly extenuate superficial, ephemeral and often banal aspects of the topic at the expense of any sustained engagement with its messy politics. This is also language that routinely normalizes matters of oppression, inequality and injustice. There is little – if any – acknowledgement of differences of class, race, gender, disability or other social ascription. (p. 441)
 
-> Instead, we find ourselves caught in a situation where the dominant discourses of education and technol- ogy work primarily to silence dissent and reduce most people to shutting-up and putting-up. (p. 441)
+> Instead, we find ourselves caught in a situation where the dominant discourses of education and technology work primarily to silence dissent and reduce most people to shutting-up and putting-up. (p. 441)
 
-> Fighting back against the paucity of educational technology debate and dis- cussion is not an easy task. An obvious first step would be the sustained pro- motion of alternate language for educational technology – encouraging a counter-lexicon that reflects more accurately the conflicts, compromises and exclusions at play. (p. 441)
+> Fighting back against the paucity of educational technology debate and discussion is not an easy task. An obvious first step would be the sustained promotion of alternate language for educational technology – encouraging a counter-lexicon that reflects more accurately the conflicts, compromises and exclusions at play. (p. 441)
 > - teaching management systems
 > - instructional organization systems
 > - work groups
