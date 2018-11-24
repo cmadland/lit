@@ -1,7 +1,9 @@
 ---
 title: 'Funk, Guthadjaka, and Kong 2015'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 !!! Funk, J., Guthadjaka, K., & Kong, G. (2015). Posting Traditional Ecological Knowledge on Open Access Biodiversity Platforms: Implications for Learning Design. *The Australian Journal of Indigenous Education, 44*(2), 150–162. https://doi.org/10.1017/jie.2015.25
