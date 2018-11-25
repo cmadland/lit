@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-# Pulling Together
+## Pulling Together
 
 ### A Guide for Curriculum Developers
 
