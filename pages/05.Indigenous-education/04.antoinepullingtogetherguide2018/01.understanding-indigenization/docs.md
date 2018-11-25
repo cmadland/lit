@@ -96,8 +96,8 @@ See my previous answer.
 - not picking bits and pieces of Indigenous knowledge to include in western conceptions to make it more palatable
 
 
-!! See also: Bartlett, C., Marshall, M., & Marshall, A. (2012). Two-Eyed Seeing and other lessons learned within a co-learning journey of bringing together indigenous and mainstream knowledges and ways of knowing. *Journal of Environmental Studies and Sciences, 2*(4), 331–340. https://doi.org/10.1007/s13412-012-0086-8
+!!!! See also: Bartlett, C., Marshall, M., & Marshall, A. (2012). Two-Eyed Seeing and other lessons learned within a co-learning journey of bringing together indigenous and mainstream knowledges and ways of knowing. *Journal of Environmental Studies and Sciences, 2*(4), 331–340. https://doi.org/10.1007/s13412-012-0086-8
 
 ### [Pathways toward Reconciliation](https://opentextbc.ca/indigenizationcurriculumdevelopers/chapter/pathways-toward-reconciliation/)
 
-!! Reconciliation is an ongoing process of establishing and maintaining respectful relationships. A critical part of this process involves repairing damaged trust by making apologies, providing individual and collective reparations, and following through with concrete actions that demonstrate real societal change.  ~ Truth and Reconciliation Commission, Summary of the Final Report, 2015
+!!! Reconciliation is an ongoing process of establishing and maintaining respectful relationships. A critical part of this process involves repairing damaged trust by making apologies, providing individual and collective reparations, and following through with concrete actions that demonstrate real societal change.  ~ Truth and Reconciliation Commission, Summary of the Final Report, 2015
