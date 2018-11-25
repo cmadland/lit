@@ -47,7 +47,7 @@ See my previous answer.
 ##### Reconciliation
 > Reconciliation is about addressing past wrongs done to Indigenous Peoples, making amends, and improving relationships between Indigenous and non-Indigenous people to create a better future for all. Chief Justice Murray Sinclair, chair of the Truth and Reconciliation Commission, has stated,
 
-! “Reconcilliation is not an Aboriginal problem – it involves all of us”
+!!! “Reconcilliation is not an Aboriginal problem – it involves all of us”
 
 - restoring damaged relationships
   - apologizing
@@ -56,7 +56,7 @@ See my previous answer.
   - concrete actions
 - not only between individuals, but groups and over hundreds of years
 
-! "Clearly, the onus for this action is on the party that perpetrated the harm, which in this case is settler society."
+!!! "Clearly, the onus for this action is on the party that perpetrated the harm, which in this case is settler society."
 
 ### [The need to Indigenize](https://opentextbc.ca/indigenizationcurriculumdevelopers/chapter/the-need-to-indigenize/)
 
