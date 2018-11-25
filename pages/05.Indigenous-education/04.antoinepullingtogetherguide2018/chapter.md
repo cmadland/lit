@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### Pulling Together
+# Pulling Together
 
-# A Guide for Curriculum Developers
+### A Guide for Curriculum Developers
 
 Asma-na-hi Antoine, Rachel Mason, Roberta Mason, Sophia Palahicky, and Carmen Rodriguez de France
