@@ -24,7 +24,7 @@ I feel compelled to work towards reconciliation with Indigenous Peoples and to u
 
 See my previous answer.
 
-### Indigenization, Decolonization, and Reconciliation [Link](https://opentextbc.ca/indigenizationcurriculumdevelopers/chapter/indigenization-decolonization-and-reconciliation/)
+### [Indigenization, Decolonization, and Reconciliation](https://opentextbc.ca/indigenizationcurriculumdevelopers/chapter/indigenization-decolonization-and-reconciliation/)
 
 ##### Indigenization
 > a process of naturalizing Indigenous knowledge systems and making them evident to transform spaces, places, and hearts. In the context of post-secondary education, this involves bringing Indigenous knowledge and approaches together with Western knowledge systems. This benefits not only Indigenous students but all students, teachers, and community members involved or impacted by Indigenization. [LINK](https://opentextbc.ca/indigenizationcurriculumdevelopers/chapter/indigenization-decolonization-and-reconciliation/)
@@ -58,7 +58,7 @@ See my previous answer.
 
 ! "Clearly, the onus for this action is on the party that perpetrated the harm, which in this case is settler society."
 
-### The need to Indigenize [Link](https://opentextbc.ca/indigenizationcurriculumdevelopers/chapter/the-need-to-indigenize/)
+### [The need to Indigenize](https://opentextbc.ca/indigenizationcurriculumdevelopers/chapter/the-need-to-indigenize/)
 
 ##### Exclusion and misrepresentation of Indigenous Peoples
 
@@ -81,7 +81,7 @@ See my previous answer.
 - complementary knowledge systems, not opposing binary
   - different systems fill in gaps for each other
 
-###### Two-eyed seeing/*Etuaptmumk* [Marshall, 2017 (PDF)](http://www.integrativescience.ca/uploads/files/Two-Eyed%20Seeing-AMarshall-Thinkers%20Lodge2017(1).pdf)
+###### [Two-eyed seeing/*Etuaptmumk*](http://www.integrativescience.ca/uploads/files/Two-Eyed%20Seeing-AMarshall-Thinkers%20Lodge2017(1).pdf)
 > the realization that beneficial outcomes are much more likely in any given situation if we are willing to bring two or more perspectives into play
 
 - gift of multiple perspectives
@@ -97,3 +97,7 @@ See my previous answer.
 
 
 !! See also: Bartlett, C., Marshall, M., & Marshall, A. (2012). Two-Eyed Seeing and other lessons learned within a co-learning journey of bringing together indigenous and mainstream knowledges and ways of knowing. *Journal of Environmental Studies and Sciences, 2*(4), 331–340. https://doi.org/10.1007/s13412-012-0086-8
+
+### [Pathways toward Reconciliation](https://opentextbc.ca/indigenizationcurriculumdevelopers/chapter/pathways-toward-reconciliation/)
+
+!! Reconciliation is an ongoing process of establishing and maintaining respectful relationships. A critical part of this process involves repairing damaged trust by making apologies, providing individual and collective reparations, and following through with concrete actions that demonstrate real societal change.  ~ Truth and Reconciliation Commission, Summary of the Final Report, 2015
