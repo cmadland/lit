@@ -108,6 +108,7 @@ See my previous answer.
 #### [Excerpts from Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada](http://nctr.ca/assets/reports/Final%20Reports/Executive_Summary_English_Web.pdf)
 
 > Reconciliation must support Aboriginal peoples as they heal from the destructive legacies of colonization that have wreaked such havoc in their lives. But it must do even more. Reconciliation must inspire Aboriginal and non-Aboriginal peoples to transform Canadian society so that our children and grandchildren can live together in dignity, peace, and prosperity on these lands we now share. (8)
+
 > At the Victoria Regional Event in 2012, Survivor Archie Little said,
 
 !!!! [For] me reconciliation is righting a wrong. And how do we do that? All these people in this room, a lot of non-Aboriginals, a lot of Aboriginals that probably didn’t go to residential school; we need to work together…. My mother had a high standing in our cultural ways. We lost that. It was taken away…. And I think it’s time for you non-Aboriginals … to go to your politicians and tell them that we have to take responsibility for what happened. We have to work together. (9)
