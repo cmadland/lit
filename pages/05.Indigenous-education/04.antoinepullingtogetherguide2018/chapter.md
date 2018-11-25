@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### Pulling Together
 
-# Chapter Title
+# A Guide for Curriculum Developers
 
-Chapter description.
+Asma-na-hi Antoine, Rachel Mason, Roberta Mason, Sophia Palahicky, and Carmen Rodriguez de France
