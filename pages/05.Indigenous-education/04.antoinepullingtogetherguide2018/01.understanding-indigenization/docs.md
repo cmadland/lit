@@ -101,3 +101,17 @@ See my previous answer.
 ### [Pathways toward Reconciliation](https://opentextbc.ca/indigenizationcurriculumdevelopers/chapter/pathways-toward-reconciliation/)
 
 !!! Reconciliation is an ongoing process of establishing and maintaining respectful relationships. A critical part of this process involves repairing damaged trust by making apologies, providing individual and collective reparations, and following through with concrete actions that demonstrate real societal change.  ~ Truth and Reconciliation Commission, Summary of the Final Report, 2015
+
+> In the context of reconciliation, Indigenization is one way in which we can contribute to working toward a stronger shared future as Indigenous and non-Indigenous people.
+> The report with its 94 Calls to Action emphasizes the need for education to play a key role in service of justice and resurgence of Indigenous Peoples by calling on Canada to provide “the necessary funding to post-secondary institutions to educate teachers on how to integrate Indigenous knowledge and teaching methods into classrooms” (TRC, 2015, p. 238).
+
+#### [Excerpts from Honouring the Truth, Reconciling for the Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada](http://nctr.ca/assets/reports/Final%20Reports/Executive_Summary_English_Web.pdf)
+
+> Reconciliation must support Aboriginal peoples as they heal from the destructive legacies of colonization that have wreaked such havoc in their lives. But it must do even more. Reconciliation must inspire Aboriginal and non-Aboriginal peoples to transform Canadian society so that our children and grandchildren can live together in dignity, peace, and prosperity on these lands we now share. (8)
+> At the Victoria Regional Event in 2012, Survivor Archie Little said,
+
+!!!! [For] me reconciliation is righting a wrong. And how do we do that? All these people in this room, a lot of non-Aboriginals, a lot of Aboriginals that probably didn’t go to residential school; we need to work together…. My mother had a high standing in our cultural ways. We lost that. It was taken away…. And I think it’s time for you non-Aboriginals … to go to your politicians and tell them that we have to take responsibility for what happened. We have to work together. (9)
+
+> The Reverend Stan McKay of the United Church, who is also a Survivor, believes that reconciliation can happen only when everyone accepts responsibility for healing in ways that foster respect. He said,
+
+!!!! [There must be] a change in perspective about the way in which Aboriginal peoples would be engaged with Canadian society in the quest for reconciliation…. [We cannot] perpetuate the paternalistic concept that only Aboriginal peoples are in need of healing…. The perpetrators are wounded and marked by history in ways that are different from the victims, but both groups require healing…. How can a conversation about reconciliation take place if all involved do not adopt an attitude of humility and respect? … We all have stories to tell and in order to grow in tolerance and understanding we must listen to the stories of others. (9)
