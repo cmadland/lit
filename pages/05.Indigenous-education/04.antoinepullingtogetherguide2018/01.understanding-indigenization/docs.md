@@ -83,3 +83,17 @@ See my previous answer.
 
 ###### Two-eyed seeing/*Etuaptmumk* [Marshall, 2017 (PDF)](http://www.integrativescience.ca/uploads/files/Two-Eyed%20Seeing-AMarshall-Thinkers%20Lodge2017(1).pdf)
 > the realization that beneficial outcomes are much more likely in any given situation if we are willing to bring two or more perspectives into play
+
+- gift of multiple perspectives
+
+> learn to see from your one eye with the best or the strengths in the Indigenous knowledges and ways of knowing ... and learn to see from your other eye with the best or the strengths in the mainstream (Western or Eurocentric) knowledges and ways of knowing ... but most importantly, learn to see with both these eyes together, for the benefit of all
+
+- co-learning is essential in the process
+- "weaving back and forth between knowledges"
+
+> Elder Albert recommends the approach be pictured in the following way: “Sometimes it’s like a heavy sledge that we are trying to move – this sledge represents our passions for ensuring the ecological integrity of Mawisikamukawey (the nurturing wholeness of the earth), the well-being of our communities, and the transmission of our Mi’kmaq culture (and/or other Indigenous cultures) and knowledge(s). We, the Elders, are dragging that sledge with all our might, and we need others to help us by pushing as hard as you can on the rear of the sledge. But, it is we, the Elders, who will determine where it goes. Other times that heavy sledge represents a passion we Elders hold that the Western sciences can help address. Then we, the Elders, will help you Western scientists with that sledge ... you drag, we push ... while we all also constantly exchange understandings about where it is going ... and learn to abide by i’l’oqaptmu’k meaning “to revisit to renew, to maintain movement in the direction Spirit intended”. Indeed, Elder Albert says, the capacity to abide by i’l’oqaptmu’k is the essence of co-learning and essential to Two-Eyed Seeing. Other essentials are knowledge scrutinization or inquiry (to learn to be able to see in genuine and meaningful ways the best, the strengths, within our different knowledges); knowledge validation (by peers, to ensure authenticity, accuracy, and sacredness), and knowledge gardening (to learn to walk our talk, together, within grounded projects that have meaningful community relevance).
+
+- not picking bits and pieces of Indigenous knowledge to include in western conceptions to make it more palatable
+
+
+!! See also: Bartlett, C., Marshall, M., & Marshall, A. (2012). Two-Eyed Seeing and other lessons learned within a co-learning journey of bringing together indigenous and mainstream knowledges and ways of knowing. *Journal of Environmental Studies and Sciences, 2*(4), 331–340. https://doi.org/10.1007/s13412-012-0086-8
