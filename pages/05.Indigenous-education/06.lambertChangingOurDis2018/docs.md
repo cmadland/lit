@@ -74,7 +74,7 @@ It is notable that a class of learners of colour could take advantage of the ope
 > Watters’ text provides a powerful rejoinder to the determinist discourse that had been building over previous phases and which assumes “openness” can and will do the work of social justice.
 > What Watters describes is the outcome of openness determinism:
 
-!!! What happens when something is “open" in all the ways that Open Education and open source and open data advocates would approve. All the right open licenses... All the right nods from all the right powerful players within “open.” And yet, the project is still not equitable. What if, in fact, it’s making it worse? What are we going to do when we recognize that “open" is not enough? I hope, that we recognize that what we need is social justice. We need politics, not simply a license. We need politics, not simply technology solutions. We need an ethics of care, of justice, not simply assume that “open” does the work of those for us (Watters, 2014).
+!!!! What happens when something is “open" in all the ways that Open Education and open source and open data advocates would approve. All the right open licenses... All the right nods from all the right powerful players within “open.” And yet, the project is still not equitable. What if, in fact, it’s making it worse? What are we going to do when we recognize that “open" is not enough? I hope, that we recognize that what we need is social justice. We need politics, not simply a license. We need politics, not simply technology solutions. We need an ethics of care, of justice, not simply assume that “open” does the work of those for us (Watters, 2014).
 
 ### Comparison with Recent Published Views
 
