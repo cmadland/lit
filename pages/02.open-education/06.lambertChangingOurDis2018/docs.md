@@ -1,7 +1,9 @@
 ---
 title: 'Lambert, 2018'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 !!! Lambert, S. R. (2018). Changing our (Dis)Course: A Distinctive Social Justice Aligned Definition of Open Education. *Journal of Learning for Development - JL4D, 5*(3). Retrieved from http://www.jl4d.org/index.php/ejl4d/article/view/290
