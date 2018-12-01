@@ -1,5 +1,5 @@
 ---
-title: Indigenous Education
+title: 'Indigenous Education'
 taxonomy:
     category: docs
 ---
