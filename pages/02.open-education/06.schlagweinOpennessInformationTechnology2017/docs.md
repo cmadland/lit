@@ -10,7 +10,7 @@ taxonomy:
         - 'Kieran Conboy'
         - 'Joseph Fuller'
         - 'Jan Marco Leimeister'
-        - Lorraine Morgan
+        - 'Lorraine Morgan'
 process:
     markdown: true
     twig: true
