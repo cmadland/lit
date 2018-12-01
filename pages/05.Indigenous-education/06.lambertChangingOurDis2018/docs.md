@@ -39,7 +39,7 @@ Example of an open textbook for learners of colour:
 
 It is notable that a class of learners of colour could take advantage of the open license and revise the book to become an example of both recognitive and representational justice.
 
-!! Most importantly, the example also shows that providing an open textbook to all learners, particularly if they are predominantly already educationally privileged, may not be social justice at all. Depending on the cohort and their needs, it may enable a range of outcomes for a range of learners. For elite cohorts, it may in fact give a further leg-up to those whom by circumstance typically have more. (p. 228)
+!!!! Most importantly, the example also shows that providing an open textbook to all learners, particularly if they are predominantly already educationally privileged, may not be social justice at all. Depending on the cohort and their needs, it may enable a range of outcomes for a range of learners. For elite cohorts, it may in fact give a further leg-up to those whom by circumstance typically have more. (p. 228)
 
 ### Problem of 'openness determinism'
 
