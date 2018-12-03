@@ -5,4 +5,5 @@ taxonomy:
 child_type: docs
 ---
 
-# Open Education
+### Open
+# Education
