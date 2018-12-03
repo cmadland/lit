@@ -6,7 +6,7 @@ taxonomy:
 
 ### Research in
 
-# Open Education Resources
+# OER
 ### for Development
 
 ROER4D
