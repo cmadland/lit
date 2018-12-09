@@ -1,5 +1,5 @@
 ---
-title: Markdown Overview
+title: Overview
 taxonomy:
     category: docs
 ---
