@@ -1,5 +1,5 @@
 ---
-title: Literature Reviews
+title: 'Literature Reviews'
 taxonomy:
     category: docs
 ---
@@ -44,3 +44,4 @@ It is a research journey with several steps:
     Writing an assessment of the literature
 
 The process is iterative—as you gain understanding, you’ll return to earlier steps to rethink, refine, and rework your literature review.
+[The Literature Review: A Research Journey](https://guides.library.harvard.edu/literaturereview)
