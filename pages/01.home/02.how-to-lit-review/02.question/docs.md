@@ -6,9 +6,6 @@ taxonomy:
 visible: true
 ---
 
-### Question
-
-
 #### Definition
 
 A research question defines the scope of an area of inquiry. It asks about the causal relationship between x and y.  It is founded on a deep understanding of works in the relevant area(s) of study and informed by both what is known and not yet known in that area.

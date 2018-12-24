@@ -5,8 +5,6 @@ taxonomy:
         - docs
 visible: true
 ---
-### Write
-
 
 #### Purpose
 
