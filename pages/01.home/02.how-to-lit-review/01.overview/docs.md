@@ -6,11 +6,11 @@ taxonomy:
 visible: true
 ---
 
-### Definition
+#### Definition
 
 A literature review is an assessment of a body of research that addresses a research question.
 
-### Purpose
+#### Purpose
 
 A literature review:
 - Identifies what is already known about an area of study
@@ -19,7 +19,7 @@ It may also:
 - Identify questions a body of research does not answer       
 - Make a case for why further study of research questions is important to a field
 
-### Process
+#### Process
 
 It is a research journey with several steps:
 - Framing a research question
@@ -111,6 +111,7 @@ A qualifying paper written as part of a doctoral program requires you to demonst
 ![](handoutofslides_definitionandpurpose6.jpg)
 
 [Student and Faculty Voices](https://guides.library.harvard.edu/c.php?g=310271&p=2071506#s-lg-box-9393036)
+
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Literature Review: A Research Journey</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://lit.madland.ca/home/how-to-lit-review" property="cc:attributionName" rel="cc:attributionURL">Colin Madland</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://guides.library.harvard.edu/literaturereview" rel="dct:source">https://guides.library.harvard.edu/literaturereview</a>.
