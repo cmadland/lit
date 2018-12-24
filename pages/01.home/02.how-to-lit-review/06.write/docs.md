@@ -66,6 +66,7 @@ Throughout the narrative, demonstrate your understanding of the theories and aut
 
 Your review of the literature identifies what is known and not known about your research question. Because your review offers an examination of past and current research, you may be able to offer implications for practice and for future research. Remember, a well-written review reflects your scholarly accomplishment.
 
+[Student and Faculty Voices](https://guides.library.harvard.edu/c.php?g=310271&p=2071510#s-lg-box-6323440)
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Literature Review: A Research Journey</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://lit.madland.ca/home/how-to-lit-review" property="cc:attributionName" rel="cc:attributionURL">Colin Madland</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://guides.library.harvard.edu/literaturereview" rel="dct:source">https://guides.library.harvard.edu/literaturereview</a>.
