@@ -24,7 +24,7 @@ Manage your research to prevent duplication of effort; retrieve what you need fr
 
 Remember: the literature review is an iterative process!
 
-! The following is a transcript of a video lecture available [here](http://gseacademic.harvard.edu/~instruct/gutman_library/litreview/manage/player.html)
+! The following is a transcript of a video lecture available [here](http://gseacademic.harvard.edu/~instruct/gutman_library/litreview/manage/player.html).
 
 
 On your research journey, you’ll accumulate a lot of information. Manage your research to prevent duplication of effort; retrieve what you need from what you’ve collected; facilitate synthesis and writing; and avoid inadvertent plagiarism.
@@ -75,7 +75,7 @@ Research management tools also allow you to keep track of what you have, what yo
 
 Now let’s talk about another part of managing your research that happens outside of research management tools. As you search for literature, you’re going to visit many databases. Develop a system for keeping track of where you’ve been and the search terms you’ve used. Take advantage of the personal accounts most databases offer to save your searches. Consider using a spreadsheet as a research log to track search terms and databases
 
-
+[Student and Faculty Voices](https://guides.library.harvard.edu/c.php?g=310271&p=2071509#s-lg-box-6323472)
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Literature Review: A Research Journey</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://lit.madland.ca/home/how-to-lit-review" property="cc:attributionName" rel="cc:attributionURL">Colin Madland</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://guides.library.harvard.edu/literaturereview" rel="dct:source">https://guides.library.harvard.edu/literaturereview</a>.
