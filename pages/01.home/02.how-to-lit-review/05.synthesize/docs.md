@@ -46,6 +46,7 @@ You should then identify how the literature - that is, the content in individual
 Then, when you write your literature review you will end up with a document that is organized by the concepts and relationships you found and developed based on your reading and thinking. Your review will not only cover what’s been published on your topic, but most importantly, will include your own conclusions about how the literature addresses your research question.
 
 [Student and Faculty Voices](https://guides.library.harvard.edu/c.php?g=310271&p=2071511#s-lg-box-6323792)
+
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Literature Review: A Research Journey</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://lit.madland.ca/home/how-to-lit-review" property="cc:attributionName" rel="cc:attributionURL">Colin Madland</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://guides.library.harvard.edu/literaturereview" rel="dct:source">https://guides.library.harvard.edu/literaturereview</a>.
