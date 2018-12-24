@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: License
 taxonomy:
     category:
         - docs
