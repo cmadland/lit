@@ -105,3 +105,5 @@ Here’s an example of a stand-alone literature review article, in this case, ab
 A qualifying paper written as part of a doctoral program requires you to demonstrate your ability to analyze literature critically. A review of the literature like the one shown here meets that requirement.
 
 ![](handoutofslides_definitionandpurpose6.jpg)
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Literature Review: A Research Journey</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://guides.library.harvard.edu/literaturereview" rel="dct:source">https://guides.library.harvard.edu/literaturereview</a>.
