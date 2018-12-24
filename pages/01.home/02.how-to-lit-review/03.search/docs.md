@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Search
 taxonomy:
     category:
         - docs
