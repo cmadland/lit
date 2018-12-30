@@ -1,5 +1,5 @@
 ---
-title: 'This is Why We Can't Have Nice Things'
+title: 'This is Why We Cant Have Nice Things'
 taxonomy:
     category: docs
 ---
@@ -20,3 +20,4 @@ It is at this point that trolls and trickster are most closely aligned. Much lik
 #### Chapter 4
 
 > ... the interplay between mainstream media outlets and the trolls who troll them highlights the striking overlap between trolls and their most vociferous opponents. ... trolls and sensationalist media outlets are in fact locked in a cybernetic feedback loop predicated on spectacle; each camp amplifies and builds upon the other's reactions, resulting in a relationship that can only be described as symbiotic. (p. 52)
+>
