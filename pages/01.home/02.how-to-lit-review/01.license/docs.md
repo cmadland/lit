@@ -1,5 +1,5 @@
 ---
-title: License
+title: Credits & License
 taxonomy:
     category:
         - docs
