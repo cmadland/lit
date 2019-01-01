@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! Phillips, W. (2015). *This is why we can’t have nice things: mapping the relationship between online trolling and mainstream culture.* Cambridge, Massachusetts: The MIT Press.
+!!! Phillips, W. (2015). *This is why we can’t have nice things: Mapping the relationship between online trolling and mainstream culture.* Cambridge, Massachusetts: The MIT Press.
 
 #### Chapter 3
 
