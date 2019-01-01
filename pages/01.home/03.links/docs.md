@@ -6,4 +6,6 @@ taxonomy:
 visible: true
 ---
 
-Your page content goes here.
+[Home](https://madland.ca)
+[Blog](https://grav.madland.ca)
+[Coding club @Edinburgh](https://ourcodingclub.github.io/)
