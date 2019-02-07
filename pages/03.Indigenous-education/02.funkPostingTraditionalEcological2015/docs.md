@@ -28,6 +28,11 @@ visible: true
 
 ### Literature Review
 
+> Freire (1970, p. 74) speaks of authentic education being a collaborative process carried out with the learner, and that ‘ . . . education is . . . the organised, systematised and developed representation to individuals of the things about which they want to know more’. He goes on to say that:
+>> ‘One cannot expect positive results from an education or
+political action program which fails to respect the particular
+view of the world held by people. Such a program constitutes cultural invasion, good intentions notwithstanding’ (p. 76).
+
 ##### Yolŋu and Warramirri Learning
 > Djurrwirr’s author, Guthadjaka (2010) speaks about the direction of learning in Yolŋu teaching and learning environments, and how learning on country embodies a strong connection to the place where the learning process happens. Without this, the knowledge gained has no grounding. Guthadjaka describes the learning that happens on country as similar to a joining of tributaries; that learning comes from a series of places and sources, as opposed to the one learning object, teacher, book or whiteboard. (p. 152)
 
@@ -36,6 +41,22 @@ visible: true
 
 ##### Distance Education
 >The theory of transactional distance (Moore, 1993) can also come to bear on this work, as distance education could be said to have informed open educational approaches. (p. 152)
+
+##### Audience and motivation
+
+>The variety of methods here are the use of more innovative,
+embedded layers of design that utilise the richness
+of technology; attempting to emulate on-country, outdoor
+and context-embedded learning as much as possible.
+These practices reinforce the contextual potential of
+using digital resources. It is not sufficient to merely use
+a digital resource and assume that the medium it is in
+will enhance educational outcomes. According toWallace
+(2011, p. 120): ‘Technologies cannot be used uncritically;
+rather they are used within social contexts. It is important
+to understand the relationship between social, cultural and
+physical contexts inwhich learners and (mobile) technologies
+operate’.
 
 ### The Cultural Interface and Learning Processes in New Regions
 >Nakata’s call for ‘a more sophisticated view of the tensions’ (Nakata, 2007, p. 12) in an effort to mediate the tendency to reduce our conceptualisation of diverse knowledge systems into dualisms can also be aligned with Christie and Verran’ s (2013) promotion of using digital practices to ‘see digital files not as containing knowledge (through the conventional practice of representation) but as artefacts as previous knowledge-making episodes that were being enlisted and configured for very lively conversations’ (Christie & Verran, 2013, p. 307). (p. 153)
