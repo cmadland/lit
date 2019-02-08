@@ -1,5 +1,5 @@
 ---
-title: Online Education
+title: 'Online Education'
 taxonomy:
     category: docs
 ---
