@@ -5,3 +5,4 @@ taxonomy:
         - docs
 visible: true
 ---
+## Discussion 3 - Full Group

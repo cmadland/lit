@@ -5,4 +5,4 @@ taxonomy:
         - docs
 visible: true
 ---
-## 
+## Discussion 2 - Mixed Groups
