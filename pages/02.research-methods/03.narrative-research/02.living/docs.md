@@ -1,5 +1,5 @@
 ---
-title: Activity
+title: Living
 taxonomy:
     category:
         - docs
