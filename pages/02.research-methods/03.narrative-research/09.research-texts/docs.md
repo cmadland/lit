@@ -6,4 +6,9 @@ taxonomy:
 visible: true
 ---
 
-##### field texts --> interim research texts --> final research texts
+#### Interim Research Texts
+- the task of 'data analysis' in NI results in an 'interim research text'
+- marked by tensions and uncertainties
+
+
+#### Final Research Texts
