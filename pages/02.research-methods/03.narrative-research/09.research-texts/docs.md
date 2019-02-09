@@ -1,8 +1,7 @@
 ---
-title: Research Puzzles
+title: Research Texts
 taxonomy:
     category:
         - docs
 visible: true
-Hidetitle: true
 ---
