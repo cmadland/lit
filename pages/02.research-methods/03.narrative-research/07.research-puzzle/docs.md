@@ -4,5 +4,5 @@ taxonomy:
     category:
         - docs
 visible: true
-Hidetitle: true
+hide_title: true
 ---
