@@ -7,7 +7,7 @@ taxonomy:
 
 ### A Resource for EDCI 681
 
-[https://lit.madland.ca/research-methods](https://lit.madland.ca/research-methods)
+[https://lit.madland.ca/research-methods/narrative-research](https://lit.madland.ca/research-methods/narrative-research)
 
 Compiled by William Pastory & Colin Madland
 
