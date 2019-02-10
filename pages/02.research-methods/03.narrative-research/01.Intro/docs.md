@@ -10,7 +10,7 @@ People tell stories.
 
 ![](love-you-forever.png)
 
-[plugin:youtube](https://www.youtube.com/watch?v=nxLGKzkbM84&feature=youtu.be)
+[plugin:youtube](https://www.youtube.com/watch?v=nxLGKzkbM84)
 
 ![](kiwihug-465751-unsplash.jpg)
 
