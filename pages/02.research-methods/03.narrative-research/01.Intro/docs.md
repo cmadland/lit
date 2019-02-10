@@ -10,6 +10,8 @@ People tell stories.
 
 ![](love-you-forever.png)
 
+[plugin:youtube](https://www.youtube.com/watch?v=nxLGKzkbM84&feature=youtu.be)
+
 ![](kiwihug-465751-unsplash.jpg)
 
 Photo by Kiwihug on Unsplash
