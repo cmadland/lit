@@ -7,6 +7,8 @@ taxonomy:
 
 ### A Resource for EDCI 681
 
+[https://lit.madland.ca/research-methods](https://lit.madland.ca/research-methods)
+
 Compiled by William Pastory & Colin Madland
 
 These pages supported a presentation by William and Colin on Feb 11/19. You might find some of these notes helpful.
