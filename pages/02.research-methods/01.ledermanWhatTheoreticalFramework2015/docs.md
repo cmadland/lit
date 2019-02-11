@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-!! Lederman, N. G., & Lederman, J. S. (2015). *What Is A Theoretical Framework? A Practical Answer. Journal of Science Teacher Education, 26*(7), 593–597. https://doi.org/10.1007/s10972-015-9443-2
+!!! Lederman, N. G., & Lederman, J. S. (2015). *What Is A Theoretical Framework? A Practical Answer. Journal of Science Teacher Education, 26*(7), 593–597. https://doi.org/10.1007/s10972-015-9443-2
 
 - poor or non-existent theoretical framework is a critical problem for manuscripts
 - TF is not necessarily a theory
