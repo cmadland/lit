@@ -27,11 +27,6 @@ As researchers and participants are both changed in the retelling of their stori
 
 > Our human world is constructed and continually reconstructed through the processes of story living and storytelling. (Johnson & Christensen, 2017) `need page #`
 
-## Starting Points
-1. listening to stories
-2. co-living stories
-
-Narrative inquirers are always in relationship with the participants, and, contrary to other qualitative methods, do not bracket themselves, but rather, live in the midst of the participants and bring their own stories to bear.
 
 ## Compare with Justice System
 
@@ -40,4 +35,4 @@ Narrative inquirers are always in relationship with the participants, and, contr
 
 ## Stories vs. Narratives
 - A story is a recounted sequence of events
-- Narrative is an organized, plotted, interpreted accounts of events (Square et. al,2014). 
+- Narrative is an organized, plotted, interpreted accounts of events (Square et. al,2014).
