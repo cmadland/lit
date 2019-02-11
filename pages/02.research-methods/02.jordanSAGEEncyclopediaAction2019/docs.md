@@ -40,5 +40,23 @@ Despite establishment of Indigenous Education programs, traditional disciplines 
 #### Principles and Practices
 
 > The overarching consideration against which all IRM has to be contextualized is the history of colonization that most indigenous people have been subjected to over the past 500-plus years in North America and around the rest of the globe.
-- IRM is not just another tool in the box
--
+
+- IRM is not just another tool in the box, but a challenge to the marginalization of Indigenous people
+- emerges from the nexus of decolonization and self-determination
+- principles arise from Indigenous worldview that emphasizes respect, reciprocity, relationships, and the centrality of the spiritual
+
+1. contemporary social theory needs to be reconceptualized through Indigenous lens
+2. research process must be inclusive of indigenous communities and individuals
+3. attention must be given to protecting specific aspects of indigenous knowledge, esp as related to spiritual practices, traditional medicines, and healing rituals
+4. Indigenous voices, epistemologies, and ways of knowing should be privileged
+5. within non-Indigenous contexts, IRM can provide an activist space for Indigenous people to push for open dialogue about issues affecting them
+
+#### Future Directions and Critique
+
+- some core principles (spirituality) are so antithetical to Western traditions that progress will be slow and tentative
+- warning against co-option of IRM by private interests to only open up aboriginal communities to further neo-colonial development that IRM was meant to oppose
+
+> The future of IRM will, therefore, hinge as much on the work of indigenous scholars and sympathetic colleagues within the academy as on the outcome of political struggles engaged in by indigenous communities and their allies for self-determination.
+
+
+Association of Canadian Deans of Education. (2010). *Accord on indigenous education.* Retrieved from http://www.csse-scee.ca/acde/accords
