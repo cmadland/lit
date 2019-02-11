@@ -32,3 +32,12 @@ As researchers and participants are both changed in the retelling of their stori
 2. co-living stories
 
 Narrative inquirers are always in relationship with the participants, and, contrary to other qualitative methods, do not bracket themselves, but rather, live in the midst of the participants and bring their own stories to bear.
+
+## Compare with Justice System
+
+- witnesses tell story
+- jury inquires into narratives in order to make judgement
+
+## Stories vs. Narratives
+- A story is a recounted sequence of events
+- Narrative is an organized, plotted, interpreted accounts of events (Square et. al,2014). 

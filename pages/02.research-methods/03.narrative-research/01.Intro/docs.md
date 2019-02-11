@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-People tell stories.
+People tell stories to make sense of the world.
 
 ![](love-you-forever.png)
 
