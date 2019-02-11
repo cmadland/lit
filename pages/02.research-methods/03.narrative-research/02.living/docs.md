@@ -5,7 +5,7 @@ taxonomy:
         - docs
 visible: true
 ---
-## Group Juggling
+#### Group Juggling
 
 You have been assigned to one of three groups.
 

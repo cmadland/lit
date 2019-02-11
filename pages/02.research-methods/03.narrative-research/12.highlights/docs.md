@@ -14,21 +14,21 @@ William Pastory and Colin Madland
 
 > Is the use of lived and told stories to understand experiences. It is a collaborative process between the researcher and participants. It occurs over a long period of time in one or many places as a result of social interactions in social environments (Johnson & Christensen, 2017, p. 425)
 
-## 4 key terms
+#### 4 key terms
 
-#### *Living* stories
+##### *Living* stories
 Put simply, people live their own stories. Each person's present story is influenced by their past experiences, contexts, cultures, families, beliefs, and myriad other influences, so each person's story is utterly unique. Each person in the group juggling activity had a different experience of the activity because of their past experiences.
 
-#### *Telling* stories
+##### *Telling* stories
 As people live, they also tell their stories to others.
 
-#### *Retelling* stories
+##### *Retelling* stories
 As researchers come alongside people and inquire into their stories, the peoples' stories are retold, but this time with the addition of the researcher's stories.
 
-#### *Reliving* stories
+##### *Reliving* stories
 As researchers and participants are both changed in the retelling of their stories, both may begin to relive their stories.
 
-## 3 Dimensional Inquiry
+#### 3 Dimensional Inquiry
 
 - temporal
 - social
@@ -36,11 +36,6 @@ As researchers and participants are both changed in the retelling of their stori
 
 > Our human world is constructed and continually reconstructed through the processes of story living and storytelling. (Johnson & Christensen, 2017)
 
-## Starting Points
-1. listening to stories
-2. co-living stories
-
-Narrative inquirers are always in relationship with the participants, and, contrary to other qualitative methods, do not bracket themselves, but rather, live in the midst of the participants and bring their own stories to bear.
 
 ## Compare with Justice System
 
@@ -56,6 +51,12 @@ Narrative inquirers are always in relationship with the participants, and, contr
 - less precise than a research question
 - less expectation of an answer
 - re-search; continual reformulation as new stories are told
+
+#### Starting Points
+1. listening to stories
+2. co-living stories
+
+Narrative inquirers are always in relationship with the participants, and, contrary to other qualitative methods, do not bracket themselves, but rather, live in the midst of the participants and bring their own stories to bear.
 
 #### References
 

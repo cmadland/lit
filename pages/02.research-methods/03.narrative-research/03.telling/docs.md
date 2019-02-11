@@ -5,6 +5,6 @@ taxonomy:
         - docs
 visible: true
 ---
-## Discussion 1 - Full Group
+#### Discussion 1 - Full Group
 
 One person from each group will be asked to share their stories.

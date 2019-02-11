@@ -30,7 +30,6 @@ Photo by Syed Hussaini on Unsplash
 > Is the use of lived and told stories to understand experiences. It is a collaborative process between the researcher and participants. It occurs over a long period of time in one or many places as a result of social interactions in social environments (Johnson & Christensen, 2017, p. 425)
 
 
-
 Narrative inquiry is based on Dewey's two criteria of experience:
 - continuity, or the idea that a person's experiences are shaped by their past experiences and that they shape future experiences;
 - interaction between a person and their environment
