@@ -59,4 +59,4 @@ Despite establishment of Indigenous Education programs, traditional disciplines 
 > The future of IRM will, therefore, hinge as much on the work of indigenous scholars and sympathetic colleagues within the academy as on the outcome of political struggles engaged in by indigenous communities and their allies for self-determination.
 
 
-Association of Canadian Deans of Education. (2010). *Accord on indigenous education.* Retrieved from http://www.csse-scee.ca/acde/accords
+Association of Canadian Deans of Education. (2010). *Accord on indigenous education.* Retrieved from [http://csse-scee.ca/acde/publications-2/#indigenous](http://csse-scee.ca/acde/publications-2/#indigenous)
