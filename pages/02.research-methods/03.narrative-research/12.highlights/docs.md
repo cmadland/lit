@@ -1,5 +1,5 @@
 ---
-title: Highlights
+title: Narrative Research
 taxonomy:
     category:
         - docs
@@ -9,8 +9,7 @@ visible: true
 William Pastory and Colin Madland
 
 
->>>>> The primary source of this information is
->>>>> Johnson, R. B., & Christensen, L. (2017). *Educational research: Quantitative, qualitative and mixed approaches (6th ed.).* Thousand Oaks, CA: Sage Publications. Chapter 15
+The primary source of this information is Johnson, R. B., & Christensen, L. (2017). *Educational research: Quantitative, qualitative and mixed approaches (6th ed.).* Thousand Oaks, CA: Sage Publications. Chapter 15
 
 > Is the use of lived and told stories to understand experiences. It is a collaborative process between the researcher and participants. It occurs over a long period of time in one or many places as a result of social interactions in social environments (Johnson & Christensen, 2017, p. 425)
 
@@ -36,13 +35,12 @@ As researchers and participants are both changed in the retelling of their stori
 
 > Our human world is constructed and continually reconstructed through the processes of story living and storytelling. (Johnson & Christensen, 2017)
 
-
-## Compare with Justice System
+#### Compare with Justice System
 
 - witnesses tell story
 - jury inquires into narratives in order to make judgement
 
-## Stories vs. Narratives
+#### Stories vs. Narratives
 - A story is a recounted sequence of events
 - Narrative is an organized, plotted, interpreted accounts of events (Square et. al,2014).
 
