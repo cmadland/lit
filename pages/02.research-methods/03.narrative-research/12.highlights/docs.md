@@ -40,7 +40,7 @@ As researchers and participants are both changed in the retelling of their stori
 - witnesses tell story
 - jury inquires into narratives in order to make judgement
 
-#### Stories vs. Narratives
+## Stories vs. Narratives
 - A story is a recounted sequence of events
 - Narrative is an organized, plotted, interpreted accounts of events (Square et. al,2014).
 
