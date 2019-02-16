@@ -6,8 +6,6 @@ taxonomy:
 
 !!! Simon, J., Burton, K., Lockhart, E., & O’Donnell, S. (2014). Post-secondary distance education in a contemporary colonial context: Experiences of students in a rural First Nation in Canada. *The International Review of Research in Open and Distributed Learning, 15*(1). https://doi.org/10.19173/irrodl.v15i1.1357
 
-
-
 ===
 
 ### Abstract
