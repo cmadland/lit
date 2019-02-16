@@ -1,5 +1,5 @@
 ---
-title: '(Morong & DesBiens, 2016)'
+title: 'Morong & DesBiens, 2016'
 taxonomy:
     category: docs
 ---

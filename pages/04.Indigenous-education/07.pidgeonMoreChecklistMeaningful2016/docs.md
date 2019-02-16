@@ -1,5 +1,5 @@
 ---
-title: '(Pidgeon, 2016)'
+title: 'Pidgeon, 2016'
 taxonomy:
     category: docs
 ---

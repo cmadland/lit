@@ -1,5 +1,5 @@
 ---
-title: '(Snow, 2018)'
+title: 'Snow, 2018'
 taxonomy:
     category: docs
 ---
