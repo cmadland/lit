@@ -130,3 +130,26 @@ Platforms
 > Several of the students interviewed believed that if the community members had more input into the course delivery, the community would feel more ownership of the process, and more community members would be taking the courses and be more comfortable using computers. One explained:
 
 >> It’s the same with children, if you get them involved in a process of developing it, they’re more anxious to get involved. So I think if they had a say in how it’s going to be delivered or what’s going to be delivered, I think they would feel more like ownership towards [the courses]. (Elsipogtog First Nation Community Member)
+
+#### Discussion and Conclusions
+- video conf may be more suitable for Ss with limited computer experience
+
+> None of the Elsipogtog First Nation community members interviewed had a choice about which technologies to use to match their learning preferences. The universities make the choices about the technologies used to deliver courses to First Nations community members, and the students felt they have no say about the choices the universities make.
+
+> We would expect a similar range of experiences in other First Nations communities in the Atlantic region, although this exploratory study cannot be generalized more widely to other communities.
+
+
+- difficulties w/ bandwidth can be overcome with upgraded network infrastructure
+- Elsipogtog was in the process of installing fibre optic connections
+- delivery of DE needs to respect preferences of adult learners rather than asking them to adjust to technology
+
+> First Nations need to take part in the information society on their own terms to be able to shape their future according to their unique needs. The current study strongly suggests that this would include making decisions about the ways distance education is delivered to meet the needs of diverse community members.
+
+
+- study suggests unreached pool of students who would participate if there were more DE options available
+
+> In future, Elsipogtog First Nation could work with the universities to explore possibilities for courses that blend not only web-based and videoconferencing technologies but also distance education with in-community options. It is entirely possible, for example, for a university instructor to travel to different First Nations in the Atlantic region and provide the instruction using both distance and in-person classroom education at different times during the academic year. This has even been tried in a limited way in the past.
+
+> Clearly there is significant room for the Elsipogtog First Nation community to take a more active role in determining how the university courses are offered by distance to their community members, including strategies to ensure that the different learning preferences and styles of the students are accommodated. Taking control of their own post-secondary learning opportunities, establishing partnerships with interested post-secondary institutions, and providing the required learning environments and student support systems are examples of successful distance learning models adopted in other First Nations. Each of these steps requires access to financial resources, people, and facilities that support local economic development. These local efforts help to move both the community and its partner institutions beyond the traditional colonial relationship and support local and regional development in a province that requires new innovative strategies to address its rural challenges.
+
+> Our study suggests that more support for and attention to the students’ preferences for learning styles will lead to more successful distance education programs in these communities. This suggestion aligns with the concept of “First Nations Control of First Nations Education” advocated by the Assembly of First Nations. It also suggests that more appropriate post-secondary distance education options will allow more families to remain in remote and rural First Nations while they study instead of moving to the cities, contributing to the long-term sustainability of their communities.
