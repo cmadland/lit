@@ -87,9 +87,46 @@ Partnerships
 Platforms
 - accessed with desktop or laptop computers
   - WebEx (web conferencing)
-    - "virtual meeting place"
-    - more flexible than videoconferencing due to being able to work from home and control scheduling
-    - Ss did not have to commute to access video-conferencing in a community classroom and could spend more time w/ family
-     > “So at home you can just...it’s you and your computer and there’s no distractions around you” (Elsipogtog First Nation Community Member).
   - Moodle (open source LMS)
   - Blackboard (proprietary LMS)
+
+###### WebEx
+
+- "virtual meeting place"
+- more flexible than videoconferencing due to being able to work from home and control scheduling
+- Ss did not have to commute to access video-conferencing in a community classroom and could spend more time w/ family
+ > “So at home you can just...it’s you and your computer and there’s no distractions around you” (Elsipogtog First Nation Community Member).
+- able to meet w/ peer groups in a community lab set up for DE
+- WebEx was challenging for some students
+
+> I was so alone. Oh my, I was so alone. Sitting by the computer and by the phone and, you know. No, I was literally sick to my stomach, that’s how much I...I’m not a computer learner at all. (Elsipogtog First Nation Community Member)
+
+> There’s no face-to-face. There’s six people in that course I’m taking now. It’s impersonal, I guess. (Elsipogtog First Nation Community Member)
+
+###### Video-conferencing
+!! Refers to room-based conferencing rather than personal desktop tools
+
+- allows for personal, f2f visual and audio contact
+- connects university with one or more FN communities
+- students are together in a classroom in each community
+- prof 'delivers' content
+- video through TV, audio through mics
+- requires on-site technical support
+- allows for connection between communities...building a network and support system
+
+> To me we were closer in videoconferencing so more of community than [WebEx] because ... Like we’re all doing the same thing… we were closer. Like WebEx, to me, there’s space there blocking. It’s not as personal I don’t think. (Elsipogtog First Nation Community Member)
+
+> The courses just seemed as though I was on my own for the whole thing-the whole six years. When it came time for....Thank God for one my classmates for math because that was one of my worst experiences-taking a math class through videoconferencing as I have a really hard time with math and the professor was really rude, for one. But, you know, he didn’t take it into consideration that we were all adult students and who haven’t been in school for years and didn’t take into consideration that some of us had trouble with math. (Elsipogtog First Nation Community Member)
+
+- video conferencing can be annoying due to tech difficulties and delays
+> “it depends on your Internet signal. If it’s not good, then you’re going to get a lot of pauses in between or the professor will sound different” (Elsipogtog First Nation Community Member).
+
+###### Input to Course Delivery Methods and Perceptions of Control of the Process
+
+> None of the students believed they or other community members had any input into the way the courses were delivered or had any control over the process of post-secondary distance education. One student said:
+
+>> Oh that would be excellent if they [the university] actually came and asked us. If they responded to our emails, even… because nobody ever really asked us for our input, like ‘how could we make this better; how could we better serve you’. (Elsipogtog First Nation Community Member)
+
+> Several of the students interviewed believed that if the community members had more input into the course delivery, the community would feel more ownership of the process, and more community members would be taking the courses and be more comfortable using computers. One explained:
+
+>> It’s the same with children, if you get them involved in a process of developing it, they’re more anxious to get involved. So I think if they had a say in how it’s going to be delivered or what’s going to be delivered, I think they would feel more like ownership towards [the courses]. (Elsipogtog First Nation Community Member)
