@@ -1,5 +1,5 @@
 ---
-title: '(Snow, 2018)'
+title: 'Simon, Burton, Lockhart, & O’Donnell, 2014'
 taxonomy:
     category: docs
 ---
@@ -89,6 +89,6 @@ Platforms
     - "virtual meeting place"
     - more flexible than videoconferencing due to being able to work from home and control scheduling
     - Ss did not have to commute to access video-conferencing in a community classroom and could spend more time w/ family
-     > “So at home you can just...it’s you and your computer and there’s no distractions around you” (Elsipogtog First Nation Community Member). 
+     > “So at home you can just...it’s you and your computer and there’s no distractions around you” (Elsipogtog First Nation Community Member).
   - Moodle (open source LMS)
   - Blackboard (proprietary LMS)
