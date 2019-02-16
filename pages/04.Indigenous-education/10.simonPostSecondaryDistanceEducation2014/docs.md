@@ -9,6 +9,7 @@ taxonomy:
 
 
 ===
+
 ### Abstract
 
 Post-secondary distance education gives students and their families living in remote and rural regions the option to stay in their communities while they study instead of moving closer to the universities in cities. Post-secondary distance education is an option in many rural and remote First Nation (Indigenous) communities in Canada; however there are many challenges to successful adoption in these communities. There are also many opportunities for post-secondary institutions to expand their abilities and capacity in developing and delivering appropriate content supporting these unique, self-governing environments in Canada. We explore the experiences of students from a rural First Nation in Canada with post-secondary distance education, focusing on how different delivery methods offer both opportunities and challenges for community-based students. The study is situated in the context of contemporary colonialism in Canada.
