@@ -25,7 +25,7 @@ As researchers and participants are both changed in the retelling of their stori
 - social
 - physical
 
-> Our human world is constructed and continually reconstructed through the processes of story living and storytelling. (Johnson & Christensen, 2017) `need page #`
+> Our human world is constructed and continually reconstructed through the processes of story living and storytelling. (Johnson & Christensen, 2017, p. 427)
 
 
 #### Compare with Justice System
