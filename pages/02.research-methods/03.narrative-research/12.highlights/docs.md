@@ -87,6 +87,6 @@ Sherry (March 31, 2014). Narrative research.[ video file]. Retrieved from [https
 
 - Sherry highlights the origin, trend and common features of narrative research. The author also briefly describes how narrative research can be conducted.
 
-Square, C.,Davis, M., Esin, C., Andrews, M., Harrison, B., Hyden, L. and Hyden, M.(2014). _What is narrative research__._ NewYork: BloomsBurry Collection.
+Square, C.,Davis, M., Esin, C., Andrews, M., Harrison, B., Hyden, L. and Hyden, M.(2014). _What is narrative research._ NewYork: BloomsBurry Collection.
 
 - The book gives an overview of narrative research is, contemporary terms used by researchers, and what possibilities and limitations narrative research offers .
