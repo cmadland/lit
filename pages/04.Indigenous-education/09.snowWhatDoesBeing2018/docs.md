@@ -27,7 +27,7 @@ Snow begins with an anecdote about her own expereinces growing up in Nunavut (ab
 
 Snow's sense of duty was grounded in the TRC's call to Settler and Indigenous Canadians to ensure that Indigenous peoples are able to hold their equitable place in Canadian society. But while this call, epitomized by Chief Justice Murray Sinclair's statement
 
-!!! Reconcilliation is not an Aboriginal problem – it involves all of us. (Antoine, Mason, Mason, Palahicky, & Rodriguez de France, 2018)
+!!! Reconciliation is not an Aboriginal problem – it involves all of us. (Antoine, Mason, Mason, Palahicky, & Rodriguez de France, 2018)
 
 seems straightforward, the realities of non-Indigenous people researching Indigenous contexts are deeply complex and nuanced. Indigenous peoples have been the objects of research for too long, and the calls from the TRC that all Canadians need to engage in the process of reconciliation has resulted in a flood of funding and interest from Settler Canadians, an outcome that may not be welcomed by Indigenous communities.
 
@@ -52,13 +52,13 @@ Some researchers argue that, due to the history of colonialism and assimilation 
 
 Literature contains many discussions of 'insider/outsider' Indigenous research:
 
-!! - Coburn E. (2013). Indigenous research as Resistance. Socialist Studies, 9, 52–63.
--  Deloria V. (1998). Comfortable fictions and the struggle for turf: an essay review of the Invented Indian: cultural fictions and government policy. In Mihesuah D. (Ed.), Native and Academics: Research and writing about American Indians (pp. 65–83): University of Nebraska.
-- Porsanger J. (2004). An essay about Indigenous methodology. Nordlit, 15 (Special Issue on Northern Minorities), 105–120. Retrieved from http://septentrio.uit.no/index.php/nordlit/article/view/1910.
--  Rigney L. (1999). Internationalization of an Indigenous anticolonial cultural critique of research methodologies. Wicazo Sa Review, 14, 109–21.
-- Stover Dale (2002). Postcolonial sun dancing at Wakpamni lake. In Harvey G. (Ed.), Readings in Indigenous religions (pp. 173–19). London, England: Continuum.
--  Smith L.T. (2004). Decolonizing methodologies: Research and Indigenous peoples. London, England: Zed Books.
-- Smith L.T. (1999, 2012). Decolonizing methodologies: Research and Indigenous peoples (2nd ed.). London, England: Zed Books.
+!!!! - Coburn E. (2013). Indigenous research as Resistance. Socialist Studies, 9, 52–63.
+!!!! -  Deloria V. (1998). Comfortable fictions and the struggle for turf: an essay review of the Invented Indian: cultural fictions and government policy. In Mihesuah D. (Ed.), Native and Academics: Research and writing about American Indians (pp. 65–83): University of Nebraska.
+!!!! - Porsanger J. (2004). An essay about Indigenous methodology. Nordlit, 15 (Special Issue on Northern Minorities), 105–120. Retrieved from http://septentrio.uit.no/index.php/nordlit/article/view/1910.
+!!!! -  Rigney L. (1999). Internationalization of an Indigenous anticolonial cultural critique of research methodologies. Wicazo Sa Review, 14, 109–21.
+!!!! - Stover Dale (2002). Postcolonial sun dancing at Wakpamni lake. In Harvey G. (Ed.), Readings in Indigenous religions (pp. 173–19). London, England: Continuum.
+!!!! -  Smith L.T. (2004). Decolonizing methodologies: Research and Indigenous peoples. London, England: Zed Books.
+!!!! - Smith L.T. (1999, 2012). Decolonizing methodologies: Research and Indigenous peoples (2nd ed.). London, England: Zed Books.
 
 
 ### References
