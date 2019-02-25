@@ -59,6 +59,7 @@ Narrative inquirers are always in relationship with the participants, and, contr
 #### References
 
 Clandinin, D. J. (2013). *Engaging in narrative inquiry.* Left Coast Press.
+
 - Jean Clandinin pioneered the practice of narrative inquiry and continues to be an active scholar in the field, publishing both *about* and *with* narrative inquiry.
 
 Dwyer, R., Davis, I., and emerald, E. (2017). _Narrative research in practice: Stories from the field_. Singapore, Singapore: Springer.
