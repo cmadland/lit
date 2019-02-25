@@ -11,4 +11,4 @@ visible: true
 - can be field notes, photos, artifacts, documents
 
 > The inquiry space created between researchers and participants during
-conduct of the research (Johnson & Christensen, 2017, `page#`)
+conduct of the research (Johnson & Christensen, 2017, p. 429)
