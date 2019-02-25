@@ -21,7 +21,7 @@ Elliot, J.(2005). _Using narrative in social research_. London: Thousand Oaks.
 
 Hinchman, L.P., and Hinchman, S.K.(1997). _Memory, identity, community: The idea of narrative in the human sciences._ New York: University of New York.
 
-Huber, J., Caine, V., Huber, M., & Steeves, P. (2013). *Narrative Inquiry as Pedagogy in Education: The Extraordinary Potential of Living, Telling, Retelling, and Reliving Stories of Experience.* Review of Research in Education, 37(1), 212–242. https://doi.org/10.3102/0091732X12458885
+Huber, J., Caine, V., Huber, M., & Steeves, P. (2013). *Narrative Inquiry as Pedagogy in Education: The Extraordinary Potential of Living, Telling, Retelling, and Reliving Stories of Experience.* Review of Research in Education, 37(1), 212–242. [https://doi.org/10.3102/0091732X12458885](https://doi.org/10.3102/0091732X12458885)
 
 
 Johnson, R. B., & Christensen, L. (2017). _Educational research: Quantitative, qualitative, and mixed approaches_ (6th ed.). Thousand Oaks, CA: Sage.
