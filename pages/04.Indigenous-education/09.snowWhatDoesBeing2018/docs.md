@@ -81,7 +81,7 @@ The university had lots of quan data related to retention, attrition and graduat
 
 ### Developing a Methodological Approach
 
-There aren't any 'how-to' manuals for Indigenous research methodologies. Wilson^[Wilson S. (2008). Research is ceremony. Winnipeg, Canada: Fernwood.] describes research as 'ceremony and a journey of self-discovery and reflection'.
+There aren't any 'how-to' manuals for Indigenous research methodologies. Wilson ^[Wilson S. (2008). Research is ceremony. Winnipeg, Canada: Fernwood.] describes research as 'ceremony and a journey of self-discovery and reflection'.
 
 
 
