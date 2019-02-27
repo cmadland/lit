@@ -81,14 +81,23 @@ The university had lots of quan data related to retention, attrition and graduat
 
 ### Developing a Methodological Approach
 
-There aren't any 'how-to' manuals for Indigenous research methodologies. Wilson [^1] describes research as 'ceremony and a journey of self-discovery and reflection'.
+There aren't any 'how-to' manuals for Indigenous research methodologies. Wilson (2008) describes research as 'ceremony and a journey of self-discovery and reflection'.
 
+> [Wilson] offered some hope for me, as I considered my own questions about personal legitimacy; he stated that one does not have to be Indigenous to adopt an Indigenous research paradigm, but that one does have to shift one’s ontology and practice, focusing on local and contextually derived knowledge rather than on published literature.
 
+Snow needed to acknowledge the role of Canadian history on Settler and Indigenous relationships, so the program director suggested she begin to develop relationships with the students by offering a workshop on research. She noticed some skepticism and mistrust, so when she came with her own research proposal, it was tentative and negotiable.
 
+Battiste (2013) suggests at minimum, researchers acknowledge the power differential between non-Indigenous researchers and Indigenous populations.
 
-[^1]:Wilson S. (2008). Research is ceremony. Winnipeg, Canada: Fernwood.
-
+|Western | Indigenous| sample|
+|---|---|---|
+|objectivity through separation btwn R and P   | shared story, continuously negotiated  ||
+|data are commodified and owned   | mutually beneficial to all  ||
 
 ### References
 
 Antoine, A., Mason, R., Mason, R., Palahicky, S., & Rodriguez de France, C. (2018). *Pulling Together: A Guide for Curriculum Developers.* BCcampus.
+
+Battiste, M. A. (2013). *Decolonizing education: nourishing the learning spirit.* Saskatoon, SK, Canada: Purich Publishing Limited.
+
+Wilson, S. (2008). *Research is ceremony: Indigenous research methods.* Black Point, N.S: Fernwood Pub.
