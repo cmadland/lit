@@ -89,10 +89,10 @@ Snow needed to acknowledge the role of Canadian history on Settler and Indigenou
 
 Battiste (2013) suggests at minimum, researchers acknowledge the power differential between non-Indigenous researchers and Indigenous populations.
 
-|Western | Indigenous| sample|
-|---|---|---|
-|objectivity through separation btwn R and P   | shared story, continuously negotiated  ||  |
-|data are commodified and owned   | mutually beneficial to all  ||huh|
+|Western | Indigenous|
+|---|---|
+|objectivity through separation btwn R and P   | shared story, continuously negotiated  |
+|data are commodified and owned   | mutually beneficial to all  |
 
 ### References
 
