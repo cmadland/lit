@@ -92,7 +92,7 @@ Battiste (2013) suggests at minimum, researchers acknowledge the power different
 |Western | Indigenous| sample|
 |---|---|---|
 |objectivity through separation btwn R and P   | shared story, continuously negotiated  ||
-|data are commodified and owned   | mutually beneficial to all  ||
+|data are commodified and owned   | mutually beneficial to all  |huh|
 
 ### References
 
