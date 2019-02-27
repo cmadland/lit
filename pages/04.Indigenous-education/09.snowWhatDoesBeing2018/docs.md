@@ -75,7 +75,7 @@ Snow writes about approaching her friend and colleague, the Director of Indigeno
 
 They co-developed a research question:
 
-!! What aspects of the 1-year PNT Program were effective in supporting student persistence, and what, from a student perspective, could be changed to support student success?
+!!! What aspects of the 1-year PNT Program were effective in supporting student persistence, and what, from a student perspective, could be changed to support student success?
 
 The university had lots of quan data related to retention, attrition and graduation rates, but a more holistic approach was necessary to honour student persistence and success.
 
