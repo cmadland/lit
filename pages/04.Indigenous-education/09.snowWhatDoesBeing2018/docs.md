@@ -62,12 +62,12 @@ Literature contains many discussions of 'insider/outsider' Indigenous research:
 
 There are also many documented challenges, as follows:
 
-!!!! **Misinterpretation**  Archibald J. (Ed.) (1992). Giving voice to our ancestors. Canadian Journal of Native Education, 19, 141–44.
-!!!! **Fragmentation of knowledge**  Kawagley O. (1995). A Yupiaq Worldview: A pathway to ecology and spirit. New York, NY: Waveland Press.
-!!!! **Safety and power of relationship**  Harrison B. (2001). Collaborative programs in Indigenous communities from fieldwork to practice. Lanham, MD: Altamria Press.
+!!!! - **Misinterpretation**  Archibald J. (Ed.) (1992). Giving voice to our ancestors. Canadian Journal of Native Education, 19, 141–44.
+!!!! - **Fragmentation of knowledge**  Kawagley O. (1995). A Yupiaq Worldview: A pathway to ecology and spirit. New York, NY: Waveland Press.
+!!!! - **Safety and power of relationship**  Harrison B. (2001). Collaborative programs in Indigenous communities from fieldwork to practice. Lanham, MD: Altamria Press.
 !!!!  Stover Dale (2002). Postcolonial sun dancing at Wakpamni lake. In Harvey G. (Ed.), Readings in Indigenous religions (pp. 173–19). London, England: Continuum.
-!!!! **Accountability** Champagne D. (1998). American Indian studies I for everyone. In Miheusuah D. (Ed.). Natives and Academics: researching and writing about American Indians. Lincoln: University of Nebraska.
-!!!! **Absence of tangible benefit for communities** and **Treatment of Indigenous *partners* as *subjects***
+!!!! - **Accountability** Champagne D. (1998). American Indian studies I for everyone. In Miheusuah D. (Ed.). Natives and Academics: researching and writing about American Indians. Lincoln: University of Nebraska.
+!!!! - **Absence of tangible benefit for communities** and **Treatment of Indigenous *partners* as *subjects*** Smith L.T. (2004). Decolonizing methodologies: Research and Indigenous peoples. London, England: Zed Books.
 
 
 ### References
