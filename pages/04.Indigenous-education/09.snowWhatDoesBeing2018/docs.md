@@ -94,6 +94,9 @@ Battiste (2013) suggests at minimum, researchers acknowledge the power different
 |objectivity through separation btwn R and P   | shared story, continuously negotiated  |
 |data are commodified and owned   | mutually beneficial to all  |
 
+### Operationalizing Methodological Bricolage
+
+
 ### References
 
 Antoine, A., Mason, R., Mason, R., Palahicky, S., & Rodriguez de France, C. (2018). *Pulling Together: A Guide for Curriculum Developers.* BCcampus.
