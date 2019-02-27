@@ -69,6 +69,25 @@ There are also many documented challenges, as follows:
 !!!! - **Accountability** Champagne D. (1998). American Indian studies I for everyone. In Miheusuah D. (Ed.). Natives and Academics: researching and writing about American Indians. Lincoln: University of Nebraska.
 !!!! - **Absence of tangible benefit for communities** and **Treatment of Indigenous *partners* as *subjects*** Smith L.T. (2004). Decolonizing methodologies: Research and Indigenous peoples. London, England: Zed Books.
 
+### Negotiating the Space Between Legitimacy and Appropriation Toward a Research Question
+
+Snow writes about approaching her friend and colleague, the Director of Indigenous programming at her school, for advice and finding that their dialogues in the context of a real friendship was foundational to her research. It was the director who introduced her to members of the campus community and set the direction for her research with her knowledge of the challenges faced by their 1-year Pre-Nursing Transitions (PNT) program designed to support Indigenous students.
+
+They co-developed a research question:
+
+!! What aspects of the 1-year PNT Program were effective in supporting student persistence, and what, from a student perspective, could be changed to support student success?
+
+The university had lots of quan data related to retention, attrition and graduation rates, but a more holistic approach was necessary to honour student persistence and success.
+
+### Developing a Methodological Approach
+
+There aren't any 'how-to' manuals for Indigenous research methodologies. Wilson^[Wilson S. (2008). Research is ceremony. Winnipeg, Canada: Fernwood.] describes research as 'ceremony and a journey of self-discovery and reflection'.
+
+
+
+
+
+
 
 ### References
 
