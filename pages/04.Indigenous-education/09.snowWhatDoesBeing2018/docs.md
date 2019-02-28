@@ -96,6 +96,18 @@ Battiste (2013) suggests at minimum, researchers acknowledge the power different
 
 ### Operationalizing Methodological Bricolage
 
+Snow adopted a methodological bricolage of sorts in that she combined aspects of narrative and participatory action research into an exploratory case study. The case study has the advantage of being a more well-established method which was good for helping to ensure that her dissertation would be acceptable for an academic degree.
+
+### Ethics Versus Participants’ Rights
+
+3 levels of ethics approvals required
+- university REB
+- Provincial or territorial approval, usually run by Indigenous groups
+- local community or band council
+
+This can lead to a catch-22 because the university REB will not approve a proposal without local community or band council permission, and the local community won't approve a project without university approval. This is because if there is no prior relationship between the researcher and the community, it is unethical to talk about or solicit a research partnership without institutional approval.
+
+
 
 ### References
 
