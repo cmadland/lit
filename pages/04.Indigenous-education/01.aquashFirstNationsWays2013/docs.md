@@ -1,7 +1,9 @@
 ---
 title: 'Aquash, 2013'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 !!! Aquash, M. (2013). First Nations Ways of Knowing: The Circle of Knowledge. *First Nations Perspectives, 5*(1), 25–36. Retrieved from https://mfnerc.org/resources/fnp/volume-5-2013/
