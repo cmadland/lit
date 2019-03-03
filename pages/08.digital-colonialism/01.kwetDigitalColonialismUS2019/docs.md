@@ -100,3 +100,27 @@ Big Data, Big Tech, digital colonialism, digital ecosystem, global surveillance 
 ### Tech hegemony – ideological domination
 
 > Indeed, doctrines of domination – be it through religious missions, racial ordering, appeals to nationalism or ‘civilising’ duties – pervaded colonial society. Under apartheid, Africans received dumbed down ‘Bantu education’ designed to instil deference to Europeans in preparation for a life of menial labour and servitude. As Walter Rodney put it, ‘Colonial schooling was education for subordination, exploitation, the creation of mental confusion and the development of underdevelopment.’
+
+> Poor students and families are dependent upon the state to provide a more equal digital experience by subsidising access to productivity devices (such as laptops, desktops or tablets) and high-speed broadband. The importance of technology choices for schools cannot be overstated: the specific technologies deployed will forge path dependencies by shaping the habits, preferences and knowledge base of the first tech generation from childhood. Education offers the ultimate breeding ground for Big Tech imperialism; product placement in schools can be used to capture emerging markets and tighten the stranglehold of Big Tech products, brands, models and ideology in the Global South
+
+### The Free Software Movement
+
+> Software is a central component of freedom in the twenty-first century. Because software largely determines what your computer can do, it shapes your level of digital freedom.
+
+Four freedoms
+- run the pgm as you wish
+- study the code and change it
+- redistribute verbatim copies
+- redistribute modified copies
+
+> Columbia law professor Eben Moglen developed a framework that provides a more complete account of the digital ecosystem. According to Moglen, the three core pillars of the digital ecosystem must be arranged to prevent authoritarian forms of digital technology. Software must be Free Software so that the public has the capacity to control its devices; hardware must be Free Hardware without digital locks and widely distributed in the hands of the people;59 and the Internet must be neutral and provide bandwidth for all people on equal terms.
+
+### Internet decentralisation
+
+- FreedomBox
+
+### Resisting ideological domination
+
+> Schools can become places to equip the Global South with technologies that facilitate education, sharing, individual and collective control and ownership, direct democracy, local sovereignty, real privacy, and the capacity for local business and innovation in an attempt to drive foreign imperialists out of their countries and forge a new digital society.
+
+> Discussions around tech should be holistic and address structural inequality, identity, culture, and politics.
