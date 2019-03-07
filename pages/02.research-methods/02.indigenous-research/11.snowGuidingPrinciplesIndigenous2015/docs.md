@@ -27,7 +27,9 @@ Indigenous research, qualitative research, guidelines, best practices
 Article based on readings from:
 
 !!! Hsia H. (2006) Empowering “foreign brides” and community through praxis-oriented research. *Societies without Borders 1*: 93–111.
+
 !!! Lavallée L. F. (2009) Practical application of an indigenous research framework and two qualitative indigenous research methods: Sharing circles and Anishnaabe symbol-based reflection. *International Journal of Qualitative Methods 8*(1): 21–40.
+
 !!!  Smith L. T. (2012) *Decolonizing methodologies: Research and indigenous peoples*, (2nd ed. London: Zed Books.
 
 ### Qualitative R
@@ -107,4 +109,4 @@ Article based on readings from:
 
 ### Indigenous Paradigmatic Lens
 > using research approaches congruent with indigenous values and research goals, thus researchers must articulate a paradigmatic lens consonant with privileging the knowledge and voices of indigenous populations
-> 
+>
