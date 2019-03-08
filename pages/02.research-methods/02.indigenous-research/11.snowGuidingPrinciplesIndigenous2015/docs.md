@@ -26,11 +26,9 @@ Indigenous research, qualitative research, guidelines, best practices
 
 Article based on readings from:
 
-!!! Hsia H. (2006) Empowering “foreign brides” and community through praxis-oriented research. *Societies without Borders 1*: 93–111.
-
-!!! Lavallée L. F. (2009) Practical application of an indigenous research framework and two qualitative indigenous research methods: Sharing circles and Anishnaabe symbol-based reflection. *International Journal of Qualitative Methods 8*(1): 21–40.
-
-!!!  Smith L. T. (2012) *Decolonizing methodologies: Research and indigenous peoples*, (2nd ed. London: Zed Books.
+!!! - Hsia H. (2006) Empowering “foreign brides” and community through praxis-oriented research. *Societies without Borders 1*: 93–111.
+!!! - Lavallée L. F. (2009) Practical application of an indigenous research framework and two qualitative indigenous research methods: Sharing circles and Anishnaabe symbol-based reflection. *International Journal of Qualitative Methods 8*(1): 21–40.
+!!! - Smith L. T. (2012) *Decolonizing methodologies: Research and indigenous peoples*, (2nd ed. London: Zed Books.
 
 ### Qualitative R
 > Although developments in qualitative research address some concerns of conventional research methods, there are still limitations to employing qualitative methodology with indigenous populations globally. Even discourse on broad historical moments in qualitative research (see Denzin & Lincoln, 2011) address the transitions needed in methodology, speaking to the needs of indigenous populations.
@@ -109,4 +107,90 @@ Article based on readings from:
 
 ### Indigenous Paradigmatic Lens
 > using research approaches congruent with indigenous values and research goals, thus researchers must articulate a paradigmatic lens consonant with privileging the knowledge and voices of indigenous populations
->
+
+- challenges Rs to be transparent about power structures
+- humanize data gathering and reporting
+- centralize Indigenous rights to reclaim dignity, power, language, customs, and ways of knowing
+- allows stories of the oppressed and silenced to be highlighted
+
+### Reflexivity and power sharing
+
+> an interdependent process requiring focused attention to intrapersonal and interpersonal relationship dynamics before, during, and after the research process; it challenges conventional research notions of ownership of research and researcher personal disclosure and detachment
+
+- requires Rs to employ personal transparency and vulnerability and be open to scrutiny during the R process
+  - honesty
+  - openness about values and biases
+  - willingness for personal growth
+  - commitment to giving back
+- Rs explore how to involve themselves in the R process as appropriate
+- maybe switching roles to become a participant, sharing personal reflections in the form of journals, artwork or other creativity
+- conveying honesty in distributed products about R motivations and biases
+- demystifying R process to make it accessible to participants
+- recognizing that Rs are not experts and must be humble, seek permission and collaborate with elders
+- participants own and steward all data and Rs are only borrowing it for specific uses according to shared decisions
+- relationships are essential
+  - development of trust, respect, and R deference to participants, including right to refusal and recognizing that some R can only be done by Indigenous ppl
+- could lead to community-derived R methods, objectives benefitting the participants more than the Researcher, or higher levels of R involvement
+
+`c.f. open research; open data`
+
+### Critical immersion
+
+> employs holistic cultural awareness of self and others, full absorption into the research context, and the lens of critical consciousness
+
+- interdependent elements to privilege Indigenous knowledge
+  - empathy
+  - active reflection
+  - re-experiencing a culture
+- expands on qual strategy of 'prolonged engagement' to include openness to understanding how power influences relationships and data as well as knowledge construction
+- R must be empathic and view experiences and ways of knowing from another's PoV
+  - listening to dialogue of daily living
+  - observation of cultural practices in response to community norms
+  - resistance to ongoing oppression
+  - not inserting a PoV, but conveying understanding of another's PoV
+- To achieve empathy, engage in active reflection
+  - gaining awareness of how participants are influenced by their culture, other cultures and power dynamics that shape the relationship btwn the two
+
+> critical immersion involves being able to see the world through the eyes of indigenous people, to have knowledge of oneself as a cultural being, and to be aware how one’s own cultural experiences affect views of cultural differences.
+
+> Active reflection extends beyond cross-cultural understanding to refer to ongoing consideration of how researcher presence in a setting may shift power in negative manners for participants and communities (Waiters & Simoni, 2009).
+
+- erasing a dominant lens and learning a new conceptualization presented by an Indigenous community
+- validating Indigenous knowledge via Indigenous terms
+- treating as sacred Indigenous rituals, customs, and hierarchies
+
+! > The principle of critical immersion can be seen through a project developed by non-indigenous researchers Rossi, Rynne, and Nelson (2013) as they attempted to implement a grant-funded indigenous sports program within several Australian aboriginal groups. Rather than embracing the principle of critical immersion, they attempted to become objective researchers through setting aside the obvious cultural differences and inequalities with their research participants and to aim for universal connections by showing they were fellow humans with similar ideas, interests, and goals. The result of this approach had the opposite effect to that intended by the researchers; rather than setting aside their colonial mentalities they highlighted those mentalities. After realizing the effects White privilege and colonial approaches had upon their study, they began to look for ways to immerse themselves more deeply in the cultural differences and to develop ways of being more reflexive and critical of their roles within the research (Rossi et al., 2013). They restarted their approach to the research by “hanging out” with participants, getting to know them deeply by spending over two years in the field, respecting and honoring indigenous traditions and power dynamics (e.g. cultivating relationships with elders), and asking indigenous insiders to assist with critical reflection, research design, access to the field, and data collection, among other techniques (Rossi et al., 2013). Through implementing the elements of critical immersion the study moved from a colonizing project to a decolonizing one.
+
+### Participation and accountability
+> involves researchers, based on personal and professional commitments to conduct ethical research, empowering individuals and communities to engage in all aspects of the research process. Participation assumes that indigenous people can and should be able to conduct analysis of their experiences (Freire, 1968), and these data collection, analysis, and presentation activities are considered equally as or more valid than those of the researchers. Further, researchers serve to support these investigations as appropriate.
+
+- Rs duty to justify actions and consider implications of design and interpretation
+  - individually (personal morals and ethics) and professionally (ethics codes of professional orgs)
+  - ensure individuals and communities are active participants in the R process from idea inception to data presentation
+- bi-directional process
+  - Rs recognize community's role in all phases of research; seek comm members in formal and informal positions who are perceived as being influential in community decision making
+  - solicit info about community strengths and resources as well as potential areas of research
+    - allows for empowerment and forums for participants to decide what to share and how to present
+  - Rs explicitly state accountability and how they will fulfill personal and professional duties
+  - Rs are sensitive to the degree to which a 'trauma response' exists towards researchers or the process
+    - may result from previous experiences w/ R
+  - Rs disseminate findings and actions in a mutually beneficial manner
+    - Indigenous community should receive greater benefit from the endeavour.
+
+### methodological flexibility
+> refers to researchers engaging in a variety of roles and using several “alternative” data collection, analysis and presentation techniques congruent with indigenous ways. Researchers “acknowledge the interconnectedness of physical, mental, emotional, and spiritual aspects of individuals with all living things and with the earth, the star world, and the universe” (Lavallée, 2009, p. 23).
+
+- conventional data collection methods may not be sufficient or appropriate
+- R can take on various roles during the process
+>  - ally, advocate, learner, educator, counselor, or “conventional” researcher
+
+- Rs may work with gatekeepers, involve community members as co-researchers, learn about knowledge systems, participate in ceremonies, distribute or receive gifts, communicate with elders
+- requires flexibility beyond 'neutral and objective' interviewer, observer or surveyor
+- Rs engage in the process as directed by the community in terms of process and timeframe
+- can use metaphors, symbols, artifacts, songs, and proverbs to understand, interpret, or convey Indigenous knowledge systems
+- > Lavallée (2009) employed symbols and artifacts to incorporate Cree, Ojibway, and Algonquin individuals; she included Anishnaabe symbol-based reflection as a data collection tool, asking participants to find or create visual symbols of their feelings and thoughts in a similar manner to photovoice. Several of her participants incorporated traditional symbols (e.g., Medicine Wheel, crafts such as soapstone carving) to illustrate their responses (Lavallée, 2009).
+
+### Future directions in indigenous research
+> The final principle, methodological flexibility, challenges the researcher to be creative in measuring constructs conventionally understood through “standardized” and “validated” assessments and tools. Research questions that may be useful for this principle are as follows: (a) what research techniques are most congruent for specific indigenous populations; (b) how do data differ based on methods used in indigenous populations; (c) to what extent are conventional surveys incongruent with indigenous populations and how can surveys be adapted or reconstructed; and (d) what indigenous measures should be developed to evaluate community specific problems?
+
+> With regard to the quality of indigenous research methods and creating actionable research suggestions discussed within this paper, collaboration is a key component of the indigenous researcher toolbox, just as has been located in other action research methods like participatory action research and collaborative inquiry. One main component was absent from the course explored in this paper; direct collaboration with indigenous populations. To that end, future courses and projects exploring indigenous and critical research methods should incorporate the principles explored here to identify, seek permission from, and collaborate with indigenous research partners in ways that benefit the researched and the researcher according to the six identified tenets
