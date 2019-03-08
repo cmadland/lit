@@ -182,8 +182,7 @@ Article based on readings from:
 
 - conventional data collection methods may not be sufficient or appropriate
 - R can take on various roles during the process
->  - ally, advocate, learner, educator, counselor, or “conventional” researcher
-
+ - ally, advocate, learner, educator, counselor, or “conventional” researcher
 - Rs may work with gatekeepers, involve community members as co-researchers, learn about knowledge systems, participate in ceremonies, distribute or receive gifts, communicate with elders
 - requires flexibility beyond 'neutral and objective' interviewer, observer or surveyor
 - Rs engage in the process as directed by the community in terms of process and timeframe
