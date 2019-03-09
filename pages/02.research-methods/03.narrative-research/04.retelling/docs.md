@@ -3,6 +3,8 @@ title: Retelling
 taxonomy:
     category:
         - docs
+    tag:
+        - narres
 visible: true
 ---
 #### Discussion 2 - Mixed Groups

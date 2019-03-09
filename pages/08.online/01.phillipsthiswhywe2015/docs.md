@@ -3,6 +3,10 @@ title: 'This is Why We Cant Have Nice Things'
 taxonomy:
     category:
         - docs
+    tags:
+        - troll
+        - platform
+        - onled
 ---
 
 !!! Phillips, W. (2015). *This is why we can’t have nice things: Mapping the relationship between online trolling and mainstream culture.* Cambridge, Massachusetts: The MIT Press.

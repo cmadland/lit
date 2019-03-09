@@ -5,6 +5,8 @@ taxonomy:
     tags:
         - 'open education'
         - openness
+        - opened
+        - onled
     author:
         - 'Alan Tait'
 process:

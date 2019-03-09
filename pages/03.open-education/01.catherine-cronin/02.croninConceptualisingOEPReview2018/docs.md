@@ -9,6 +9,7 @@ taxonomy:
         - OEP
         - OER
         - 'OEP theory'
+        - opened
     author:
         - 'Catherine Cronin'
         - 'Iain MacLaren'

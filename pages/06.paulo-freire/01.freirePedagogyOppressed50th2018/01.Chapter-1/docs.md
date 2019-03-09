@@ -7,6 +7,7 @@ taxonomy:
         - 'open education'
         - oppression
         - pedagogy
+        - 'social justice'
     author:
         - 'Paulo Freire'
 process:

@@ -1,7 +1,12 @@
 ---
 title: Digital Colonialism
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tags:
+        - digcol
+        - colonial
+        - onled
 ---
 
 ### Digital

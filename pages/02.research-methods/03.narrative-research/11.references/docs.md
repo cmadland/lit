@@ -3,6 +3,8 @@ title: References
 taxonomy:
     category:
         - docs
+    tag:
+        - narres
 visible: true
 ---
 

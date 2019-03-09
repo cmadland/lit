@@ -3,6 +3,10 @@ title: 'Catherine Cronin'
 taxonomy:
     category:
         - docs
+    tag:
+        - opened
+        - cronin
+visible: true
 ---
 
 ### Catherine

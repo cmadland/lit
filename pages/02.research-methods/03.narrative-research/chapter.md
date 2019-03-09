@@ -1,7 +1,11 @@
 ---
 title: 'Narrative Research'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - narres
+visible: true
 ---
 
 

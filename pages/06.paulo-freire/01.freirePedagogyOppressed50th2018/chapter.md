@@ -1,7 +1,13 @@
 ---
 title: 'Pedagogy of the Oppressed'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tags:
+        - 'open education'
+        - oppression
+        - pedagogy
+        - 'social justice'
 ---
 
 ### Pedagogy of the

@@ -6,6 +6,7 @@ taxonomy:
         - 'open education'
         - counter-narrative
         - exclusion
+        - opened
     author:
         - 'Mariana Funes'
         - 'Jenny Mackness'

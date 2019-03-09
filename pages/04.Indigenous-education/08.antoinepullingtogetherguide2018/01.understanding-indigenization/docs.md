@@ -3,6 +3,8 @@ title: 'Understanding Indigenization'
 taxonomy:
     category:
         - docs
+    tag:
+        - inded
 visible: true
 ---
 

@@ -5,6 +5,7 @@ taxonomy:
     tags:
         - 'open education'
         - openness
+        - opened
     author:
         - 'Daniel Schlagwein'
         - 'Kieran Conboy'

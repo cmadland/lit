@@ -5,6 +5,7 @@ taxonomy:
     tags:
         - 'open education'
         - history
+        - opened
     author:
         - 'Larry Cuban'
 process:

@@ -1,7 +1,10 @@
 ---
 title: 'Fahy, Steel & Martin, 2009'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - inded
 ---
 
 !!! Fahy, P. J., Steel, N., & Martin, P. (2009). Preferences of Residents in Four Northern Alberta Communities Regarding Local Post-Secondary Programming. *The International Review of Research in Open and Distributed Learning, 10*(3). https://doi.org/10.19173/irrodl.v10i3.673

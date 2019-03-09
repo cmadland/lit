@@ -1,7 +1,10 @@
 ---
 title: 'Pulling Together'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - inded
 ---
 
 ### Pulling Together

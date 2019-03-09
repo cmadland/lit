@@ -1,7 +1,11 @@
 ---
 title: 'Open Education'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - opened
+visible: true
 child_type: docs
 ---
 

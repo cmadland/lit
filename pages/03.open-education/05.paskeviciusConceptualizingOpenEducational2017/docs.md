@@ -8,6 +8,7 @@ taxonomy:
         - OEP
         - OER
         - 'OEP theory'
+        - opened
     author:
         - 'Michael Paskevicius'
 process:

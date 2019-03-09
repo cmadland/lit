@@ -7,6 +7,7 @@ taxonomy:
         - 'open education practices'
         - OEP
         - OER
+        - opened
     author:
         - 'Catherine Cronin'
 process:

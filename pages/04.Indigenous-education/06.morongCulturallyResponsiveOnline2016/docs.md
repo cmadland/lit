@@ -1,7 +1,10 @@
 ---
 title: 'Morong & DesBiens, 2016'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - inded
 ---
 
 !!! Morong, G., & DesBiens, D. (2016). Culturally responsive online design: learning at intercultural intersections. Intercultural Education, 27(5), 474–492. https://doi.org/10.1080/14675986.2016.1240901

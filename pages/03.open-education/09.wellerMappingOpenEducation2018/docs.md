@@ -6,6 +6,9 @@ taxonomy:
         - 'open education'
         - 'open education practices'
         - OER
+        - opened
+        - onled
+        - disted
     author:
         - 'Martin Weller'
         - 'Katy Jordan'

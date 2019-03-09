@@ -3,6 +3,8 @@ title: Narrative Research
 taxonomy:
     category:
         - docs
+    tag:
+        - narres
 visible: true
 ---
 #### Narrative Research

@@ -1,7 +1,10 @@
 ---
 title: 'Online Education'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tags:
+        - onled
 ---
 
 ### Online
