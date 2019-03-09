@@ -3,6 +3,8 @@ title: 'Chapter 17'
 taxonomy:
     category:
         - docs
+    tag:
+        - 'edres text'
 visible: true
 ---
 

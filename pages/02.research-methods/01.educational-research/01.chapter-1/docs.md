@@ -3,6 +3,8 @@ title: 'Chapter 1'
 taxonomy:
     category:
         - docs
+    tag:
+        - 'edres text'
 visible: true
 ---
 

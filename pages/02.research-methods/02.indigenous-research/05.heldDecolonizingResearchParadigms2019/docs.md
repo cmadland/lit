@@ -1,7 +1,11 @@
 ---
 title: 'Held, 2019'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - 'indigenous research'
+visible: true
 ---
 
 !!! Held, M. B. E. (2019). Decolonizing Research Paradigms in the Context of Settler Colonialism: An Unsettling, Mutual, and Collaborative Effort. International Journal of Qualitative Methods, 18, [https://doi.org/10.1177/1609406918821574](https://doi.org/10.1177/1609406918821574)

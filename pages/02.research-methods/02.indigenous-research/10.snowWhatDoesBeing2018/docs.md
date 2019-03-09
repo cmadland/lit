@@ -1,7 +1,11 @@
 ---
 title: 'Snow, 2018'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - 'indigenous research'
+visible: true
 ---
 
 !!! Snow, K. (2018). What Does Being a Settler Ally in Research Mean? A Graduate Students Experience Learning From and Working Within Indigenous Research Paradigms. International Journal of Qualitative Methods, 17(1), 1609406918770485. [https://doi.org/10.1177/1609406918770485](https://doi.org/10.1177/1609406918770485)

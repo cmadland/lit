@@ -1,7 +1,11 @@
 ---
 title: 'Windchief & Pedro, 2019'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - 'indigenous research'
+visible: true
 ---
 
 !!! Windchief, S., & Pedro, T. S. (2019). Applying Indigenous Research Methods : Storying with Peoples and Communities. Routledge. Retrieved from [http://www.taylorfrancis.com/books/9781351690058](http://www.taylorfrancis.com/books/9781351690058)

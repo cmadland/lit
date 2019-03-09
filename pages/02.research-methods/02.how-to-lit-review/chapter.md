@@ -1,7 +1,11 @@
 ---
 title: 'Literature Reviews'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - 'litrev'
+visible: true
 ---
 
 

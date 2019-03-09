@@ -1,7 +1,11 @@
 ---
 title: 'Snow et al., 2015'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - 'indigenous research'
+visible: true
 ---
 
 !!! Snow, K. C., Hays, D. G., Caliwagan, G., Ford, D. J., Mariotti, D., Mwendwa, J. M., & Scott, W. E. (2015). Guiding principles for indigenous research practices. Action Research, 14(4), 357–375. [https://doi.org/10.1177/1476750315622542](https://doi.org/10.1177/1476750315622542)
