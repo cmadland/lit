@@ -1,7 +1,10 @@
 ---
 title: 'Bellous, 1995'
 taxonomy:
-    category: docs
+    category:
+        - docs
+    tag:
+        - tomato
     tags:
         - education
         - resist
