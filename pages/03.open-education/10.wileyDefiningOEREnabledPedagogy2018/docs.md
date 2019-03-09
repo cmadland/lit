@@ -6,6 +6,7 @@ taxonomy:
         - 'open education'
         - 'open education practices'
         - 'OER-enabled pedagogy'
+        - opened
     author:
         - 'David Wiley'
         - 'John Hilton'
