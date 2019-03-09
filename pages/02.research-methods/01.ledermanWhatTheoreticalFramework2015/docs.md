@@ -1,8 +1,10 @@
 ---
-title: Theoretical Framework
+title: 'Theoretical Framework'
 taxonomy:
     category:
         - docs
+    tag:
+        - tomato
 visible: true
 ---
 
