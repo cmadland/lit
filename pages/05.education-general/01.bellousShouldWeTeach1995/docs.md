@@ -3,8 +3,6 @@ title: 'Bellous, 1995'
 taxonomy:
     category:
         - docs
-    tag:
-        - tomato
     tags:
         - education
         - resist
