@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
     tag:
-        - tomato
+        - framework
 visible: true
 ---
 
