@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
     tag:
-        - 'indres'
+        - indres
 visible: true
 ---
 
