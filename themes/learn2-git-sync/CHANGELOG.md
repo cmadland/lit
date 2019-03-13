@@ -1,3 +1,15 @@
+# v1.3.1
+## 03/10/2019
+
+1. [](#bugfix)
+    * Restored needed 'RocketTheme\Toolbox\Event\Event;' instance
+
+# v1.3.0
+## 03/10/2019
+
+1. [](#new)
+    * Added taxonomy 'tag' to default TNTSearch index
+
 # v1.2.3
 ## 11/23/2018
 
