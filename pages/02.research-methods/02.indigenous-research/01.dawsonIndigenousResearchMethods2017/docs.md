@@ -135,9 +135,9 @@ situating the research within the context of the data source(s).
 > The principal benefit in choosing a culture-specific method is that many of the limitations inherent in imposing a Western method on an Indigenous group are nullified
 
 ! Across all five themes, each Indigenous research method had the following components:
-- >  Contextual reflection, in that the researchers must situate themselves and the Indigenous Peoples with whom they are collaborating in the research process.
-- > Inclusion of Indigenous Peoples in the research process in a way that is respectful and reciprocal as well as decolonizing and preserves self-determination
-- > Prioritization of Indigenous ways of knowing.
+! -  Contextual reflection, in that the researchers must situate themselves and the Indigenous Peoples with whom they are collaborating in the research process.
+! - Inclusion of Indigenous Peoples in the research process in a way that is respectful and reciprocal as well as decolonizing and preserves self-determination
+! - Prioritization of Indigenous ways of knowing.
 
 ### Lessons Learned
 
