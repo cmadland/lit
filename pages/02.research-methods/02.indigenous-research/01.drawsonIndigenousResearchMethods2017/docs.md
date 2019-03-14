@@ -1,5 +1,5 @@
 ---
-title: Indigenous Research Methods
+title: Drawson et al., 2017
 taxonomy:
     category:
         - docs
@@ -8,7 +8,7 @@ taxonomy:
 visible: true
 ---
 
-!!! Dawson, A., Toombs, E., & Mushquash, C. (2017). Indigenous Research Methods: A Systematic Review. *International Indigenous Policy Journal, 8*(02). [https://doi.org/10.18584/iipj.2017.8.2.5](https://doi.org/10.18584/iipj.2017.8.2.5)
+!!! Drawson, A., Toombs, E., & Mushquash, C. (2017). Indigenous Research Methods: A Systematic Review. *International Indigenous Policy Journal, 8*(02). [https://doi.org/10.18584/iipj.2017.8.2.5](https://doi.org/10.18584/iipj.2017.8.2.5)
 
 ### Abstract
 Indigenous communities and federal funding agencies in Canada have developed policy for ethical research with Indigenous Peoples. Indigenous scholars and communities have begun to expand the body of research regarding their peoples, and novel and innovative methods have begun to appear in the published literature. This review attempts to catalogue the wide array of Indigenous research methods in the peer-reviewed literature and describe commonalities among methods in order to guide researchers and communities in future method development. A total of 64 articles met inclusionary criteria and five themes emerged: General Indigenous Frameworks, Western Methods in an Indigenous Context, Community-Based Participatory Research, Storytelling, and Culture-Specific Methods.
