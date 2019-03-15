@@ -116,7 +116,7 @@ and spiritual conditions” (Rigney, as cited in Smith, 2005, p. 87) and in doin
 - use of talking circles has increased but should be considered as ceremony and sacred
   - > the information shared in talking circles is transmitted from generation to generation, usually by Elders who have specifi cally been chosen by other Elders or gifted from the spiritual world as keepers of the teachings of traditional culture (Wilson & Restoule, 2010). This knowledge must be protected and not shared freely.
   - Elder/facilitator must be involved in planning and preparing of safeguards
-  - all 4 talking circles ==in this study were preceded by a feast together==
+  - all 4 talking circles in this study were preceded by a feast together
   - Elder started the talking circle w/ traditional prayer and used a stone with special meaning to her for the current speaker
   - speakers were encouraged to share only what they were comfortable for as long as they wanted
 
@@ -130,3 +130,14 @@ and spiritual conditions” (Rigney, as cited in Smith, 2005, p. 87) and in doin
 - Canadian tri-council agencies recognizing importance
 
 > Academic hierarchal and linear realities of the academy specify ethical protocols, language, and Western methods of research, which challenged and impacted the research process. Research language in human ethics documents includes terms such as subjects, analysis and dissemination, whereas we used “women” rather than subjects, “letting the stories speak for themselves” rather than analysis, and “sharing knowledge” in place of dissemination. For example, the consent form was very problematic.
+
+> From my own experience in this and other Indigenous research projects, the following are guidelines to be mindful of when working with Indigenous people:
+1. Work with community members or Elders who can introduce you to the community and ensure protocols are respected and followed.
+2. Start face- to- face conversations long before the research begins and throughout the whole process.
+3. Ensure inclusiveness of First Nations/ Métis/Inuit people in all levels of the research process and policy development.
+4. Use research methodologies and methods acceptable to the community.
+5. Gain knowledge and understanding of historical colonization and be aware of ongoing contemporary colonial practices within the health care system and society.
+6. Realize that our own actions may purposefully or unintentionally perpetuate racist and discriminatory practices that marginalize and place people as “other.”
+7. Advocate for Aboriginal people to be part of the whole within health, education, policy, decision making and delivery.
+8. As researchers, be humble, willing to learn, and patient doing research “with” rather than “on” Aboriginal people. They are the experts.
+9. Realize that embracing cultural safety is a learned way of being and acting with all people and in all areas of life, not just professional health care practice.
