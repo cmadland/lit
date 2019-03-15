@@ -93,3 +93,40 @@ and spiritual conditions” (Rigney, as cited in Smith, 2005, p. 87) and in doin
   - R must be locally and ethically developed
   - culturally appropriate
   - critically evaluated
+
+> Porsanger (2004), a Sámi, describes Western research as starting with a research problem or question and leading to investigations or experiments to discover and interpret facts. For Indigenous people, this approach often takes for granted that there is a link between being “Indigenous” and having “problems.”
+
+### Constructing Indigenous methodology: Urban Aboriginal terrain
+
+> Indigenous methodologies start by defining an Indigenous agenda based on Indigenous epistemology and building reciprocal relationships between the researcher and the researched, “including and consulting indigenous peoples, not as objects but rather as participants, to predict possible negative outcomes, to share and protect knowledge, to use appropriate language and form in order to communicate results back to the people …” (Kovach, 2005, pp. 112–113).
+
+- inclusion of cultural protocols
+- ethical, respectful, useful values and behaviours
+  - embedded through reflexivity
+  - part of design, results, and sharing
+- research aims to decolonize
+  - requires new methods
+- ongoing, respectful, reciprocal relationships
+- shaped by aboriginal ways of knowing and doing
+- guided by ethics
+- co-shaped methodology that echoed ancient teachings
+
+> For us, Indigenous methodology was Indigenousled research by and for Indigenous peoples that is respectful, purposeful, intuitive, organic and fl uid without a step- by- step framework. It is relationship- based and shaped along the way by local knowledge and traditions and acknowledges life experiences and stories as authentic ways of knowing.
+
+- use of talking circles has increased but should be considered as ceremony and sacred
+  - > the information shared in talking circles is transmitted from generation to generation, usually by Elders who have specifi cally been chosen by other Elders or gifted from the spiritual world as keepers of the teachings of traditional culture (Wilson & Restoule, 2010). This knowledge must be protected and not shared freely.
+  - Elder/facilitator must be involved in planning and preparing of safeguards
+  - all 4 talking circles ==in this study were preceded by a feast together==
+  - Elder started the talking circle w/ traditional prayer and used a stone with special meaning to her for the current speaker
+  - speakers were encouraged to share only what they were comfortable for as long as they wanted
+
+### Insights in traversing the borderlands of Indigenous and Eurocentric worldviews in research
+
+> Being aware of the philosophical intent and cross- cultural perspective throughout the Indigenous research, as Smith (1999) suggests, researchers need to continually ask: Who owns the research? Who will design it, carry it out, write about it, and how will the results be distributed?
+
+> Colleagues suggested to me that using Indigenous methodologies could cause further marginalization of Indigenous people because of perceptions within the research academy that Indigenous research and researchers are not legitimate. As a researcher I was aware that naming or labelling the inquiry as Indigenous research risked criticism by those steeped in traditional Western research frameworks in which Indigenous research was “soft,” “second rate,” and similar to positivist views of qualitative paradigms.
+
+- acknowledgment that IR is sound is increasing
+- Canadian tri-council agencies recognizing importance
+
+> Academic hierarchal and linear realities of the academy specify ethical protocols, language, and Western methods of research, which challenged and impacted the research process. Research language in human ethics documents includes terms such as subjects, analysis and dissemination, whereas we used “women” rather than subjects, “letting the stories speak for themselves” rather than analysis, and “sharing knowledge” in place of dissemination. For example, the consent form was very problematic.
