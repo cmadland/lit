@@ -29,8 +29,7 @@ Indigenous research, Indigenous methodology, Indigenous knowledge
 - Western research processes originate in oppressive systems and fail to recognize methodologies that decolonize
 - Indigenous approach can draw on both interpretative and critical/emancipatory theories but does not fit into pre-existing Western paradigms
 
-> Decolonizing methodologies “privilege Indigenous knowledge, voices, experiences, refl ections, and analyses of their social, material
-and spiritual conditions” (Rigney, as cited in Smith, 2005, p. 87) and in doing so increase the presence, visibility and voice of Indigenous people (Brown & Strega, 2005; Kovach, 2005; Smith, 1999) and protect Indigenous knowledge.
+> Decolonizing methodologies “privilege Indigenous knowledge, voices, experiences, reflections, and analyses of their social, material and spiritual conditions” (Rigney, as cited in Smith, 2005, p. 87) and in doing so increase the presence, visibility and voice of Indigenous people (Brown & Strega, 2005; Kovach, 2005; Smith, 1999) and protect Indigenous knowledge.
 
 ### Understanding Indigenous knowledge in Indigenous research
 - IR should be developed and led by Indigenous scholars alongside non-Indigenous researchers
