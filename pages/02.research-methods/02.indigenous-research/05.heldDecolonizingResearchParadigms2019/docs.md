@@ -5,6 +5,7 @@ taxonomy:
         - docs
     tag:
         - indres
+        - paradigm
 visible: true
 ---
 
@@ -105,4 +106,4 @@ cross-cultural research, decolonizing methodologies, decolonizing paradigm, Indi
 > While the transformative paradigm is still a Western approach, it is value driven due to its interest in power relations and thus has the potential to be more inclusive of other, including non-Western, epistemologies, and ontologies (Cram & Mertens, 2015, 2016).
 
 ! - Cram F., Mertens D. M. (2015). Transformative and Indigenous frameworks for mixed- and multi-method research. In Hesse-Biber S., Johnson R. B. (Eds.), *The Oxford handbook of multimethod and mixed methods research inquiry* (pp. 91–109). Oxford, England: Oxford University Press.
-! - Cram F., Mertens D. M. (2016). Negotiating solidarity between indigenous and transformative paradigms in evaluation. *Evaluation Matters—He Take Tō Te Aromatatwai, 2*, 161–189. doi:10.18296/em.0015 
+! - Cram F., Mertens D. M. (2016). Negotiating solidarity between indigenous and transformative paradigms in evaluation. *Evaluation Matters—He Take Tō Te Aromatatwai, 2*, 161–189. doi:10.18296/em.0015
