@@ -5,7 +5,7 @@ taxonomy:
         - docs
     tag:
         - indres
-visible: false
+visible: true
 ---
 
 !!! Kurtz, D. L. M. (2013). Indigenous Methodologies: Traversing Indigenous and Western worldviews in research. *AlterNative: An International Journal of Indigenous Peoples, 9*(3), 217–229. [https://doi.org/10.1177/117718011300900303](https://doi.org/10.1177/117718011300900303)
