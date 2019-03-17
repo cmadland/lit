@@ -1,5 +1,5 @@
 ---
-title: 'Indigenous Research'
+title: 'Indigenous Research Methods'
 taxonomy:
     category:
         - docs
@@ -8,4 +8,4 @@ taxonomy:
 visible: true
 ---
 
-## Review of literature on Indigenous Research Methods
+## Indigenous Research Methods
