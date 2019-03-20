@@ -79,7 +79,16 @@ cross-cultural research, decolonizing methodologies, decolonizing paradigm, Indi
 
 !! This article discusses the need for a third route where a new multiparadigmatic space is coproduced by Western and Indigenous scholars with the aspiration of true and full decolonization, understood as a mutual endeavor with an unpredictable outcome.
 
-### Western Research Paradigms
+### Positionality
+- doing research at the intersection of western and Indigenous ways of knowing can become an expression of colonialism
+- pitfalls
+  - focusing on the differences between western and Indigenous WoK
+  - evading epistemic racism
+  - using Indigenous knowledge solely to corroborate and complement western knowledge
+
+### Philosophical Orientations of Social Inquiry
+
+##### Western Research Paradigms
 
 - Positivism (empiricism)
   - borrowed from natural sciences
@@ -107,3 +116,41 @@ cross-cultural research, decolonizing methodologies, decolonizing paradigm, Indi
 
 ! - Cram F., Mertens D. M. (2015). Transformative and Indigenous frameworks for mixed- and multi-method research. In Hesse-Biber S., Johnson R. B. (Eds.), *The Oxford handbook of multimethod and mixed methods research inquiry* (pp. 91–109). Oxford, England: Oxford University Press.
 ! - Cram F., Mertens D. M. (2016). Negotiating solidarity between indigenous and transformative paradigms in evaluation. *Evaluation Matters—He Take Tō Te Aromatatwai, 2*, 161–189. doi:10.18296/em.0015
+
+- pragmatic paradigm may be employed in MM research to merge conflicting qual and quan methods
+- focus on common sense and less metaphysical
+  - intersubjectivity of the social life
+  - allows researcher to study whatever is of interest
+  - limited to gain knowledge to pursue desired ends
+  - freedom to choose and combine methods as appropriate to the question
+
+##### Indigenous frameworks
+
+- Indigenous peoples distrust 'research' and have become among the most researched people groups
+  - natural scientists examined Indigenous territory in order to exploit resources for profit
+  - white settler social scientists studied Indigenous peoples in order to solve 'Indigenous problems'  and inform policy
+  - research was carried out by non-Indigenous people using a colonial worldview
+  - R was exploitative and Indigenous communities were not beneficiaries, or even equal participants
+  - not only aimed at assimilating Indigenous ppl, but also invasive and unethical (skin grafting experiments on Inuit ppl w/o consent)
+- early Indigenous paradigms developed by Māori in NZ and also Indigenist paradigm in Australia.
+- North American Indigenous groups followed as well as African, Latin American, and Pacific Islanders
+
+> By developing and expressing Indigenous research paradigms and methodologies, Indigenous scholars from around the world are reclaiming research, and with it knowledge, language, and culture, for their peoples. Regaining control over research by reframing it under their worldviews is an act of resistance to racist and colonial oppression (Martin, 2002, as cited in Rigney, 1999; Steinhauer, 2002).
+
+- Common reason for using Indigenous approaches is to decolonize western approaches
+- commonality among Indigenous approaches
+  - ontologies, epistemologies, axiologies, and methodologies are all rooted in the land, and in the local.
+  - methodologies and epistemologies are forms of critical pedagogy in that “they embody a critical politics of representation that is embedded in the rituals of indigenous communities” (Denzin & Lincoln, 2008a, p. 3)
+  - surprisingly similar across the world in terms of understanding of interconnectedness and interdependence
+  - long-term perspectives
+  - adaptaion to change
+  - commitment to the commons
+- some  have proposed pan-indigenous paradigms, others say such are too general to be useful
+
+> - metaphysical assumptions of Indigenous research paradigms
+>   - a relativist (there are multiple, socially and historically shaped realities) and relational ontology (mutual reality based on multitude of relationships)
+>   - an intersubjective and relational epistemology in which knowledge is relational, that is, based on a multitude of relationships (in Indigenous philosophy, there is no clear distinction between ontology and epistemology due to their relationality)
+>   - an axiology that promotes respectful representation and reciprocity through relational accountability; and
+>   - a participatory, liberatory methodology that is relational and transformative (Chilisa, 2012; Wilson, 2008)
+
+- relationality is central, as is knowledge as a collective, including the spiritual world and entire cosmos
