@@ -1,12 +1,7 @@
 ---
-title: 'Online Education'
+title: 'Glossary'
 taxonomy:
     category:
         - docs
     tags:
-        - onled
 ---
-
-### Online
-
-# Education
