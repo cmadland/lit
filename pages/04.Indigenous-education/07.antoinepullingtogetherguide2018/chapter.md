@@ -1,8 +1,7 @@
 ---
-title: 'Pulling Together'
+title: 'Antoine, 2018'
 taxonomy:
-    category:
-        - docs
+    category: docs
     tag:
         - inded
 ---
