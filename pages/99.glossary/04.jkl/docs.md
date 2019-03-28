@@ -1,8 +1,9 @@
 ---
-title: 'ABC'
+title: JKL
 taxonomy:
     category:
         - docs
-    tags:
+visible: true
 ---
-# ABC
+
+# JKL
