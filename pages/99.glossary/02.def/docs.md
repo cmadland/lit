@@ -1,8 +1,9 @@
 ---
-title: 'ABC'
+title: DEF
 taxonomy:
     category:
         - docs
-    tags:
+visible: true
 ---
-# ABC
+
+# DEF
