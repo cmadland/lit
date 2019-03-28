@@ -1,5 +1,5 @@
 ---
-title: Lester-Smith & Price, 2010
+title: 'Lester-Smith & Price, 2010'
 taxonomy:
     category:
         - docs

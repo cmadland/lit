@@ -1,5 +1,5 @@
 ---
-title: Drawson et al., 2017
+title: 'Drawson et al., 2017'
 taxonomy:
     category:
         - docs

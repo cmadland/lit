@@ -1,5 +1,5 @@
 ---
-title: Kurtz, 2013
+title: 'Kurtz, 2013'
 taxonomy:
     category:
         - docs
