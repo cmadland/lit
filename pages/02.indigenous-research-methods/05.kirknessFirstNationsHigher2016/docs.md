@@ -1,5 +1,5 @@
 ---
-title: Kirkness & Barnhardt, 2016
+title: 'Kirkness & Barnhardt, 2016'
 taxonomy:
     category:
         - docs
