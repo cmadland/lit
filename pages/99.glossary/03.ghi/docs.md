@@ -5,11 +5,12 @@ taxonomy:
         - docs
     tags:
 ---
-# GHI
+- [Indigenous Knowledge](indigenous-knowledge)
+
 
 ---
 
-##### Indigenous Knowledge <a id="indigenous-knowledge"></a>
+##### Indigenous Knowledge {indigenous-knowledge}
 
 > Indigenous knowledge is defined by UNESCO (2017) as the understandings, skills, and philosophies developed by societies with long histories of interaction with their natural surroundings. Battiste and Henderson (2000) add that these are systems. One part is not easily extricated from the whole without changing its nature. Castellano (2000) talks about systems of Indigenous knowledge as having three sources, traditional, empirical, and revealed, as well as five characteristics that include being experiential, holistic, personal, orally transmitted, and using narrative and metaphor.
 
