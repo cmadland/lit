@@ -1,10 +1,12 @@
 ---
-title: 'GHI'
+title: GHI
 taxonomy:
     category:
         - docs
-    tags:
+page-toc:
+    active: true
 ---
+
 - [Indigenous Knowledge](#indigenous-knowledge)
 - [Indigenous Research](#indigenous-research)
 
