@@ -6,6 +6,7 @@ taxonomy:
     tags:
 ---
 - [Indigenous Knowledge](#indigenous-knowledge)
+- [Indigenous Research](#indigenous-research)
 
 
 ---
