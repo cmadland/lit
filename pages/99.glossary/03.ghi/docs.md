@@ -7,13 +7,11 @@ page-toc:
     active: true
 ---
 
-- [Indigenous Knowledge](#indigenous-knowledge)
-- [Indigenous Research](#indigenous-research)
 
 
 ---
 
-##### Indigenous Knowledge {indigenous-knowledge}
+##### Indigenous Knowledge
 
 > Indigenous knowledge is defined by UNESCO (2017) as the understandings, skills, and philosophies developed by societies with long histories of interaction with their natural surroundings. Battiste and Henderson (2000) add that these are systems. One part is not easily extricated from the whole without changing its nature. Castellano (2000) talks about systems of Indigenous knowledge as having three sources, traditional, empirical, and revealed, as well as five characteristics that include being experiential, holistic, personal, orally transmitted, and using narrative and metaphor.
 
@@ -21,7 +19,7 @@ page-toc:
 
 ---
 
-##### Indigenous Research <a id="indigenous-research"></a>
+##### Indigenous Research
 
 > Research in any field or discipline that is conducted by, grounded in or engaged with First Nations, Inuit, Métis or other Indigenous nations, communities, societies or individuals, and their wisdom, cultures, experiences or knowledge systems, as expressed in their dynamic forms, past and present. Indigenous research can embrace the intellectual, physical, emotional and/or spiritual dimensions of knowledge in creative and interconnected relationships with people, places and the natural environment.
 
