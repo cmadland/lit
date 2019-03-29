@@ -9,7 +9,7 @@ taxonomy:
 
 
 
----
+
 
 ##### Indigenous Knowledge
 
@@ -17,7 +17,7 @@ taxonomy:
 
 !!! Restoule, J.-P. (2017). Where Indigenous Knowledge Lives: Bringing Indigenous Perspectives to Online Learning Environments. In E. A. McKinley & L. T. Smith (Eds.), Handbook of Indigenous Education (pp. 1–23). [https://doi.org/10.1007/978-981-10-1839-8_62-1](https://doi.org/10.1007/978-981-10-1839-8_62-1)
 
----
+
 
 ##### Indigenous Research
 
