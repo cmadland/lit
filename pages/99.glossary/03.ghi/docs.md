@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 page-toc:
-    active: false
+    active: true
 ---
 
 
