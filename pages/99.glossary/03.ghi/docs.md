@@ -5,7 +5,7 @@ taxonomy:
         - docs
     tags:
 ---
-- [Indigenous Knowledge](indigenous-knowledge)
+- [Indigenous Knowledge](#indigenous-knowledge)
 
 
 ---
