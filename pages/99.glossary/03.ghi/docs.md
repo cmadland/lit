@@ -1,10 +1,10 @@
 ---
 title: GHI
+page-toc:
+    active: true
 taxonomy:
     category:
         - docs
-page-toc:
-    active: true
 ---
 
 
