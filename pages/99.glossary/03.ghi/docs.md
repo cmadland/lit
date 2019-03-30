@@ -8,16 +8,19 @@ taxonomy:
 ---
 
 
+##### Indigenous Education
 
+> learning throughout the life course that is shared and draws from the accumulated knowledge and wisdom of Indigenous communities.
 
-
+!!! Restoule, J.-P. (2017). Where Indigenous Knowledge Lives: Bringing Indigenous Perspectives to Online Learning Environments. In E. A. McKinley & L. T. Smith (Eds.), Handbook of Indigenous Education (pp. 1–23). [https://doi.org/10.1007/978-981-10-1839-8_62-1](https://doi.org/10.1007/978-981-10-1839-8_62-1)
+---
 ##### Indigenous Knowledge
 
 > Indigenous knowledge is defined by UNESCO (2017) as the understandings, skills, and philosophies developed by societies with long histories of interaction with their natural surroundings. Battiste and Henderson (2000) add that these are systems. One part is not easily extricated from the whole without changing its nature. Castellano (2000) talks about systems of Indigenous knowledge as having three sources, traditional, empirical, and revealed, as well as five characteristics that include being experiential, holistic, personal, orally transmitted, and using narrative and metaphor.
 
 !!! Restoule, J.-P. (2017). Where Indigenous Knowledge Lives: Bringing Indigenous Perspectives to Online Learning Environments. In E. A. McKinley & L. T. Smith (Eds.), Handbook of Indigenous Education (pp. 1–23). [https://doi.org/10.1007/978-981-10-1839-8_62-1](https://doi.org/10.1007/978-981-10-1839-8_62-1)
 
-
+---
 
 ##### Indigenous Research
 
