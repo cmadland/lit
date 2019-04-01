@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
     tag:
-        - indres
+        - indigenous research
         - paradigm
 visible: true
 ---

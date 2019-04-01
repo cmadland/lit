@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
     tag:
-        - indres
+        - indigenous research
         - 5rs
         - 4rs
 visible: true
