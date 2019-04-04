@@ -5,7 +5,7 @@ taxonomy:
         - docs
     tags:
 ---
-# PQR
+
 ##### Pedagogy
 > To teach in a way that leads. Pedagogy is always ideological and political.
 
