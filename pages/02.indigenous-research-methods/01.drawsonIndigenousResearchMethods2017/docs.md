@@ -42,7 +42,7 @@ promote best practices within Indigenous research.
 
 !!! Makomenaw, M. V. A. (2012). Welcome to a new world: experiences of American Indian tribal college and university transfer students at predominantly white institutions. *International Journal of Qualitative Studies in Education, 25*(7), 855–866. [https://doi.org/10.1080/09518398.2012.720732](https://doi.org/10.1080/09518398.2012.720732)
 
-> Chinn (2007) described utilizing decolonizing methodologies originally laid out by Smith (1999) to examine secondary school science curriculum “through the lenses of marginalized (traditional, local, indigenous, sustainable) and dominant cultures (capitalistic, consumer oriented)” (p. 1254). They also engaged participants in five of the critical Indigenous research activities proposed by Smith (1999): Indigenizing, connecting, writing, representing, and discovering.
+! Chinn (2007) described utilizing decolonizing methodologies originally laid out by Smith (1999) to examine secondary school science curriculum “through the lenses of marginalized (traditional, local, indigenous, sustainable) and dominant cultures (capitalistic, consumer oriented)” (p. 1254). They also engaged participants in five of the critical Indigenous research activities proposed by Smith (1999): Indigenizing, connecting, writing, representing, and discovering.
 
 ### Methods Often Used in a Western Context
 
