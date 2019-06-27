@@ -60,18 +60,18 @@ Big Data, Big Tech, digital colonialism, digital ecosystem, global surveillance 
 
 - Digital power linked through 3 pillars of digital ecosystem:
   - software
-    - rules embedded by developers determine the technological freedoms of users
-    - domination exercised through licenses and hardware ownership
-    - MS users must pay for the right to use the software, can't read the code, can't change the code, can't share a copy
+      - rules embedded by developers determine the technological freedoms of users
+      - domination exercised through licenses and hardware ownership
+      - MS users must pay for the right to use the software, can't read the code, can't change the code, can't share a copy
   - hardware
-    - software run on 3rd party servers, (Fb software runs on Fb servers) ... users dispossessed of their ability to control SW
-    - centralised ownership of HW,
+      - software run on 3rd party servers, (Fb software runs on Fb servers) ... users dispossessed of their ability to control SW
+      - centralised ownership of HW,
       - 'cloud' computing means HW providers will only provide low-power, low-memory devices, meaning that computation will be centralised and controlled by corps
-    - HW designed to prevent changing SW
+      - HW designed to prevent changing SW
       - Apple and macOS and iOS
   - network connectivity
-    - net neutrality protects users from corps paying for a fast-lane
-    - ISPs can detect and throttle Tor traffic
+      - net neutrality protects users from corps paying for a fast-lane
+      - ISPs can detect and throttle Tor traffic
 
 ### Intellectual property and empire
 - copyright industry threatened by mass sharing of paywalled pubs (sci-hub)
