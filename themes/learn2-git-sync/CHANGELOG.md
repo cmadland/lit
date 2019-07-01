@@ -1,3 +1,56 @@
+# v1.5.5
+## 06/03/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v1.5.4
+## 05/05/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v1.5.3
+## 05/04/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v1.5.2
+## 05/01/2019
+
+1. [](#bugfix)
+    * Added missing images folder with clippy.svg and default favicons
+
+# v1.5.1
+## 04/12/2019
+
+1. [](#new)
+    * Added insert Presentation Shortcode button into Editor toolbar
+
+# v1.5.0
+## 04/11/2019
+
+1. [](#new)
+    * Set Grav dependency to 1.6+
+    * Twig 2.0 compatibility
+    * Added scripts.html.twig file to hold global JavaScript code
+    * Added support for document versioning using Grav's multi-language feature (thanks @rhuk)
+    * Added 'version' alias to 'language' shortcode, for example `[version=20]...[/version]` (thanks @rhuk)
+    * Added taxonomy 'tag' to default TNTSearch index
+    * Added Presentation Plugin as dependency
+    * Added insert Presentation Shortcode button into Editor toolbar
+    * Added example pages in theme '_demo' folder to include use of the Presentation Plugin
+    * Implement assets rendering using **Deferred Block** Twig extension
+1. [](#improved)
+    * Improved appearance of versions dropdown menu with custom themes
+
+# v1.3.3
+## 04/02/2019
+
+1. [](#new)
+    * Added scripts.html.twig file to hold global JavaScript code
+
 # v1.3.2
 ## 03/22/2019
 

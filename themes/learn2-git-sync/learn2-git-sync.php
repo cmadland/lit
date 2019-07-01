@@ -15,9 +15,18 @@ class Learn2GitSync extends Learn2
     public static function getSubscribedEvents()
     {
         return [
+            'onTwigInitialized' => ['onTwigInitialized', 0],
             'onThemeInitialized' => ['onThemeInitialized', 0],
+            'onTwigSiteVariables' => ['onTwigSiteVariables', 0],
             'onTNTSearchIndex' => ['onTNTSearchIndex', 0]
         ];
+    }
+
+    public function onTwigSiteVariables()
+    {
+        if ($this->isAdmin() && ($this->grav['config']->get('plugins.shortcode-core.enabled'))) {
+            $this->grav['assets']->add('theme://editor-buttons/admin/js/shortcode-presentation.js');
+        }
     }
 
     public function onTNTSearchIndex(Event $e)
@@ -25,9 +34,15 @@ class Learn2GitSync extends Learn2
         $fields = $e['fields'];
         $page = $e['page'];
         $taxonomy = $page->taxonomy();
+
         if (isset($taxonomy['tag'])) {
             $fields->tag = implode(",", $taxonomy['tag']);
         }
+    }
+
+    public function onTwigInitialized() {
+        $sc = $this->grav['shortcode'];
+        $sc->getHandlers()->addAlias('version', 'lang');
     }
 
     /**

@@ -1,3 +1,3 @@
 ---
-title: Advanced Full-text Search
+title: TNTSearch Search
 ---
