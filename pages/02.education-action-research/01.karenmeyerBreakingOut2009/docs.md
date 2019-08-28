@@ -53,7 +53,7 @@ Problem and RQ are initially the researchers' and were related to health of wome
 
 Over time, the women begin to articulate their own questions.
 
-> The initial research question expanded as those of us on the research team outside the correctional centre began to translate our research curiosity to their institutional needs and personal desires. Their questions were: What are the barriers that stop women in prison from successful integration into society? What do we need so that we stop coming back? The “we” referred to the inmates themselves and addressed the high percentage that return to prison within a few years. (p. 274)
+> The initial research question expanded as those of us on the research team outside the correctional centre began to translate our research curiosity to their institutional needs and personal desires. Their questions were: *What are the barriers that stop women in prison from successful integration into society? What do we need so that we stop coming back?* The “we” referred to the inmates themselves and addressed the high percentage that return to prison within a few years. (p. 274)
 
 
 #### What is the value of this study (the author(s)’ conclusion and your critical opinion)
