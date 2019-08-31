@@ -89,3 +89,20 @@ What does it mean to let go of the idea that university researchers can be detac
 
 > Fine and Torre (2008) so eloquently express,
 > . . . our work is nested within institutions, and typically launched from the perspective of those with the least power, our research collectives must continually revisit questions of the research purpose — *for whom* is the work and *toward what ends?* (p. 408) (p. 271)
+
+
+One value of the study is providing push-back against supposed neutrality in qual research.
+
+> Still, today, in conventional qualitative practices, we (researchers) go in and take out. The “take-out” is in the not being present, in the not listening. In thinking that interpretation is just a matter of coding the texts with participants (what you might call an “inside job”), “Our informants are then left carrying the burden of representations as we hide behind the cloak of alleged neutrality” (Fine et al., 2003, p. 169). If we fail to acknowledge the relationship between research and participants and the politics engaged, we neglect our responsibilities. PAR requires that we open spaces for the articulation of the yet unsaid, and the unspeakable. (p. 277)
+
+### Another question...
+
+How do we engage with 'the other'?
+
+> What happens when we come into close proximity with our co-researchers in prison, wearing our security badges, dressed in the clothing of expertise? A fear of proximity (how close?) as well as concern for the responsibility to what is left unsaid stirs our attention: How should we engage? (p. 282)
+
+> What we learned during the research experience, and particularly through our attempts at data analysis, are that issues of interpretation require a willingness to engage outside the methods set forth by methodology, and that we must be present, listen, and care, and “let the other be other while speaking, speaking to them” (Irigaray, 2002, p. 29). (p. 284)
+
+> The epiphany from observing this unexpected backward and forward conversation the women had with the transcripts, as a process of understanding, alerted us to meaning beyond the lines of text. “Nothing that is said has its truth simply in itself, but refers instead backward and forward to what is unsaid” (Gadamer, 1976, p. 67). Without the women’s dialogue with the transcripts and each other, much more of the local knowing, the unsaid, and the unspeakable, would have remained unspoken. (p. 284)
+
+> Our challenge as researchers in the academy is to listen with wide-awakeness, so that we might learn how to create a welcoming, thoughtful space for the unsaid, the unspeakable that haunt the lines between the transcriptions and conversations with the women who have offered their presence in this writing. (p. 288)
