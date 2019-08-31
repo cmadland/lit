@@ -74,6 +74,9 @@ However, how different are the contexts of the university and the prison, really
 
 > Throughout this project, it was continually brought to our attention, as researchers and prisoners engaged in a participatory action research model, that we were operating in the margins of normal institutional behavior—that of the correctional centre, and that of the university. However, it was undeniable that the positionality of our mutual locations impacted our encounter. Both institutions undertake surveillance, both operate as gatekeepers, within an “economy of power,” which fabricates the norm and enforces it (Foucault, 1977, p. 303) (p. 277-278)
 
+The power in this study is that the research project was reciprocal, not extractive. The researchers had the humility and fortitude to lay down their tools of 'interpretation' and 'coding' and to begin to *listen* to the women and *their* interpretations of *their* stories and experiences. The temptation to take the transcripts back to their offices for analysis must have been significant in the face of the difficulty in listening to what was not said in the transcripts.
+
+In my own plans for my dissertation, this will be critical as I, a white settler, seek to engage with Indigenous communities in exploring how online and digital learning environments might promote Indigenous self-determination. In essence, I must ~~become~~ recognize that *I* am the 'other'.
 
 ---
 
