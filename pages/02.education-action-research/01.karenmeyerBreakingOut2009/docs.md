@@ -20,9 +20,9 @@ Prisons, Incarceration, Data analysis, Prisoners, Research skills, Handbooks, Pr
 
 ---
 
-### EDCP 512A - Discussion 1a
+### [EDCP 512A - Discussion 1a](https://canvas.ubc.ca/courses/40796/discussion_topics/320436)
 
-Read by attending to the language used, the style in terms of how the story is shared, how the researchers draw upon and make use of the literature, the positionality of the researchers (that is, the relationship of the researchers and participants), the nature of the research project.
+> Read by attending to the language used, the style in terms of how the story is shared, how the researchers draw upon and make use of the literature, the positionality of the researchers (that is, the relationship of the researchers and participants), the nature of the research project.
 
 ####  What is the position of the researcher(s) and the participants? What is the relationship of the researcher(s) and participant(s)?
 
