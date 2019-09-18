@@ -1,7 +1,8 @@
 ---
-title: 'Glossary'
+title: Glossary
 taxonomy:
     category:
         - docs
-    tags:
+    tags: null
 ---
+

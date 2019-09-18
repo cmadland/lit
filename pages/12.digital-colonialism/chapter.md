@@ -1,5 +1,5 @@
 ---
-title: Digital Colonialism
+title: 'Digital Colonialism'
 taxonomy:
     category:
         - docs

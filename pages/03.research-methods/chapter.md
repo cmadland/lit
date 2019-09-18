@@ -1,5 +1,5 @@
 ---
-title: Research Methods
+title: 'Research Methods'
 taxonomy:
     category: docs
     tag:

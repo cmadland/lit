@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
     tag:
-        - action research
+        - 'action research'
 visible: true
 ---
 
