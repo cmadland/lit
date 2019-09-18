@@ -3,8 +3,6 @@ title: Field Texts
 taxonomy:
     category:
         - docs
-    tag:
-        - narres
 visible: true
 ---
 - term used instead of 'data'

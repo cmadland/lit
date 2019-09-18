@@ -3,8 +3,6 @@ title: Research Puzzles
 taxonomy:
     category:
         - docs
-    tag:
-        - narres
 visible: true
 ---
 

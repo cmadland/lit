@@ -3,8 +3,6 @@ title: Strengths and Weaknesses
 taxonomy:
     category:
         - docs
-    tag:
-        - narres
 visible: true
 ---
 

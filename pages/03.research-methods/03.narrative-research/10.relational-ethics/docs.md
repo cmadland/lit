@@ -3,8 +3,6 @@ title: Relational Ethics
 taxonomy:
     category:
         - docs
-    tag:
-        - narres
 visible: true
 ---
 - not only at the outset in IRB approval, but  constantly negotiated

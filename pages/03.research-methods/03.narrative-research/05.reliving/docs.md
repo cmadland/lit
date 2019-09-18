@@ -3,8 +3,6 @@ title: Reliving
 taxonomy:
     category:
         - docs
-    tag:
-        - narres
 visible: true
 ---
 #### Discussion 3 - Full Group

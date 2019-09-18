@@ -3,8 +3,6 @@ title: 'Theoretical Framework'
 taxonomy:
     category:
         - docs
-    tag:
-        - framework
 visible: true
 ---
 

@@ -3,8 +3,6 @@ title: 'Chapter 4'
 taxonomy:
     category:
         - docs
-    tag:
-        - 'edres text'
 visible: true
 ---
 

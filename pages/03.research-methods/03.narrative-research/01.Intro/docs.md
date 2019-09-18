@@ -3,8 +3,6 @@ title: Introduction
 taxonomy:
     category:
         - docs
-    tag:
-        - narres
 visible: true
 ---
 

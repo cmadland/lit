@@ -3,8 +3,6 @@ title: Characteristics
 taxonomy:
     category:
         - docs
-    tag:
-        - narres
 visible: true
 ---
 #### 4 key terms

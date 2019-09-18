@@ -3,8 +3,6 @@ title: Research Texts
 taxonomy:
     category:
         - docs
-    tag:
-        - narres
 visible: true
 ---
 

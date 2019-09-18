@@ -3,8 +3,6 @@ title: Living
 taxonomy:
     category:
         - docs
-    tag:
-        - narres
 visible: true
 ---
 #### Group Juggling
