@@ -13,8 +13,7 @@ visible: true
 <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
-<br />
-This work, <span property="dct:title">Principles of Truth and Reconciliation</span>, by <a href="http://nctr.ca/assets/reports/Final%20Reports/Principles_English_Web.pdf" rel="dct:creator"><span property="dct:title">The Truth and Reconciliation Commission of Canada</span></a>, is free of known copyright restrictions.
+This work, <span property="dct:title">"Principles of Truth and Reconciliation"</span>, by <a href="http://nctr.ca/assets/reports/Final%20Reports/Principles_English_Web.pdf" rel="dct:creator"><span property="dct:title">The Truth and Reconciliation Commission of Canada</span></a>, is free of known copyright restrictions.
 </p>
 
 
