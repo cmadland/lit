@@ -4,7 +4,9 @@ taxonomy:
     category:
         - docs
     tag:
-        - action research
+        - truth
+        - reconciliation
+        - trc 
 visible: true
 ---
 
@@ -16,8 +18,6 @@ visible: true
 This work, <span property="dct:title">"Principles of Truth and Reconciliation"</span>, by <a href="http://nctr.ca/assets/reports/Final%20Reports/Principles_English_Web.pdf" rel="dct:creator"><span property="dct:title">The Truth and Reconciliation Commission of Canada</span></a>, is free of known copyright restrictions.
 </p>
 
-
-# Principles of Reconciliation
 The Truth and Reconciliation Commission of Canada believes that in order for Canada to flourish in the twenty-first century, reconciliation between Aboriginal and non-Aboriginal Canada must be based on the following principles.
 1. The United Nations Declaration on the Rights of Indigenous Peoples is the framework for reconciliation at all levels and across all sectors of Canadian society.
 2. First Nations, Inuit, and Métis peoples, as the original peoples of this country and as self-determining peoples, have Treaty, constitutional, and human rights that must be recognized and respected.
