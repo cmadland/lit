@@ -3,8 +3,6 @@ title: 'Meyer & Fels, 2009'
 taxonomy:
     category:
         - docs
-    tag:
-        - action research
 visible: true
 ---
 

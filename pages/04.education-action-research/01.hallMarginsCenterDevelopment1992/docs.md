@@ -3,8 +3,6 @@ title: 'Hall, 1992'
 taxonomy:
     category:
         - docs
-    tag:
-        - action research
 visible: true
 ---
 
