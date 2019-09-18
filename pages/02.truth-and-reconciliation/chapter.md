@@ -1,11 +1,13 @@
 ---
-title: 'Education Action Research'
+title: 'Truth and Reconciliation'
 taxonomy:
     category:
         - docs
     tag:
-        - action research
+        - truth
+        - reconciliation
+        - trc
 visible: true
 ---
 
-## Education Action Research
+## Truth and Reconciliation
