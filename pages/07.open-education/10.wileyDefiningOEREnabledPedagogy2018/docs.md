@@ -2,14 +2,6 @@
 title: 'Wiley & Hilton 2018'
 taxonomy:
     category: docs
-    tags:
-        - 'open education'
-        - 'open education practices'
-        - 'OER-enabled pedagogy'
-        - opened
-    author:
-        - 'David Wiley'
-        - 'John Hilton'
 process:
     markdown: true
     twig: true

@@ -3,8 +3,6 @@ title: 'Drawson et al., 2017'
 taxonomy:
     category:
         - docs
-    tag:
-        - indigenous research
 visible: true
 ---
 

@@ -3,9 +3,6 @@ title: 'Held, 2019'
 taxonomy:
     category:
         - docs
-    tag:
-        - indigenous research
-        - paradigm
 visible: true
 ---
 
@@ -179,4 +176,4 @@ cross-cultural research, decolonizing methodologies, decolonizing paradigm, Indi
 
 > Another transdisciplinary pathway is two-eyed seeing, coined by Mi’kmaq Elder Albert Marshall and first developed as a colearning journey that weaves together Indigenous and Western knowledges in science education (Bartlett, Marshall, & Marshall, 2012).2 These Indigenous paradigms can be used by Indigenous and non-Indigenous researchers alike, for, as Chilisa et al. (2017) posit, paradigmatic positions need not be treated in exclusivist terms, that is, that the use of one precludes thinking in terms of the other. Recognizing the need for diversity among the current “big four” (Dillard, 2006) Western research paradigms (postpositivist, constructivist, transformative, and pragmatic), Indigenous and Western scholars have called for the inclusion of a fifth paradigm, one based on non-Western perspectives, be they African, Eastern, African American, or Cree (e.g., Buntu, 2013; Chilisa, 2012; Chilisa et al., 2017; Dillard, 2006; Romm, 2015; Russon, 2008; Wilson, 2008).
 
-> Ultimately, abolishing Western epistemological dominance is a global challenge of “decolonising the mind” (Ngũgĩ wa Thiong’o, 1986). A first and important step on the way to empowering and emancipating Indigenous peoples vis-à-vis the dominant society; to true (research) collaboration; to a better understanding of each other; each other’s approaches, concepts, and worldviews is to move beyond settler myths such as the helping Western Other (Barker, 2010, p. 320; Denzin & Lincoln, 2008a, p. 5). Or as Lilla Watson, an Indigenous Australian artist, activist, and academic, put it: “If you have come to help me, you are wasting your time. But if you have come because your liberation is bound up with mine then let us work together” 
+> Ultimately, abolishing Western epistemological dominance is a global challenge of “decolonising the mind” (Ngũgĩ wa Thiong’o, 1986). A first and important step on the way to empowering and emancipating Indigenous peoples vis-à-vis the dominant society; to true (research) collaboration; to a better understanding of each other; each other’s approaches, concepts, and worldviews is to move beyond settler myths such as the helping Western Other (Barker, 2010, p. 320; Denzin & Lincoln, 2008a, p. 5). Or as Lilla Watson, an Indigenous Australian artist, activist, and academic, put it: “If you have come to help me, you are wasting your time. But if you have come because your liberation is bound up with mine then let us work together”

@@ -2,8 +2,6 @@
 title: 'Antoine, 2018'
 taxonomy:
     category: docs
-    tag:
-        - inded
 ---
 
 ### Pulling Together

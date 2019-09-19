@@ -3,8 +3,6 @@ title: 'Windchief & Pedro, 2019'
 taxonomy:
     category:
         - docs
-    tag:
-        - indigenous research
 visible: true
 ---
 

@@ -3,8 +3,6 @@ title: 'Snow, 2018'
 taxonomy:
     category:
         - docs
-    tag:
-        - indigenous research
 visible: true
 ---
 

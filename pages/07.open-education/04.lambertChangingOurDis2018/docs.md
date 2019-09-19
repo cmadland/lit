@@ -3,8 +3,6 @@ title: 'Lambert, 2018'
 taxonomy:
     category:
         - docs
-        - opened
-        - 'social justice'
 visible: true
 ---
 

@@ -3,13 +3,6 @@ title: 'Chapter 2'
 taxonomy:
     category:
         - docs
-    tags:
-        - 'open education'
-        - oppression
-        - pedagogy
-        - 'social justice'
-    author:
-        - 'Paulo Freire'
 process:
     markdown: true
     twig: true

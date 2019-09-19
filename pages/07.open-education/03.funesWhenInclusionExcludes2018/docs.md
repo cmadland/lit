@@ -2,14 +2,6 @@
 title: 'Funes & Mackness, 2017'
 taxonomy:
     category: docs
-    tags:
-        - 'open education'
-        - counter-narrative
-        - exclusion
-        - opened
-    author:
-        - 'Mariana Funes'
-        - 'Jenny Mackness'
 process:
     markdown: true
     twig: true

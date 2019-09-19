@@ -2,12 +2,6 @@
 title: 'Cuban, 2004'
 taxonomy:
     category: docs
-    tags:
-        - 'open education'
-        - history
-        - opened
-    author:
-        - 'Larry Cuban'
 process:
     markdown: true
     twig: true

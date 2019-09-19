@@ -3,8 +3,6 @@ title: 'Kurtz, 2013'
 taxonomy:
     category:
         - docs
-    tag:
-        - indigenous research
 visible: true
 ---
 

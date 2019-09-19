@@ -3,8 +3,6 @@ title: 'Aquash, 2013'
 taxonomy:
     category:
         - docs
-    tag:
-        - inded
 visible: true
 ---
 

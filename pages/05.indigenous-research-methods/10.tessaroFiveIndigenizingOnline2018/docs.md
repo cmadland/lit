@@ -3,8 +3,6 @@ title: 'Tessaro, Restoule, Gaviria, Flessa, Lindeman, & Scully-Stewart, 2018'
 taxonomy:
     category:
         - docs
-    tag:
-        - indigenous research
 visible: true
 ---
 

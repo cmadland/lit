@@ -2,15 +2,6 @@
 title: 'Paskevicius, 2017'
 taxonomy:
     category: docs
-    tags:
-        - 'open education'
-        - 'open education practices'
-        - OEP
-        - OER
-        - 'OEP theory'
-        - opened
-    author:
-        - 'Michael Paskevicius'
 process:
     markdown: true
     twig: true

@@ -3,8 +3,6 @@ title: 'Hogue, 2018'
 taxonomy:
     category:
         - docs
-    tag:
-        - inded
 ---
 
 !!! Hogue, M. M. (2016). Aboriginal Ways of Knowing and Learning, 21st Century Learners, and STEM Success. *In Education, 22*(1), 161–172. Retrieved from [https://ineducation.ca/ineducation/article/view/263](https://ineducation.ca/ineducation/article/view/263)

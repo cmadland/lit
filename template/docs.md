@@ -2,10 +2,6 @@
 title: 'Template'
 taxonomy:
     category: docs
-    tags:
-        - 'open education'
-    author:
-        - 'Catherine Cronin'
 process:
     markdown: true
     twig: true

@@ -3,8 +3,6 @@ title: 'Funk, Guthadjaka, and Kong 2015'
 taxonomy:
     category:
         - docs
-    tag:
-        - inded
 visible: true
 ---
 

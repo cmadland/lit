@@ -2,18 +2,6 @@
 title: 'Weller, Jordan, DeVries, Rolfe, 2018'
 taxonomy:
     category: docs
-    tags:
-        - 'open education'
-        - 'open education practices'
-        - OER
-        - opened
-        - onled
-        - disted
-    author:
-        - 'Martin Weller'
-        - 'Katy Jordan'
-        - 'Irwin DeVries'
-        - 'Viv Rolfe'
 process:
     markdown: true
     twig: true

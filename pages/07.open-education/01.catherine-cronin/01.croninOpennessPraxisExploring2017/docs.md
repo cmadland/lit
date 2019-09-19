@@ -2,14 +2,6 @@
 title: 'Cronin, 2017'
 taxonomy:
     category: docs
-    tags:
-        - 'open education'
-        - 'open education practices'
-        - OEP
-        - OER
-        - opened
-    author:
-        - 'Catherine Cronin'
 process:
     markdown: true
     twig: true

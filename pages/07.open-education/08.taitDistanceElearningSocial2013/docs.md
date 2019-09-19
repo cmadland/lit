@@ -2,13 +2,6 @@
 title: 'Tait, 2013'
 taxonomy:
     category: docs
-    tags:
-        - 'open education'
-        - openness
-        - opened
-        - onled
-    author:
-        - 'Alan Tait'
 process:
     markdown: true
     twig: true

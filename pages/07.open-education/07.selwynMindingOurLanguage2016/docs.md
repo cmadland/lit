@@ -2,11 +2,6 @@
 title: 'Selwyn, 2016'
 taxonomy:
     category: docs
-    tags:
-        - 'educational technology'
-        - technology
-        - bullshit
-        - onled
     author:
         - 'Neil Selwyn'
 process:

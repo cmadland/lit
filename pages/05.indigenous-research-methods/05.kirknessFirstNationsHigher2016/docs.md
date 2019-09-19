@@ -3,10 +3,6 @@ title: 'Kirkness & Barnhardt, 2016'
 taxonomy:
     category:
         - docs
-    tag:
-        - indigenous research
-        - 5rs
-        - 4rs
 visible: true
 ---
 

@@ -3,10 +3,6 @@ title: 'Cunsolo Willox, Harper, & Edge, 2012'
 taxonomy:
     category:
         - docs
-    tag:
-        - indigenous research
-        - digital storytelling
-        - narrative
 visible: true
 ---
 

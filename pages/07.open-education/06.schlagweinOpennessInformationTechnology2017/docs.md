@@ -2,16 +2,6 @@
 title: 'Schlagwein, Conboy, Feller, Leimeister, & Morgan, 2017'
 taxonomy:
     category: docs
-    tags:
-        - 'open education'
-        - openness
-        - opened
-    author:
-        - 'Daniel Schlagwein'
-        - 'Kieran Conboy'
-        - 'Joseph Fuller'
-        - 'Jan Marco Leimeister'
-        - 'Lorraine Morgan'
 process:
     markdown: true
     twig: true

@@ -3,8 +3,6 @@ title: 'Snow et al., 2015'
 taxonomy:
     category:
         - docs
-    tag:
-        - indigenous research
 visible: true
 ---
 
