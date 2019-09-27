@@ -5,6 +5,8 @@ taxonomy:
         - docs
 ---
 
+## P
+
 ##### Pedagogy
 > To teach in a way that leads. Pedagogy is always ideological and political.
 
@@ -15,6 +17,8 @@ taxonomy:
 > To performatively disrupt and deconstruct these cultural practices in the name of a “more just, democratic and egalitarian society” (Kincheloe & McLaren, 2000, p. 285).
 
 !!! Denzin, N., Lincoln, Y., & Smith, L. (2019). Handbook of Critical and Indigenous Methodologies. [https://doi.org/10.4135/9781483385686](https://doi.org/10.4135/9781483385686). p. 7-8
+
+## R
 
 ##### Royal Proclamation
 

@@ -7,6 +7,12 @@ taxonomy:
         - docs
 ---
 
+## I
+
+##### Indian Act
+
+<a class="embedly-card" data-card-controls="0" href="https://laws-lois.justice.gc.ca/eng/acts/i-5/index.html">Indian Act</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ##### Indigenous Education
 
