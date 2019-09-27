@@ -22,10 +22,7 @@ Keywords: social innovation, participatory action research, cultural democracy, 
 
 > The impacts of social innovation, the roundtable concluded, are “difficult to measure with existing evaluation tools” (p. 4) in that measurable outcomes are not necessarily generated. Rather, outcomes of iterative and “messy” processes are unpredictable and often take years to fully manifest; they are largely local and place-based, though often leading to “significant [long-term] society wide changes” (p. 3). (p. 4-5)
 
-!!!! Government of Canada Policy Research Initiative. (2010). Talking about social
-innovation: Summary of international roundtable on social innovation. Workshop
-report. Ottawa, ON: Author. Retrieved from Government of Canada website:
-http://www.horizons.gc.ca/eng/book/export/html/986
+!!!! Government of Canada Policy Research Initiative. (2010). Talking about social innovation: Summary of international roundtable on social innovation. Workshop report. Ottawa, ON: Author. Retrieved from Government of Canada website: http://www.horizons.gc.ca/eng/book/export/html/986
 
 > As a “new paradigm” research approach (Heron & Reason, 1997), PAR is described as a means of producing knowledge, a tool for community dialogue, for education, consciousness-raising, and mobilizing for action (Park, Brydon-Miller, Hall, & Jackson, 1993). It develops practical knowing in pursuit of worthwhile human purposes and practical solutions to pressing community issues (Reason & Bradbury, 2006). It is research for, with, and by participants accentuating the inherent human capacity to create knowledge based on experience (Fals-Borda & Rahman, 1991). PAR aligns with Indigenous research methodologies (Weber-Pillwax, 2004; Wilson, 2008) in focusing on relationality, respect, reciprocity, and relevance (p. 9-10)
 
@@ -35,5 +32,5 @@ http://www.horizons.gc.ca/eng/book/export/html/986
 1. Identifying and resolving to address a given problem;
 2. understanding the nature of the problem including its causes and patterns;
 3. engaging all relevant stakeholders to develop a prototype for a solution;
-4. implementing the solution; and 
+4. implementing the solution; and
 5. evaluating its impact. (p. 4)
