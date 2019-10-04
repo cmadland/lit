@@ -8,7 +8,18 @@ visible: true
 
 !!! Kemmis, S., McTaggart, R., & Nixon, R. (2014). *The action research planner: Doing critical participatory action research.* Singapore Heidelberg New York Dordrecht London: Springer.
 
+<!-- TOC -->
 
+- [Industrial action research](#industrial-action-research)
+- [Action Science](#action-science)
+- [Action Learning](#action-learning)
+- [Soft Systems Approaches](#soft-systems-approaches)
+- [Participatory Research](#participatory-research)
+- [Classroom action research](#classroom-action-research)
+- [Critical participatory action research](#critical-participatory-action-research)
+- [10 Features of Public Spheres](#10-features-of-public-spheres)
+
+<!-- /TOC -->
 
 After you complete the Task for this week (see Modules Class 4) post a brief response that articulates your growing/changing  understanding of action research in education (or some aspect of it) in the context of your own research area.
 
@@ -61,3 +72,19 @@ After you complete the Task for this week (see Modules Class 4) post a brief res
 - more sustainable (including for the long term and for future generations) in the sense that they are more productive, more satisfying, and less wasteful; and
 - more just in the sense that they more inclusive, more solidary (fostering solidarity), that they avoid the injustices of domination and oppression (Young 1990), and they do not cause harm to or suffering among particular individuals or
 groups. (p. 22)
+
+---
+
+## 10 Features of Public Spheres
+pp. 37-49
+
+1. Public spheres are constituted as actual networks of communication among actual
+participants.
+2. Public Spheres are self-constituted, voluntary and autonomous.
+   - outside formal systems of administration or influence
+   - focused on a particular theme or concern
+   - voluntarism can be an institutional demand
+3. Public spheres come into existence in response to legitimation deficits.
+   - people think things aren't quite right (Precious knowledge: Ss and Ts saw that plans to cancel the Raza program was oppressive)
+   - participants do not feel that they would necessarily have come to the decision to do things the ways they now do them, especially if they feel this way about how they are now required to do them.
+4. Public spheres are constituted for communicative action and for public discourse.
