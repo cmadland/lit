@@ -88,3 +88,23 @@ participants.
    - people think things aren't quite right (Precious knowledge: Ss and Ts saw that plans to cancel the Raza program was oppressive)
    - participants do not feel that they would necessarily have come to the decision to do things the ways they now do them, especially if they feel this way about how they are now required to do them.
 4. Public spheres are constituted for communicative action and for public discourse.
+   - usually f2f IRL, but sometimes digitally mediated and anonymous
+    > aims to help us reach intersubjective agreement about what we mean by what we say (in the language we use), mutual understanding of one another’s points of view, and unforced consensus about what to do. On this view of public spheres, communicative spaces organised essentially for instrumental or functional purposes—for example, to command, to influence, or to exercise control over things—would not ordinarily qualify as public spheres. (p. 40)
+
+    > Education, properly speaking, is the process by which children, young people and adults are initiated into (1) forms of understanding that foster individual and collective selfexpression, (2) modes of action that foster individual and collective self-development, and (3) ways of relating to one another and the world that foster individual and collective selfdetermination, and that are, in these senses, oriented towards both the good for each person and the good for humankind. (p. 40)
+
+
+5. Public spheres are inclusive and permeable.
+  - if a sphere is exclusive, it can't be public
+6. In public spheres, people usually communicate in ordinary language.
+  - part of being inclusive
+   > On this view of public spheres, the communicative apparatuses of many government and business organisations, relying as they do on the specialist expertise and managerial responsibilities of some participants, do not ordinarily qualify as public spheres.
+
+7. Public spheres presuppose communicative freedom.
+   - participation and non-participation are both voluntary
+   - communicative spaces are often distorted by power, reputation, and status (could see this in the presence of the senator in the Raza classroom in Presious Knowledge)
+8. Public spheres generate communicative power.
+  > that is, the positions and viewpoints arrived at through open discussion and unforced consensus will command the respect of participants. Agreements reached through public discourse in public spheres command respect not by virtue of obligation, but by intersubjective agreement, mutual understanding and unforced consensus about what to do—in other words, by the force of argument alone, without coercion of any kind.
+
+9. Public spheres generally have an indirect, not direct, impact on social systems.
+10. Public spheres are often associated with social movements.
