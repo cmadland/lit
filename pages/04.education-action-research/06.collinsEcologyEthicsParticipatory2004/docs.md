@@ -34,6 +34,10 @@ I appreciate this way of conceptualizing interdependence counter to the view tha
 
 Collins rejects the use of utilitarian ethics which are common to IRBs in university.
 
+##### Trolley problem solved by a 2-yr-old
+
+[plugin-youtube](https://www.youtube.com/watch?v=-N_RZJUAQY4)
+
 > Each member, whether a teacher, student or researcher, is an integral part of a co-evolving whole. As such, it is not enough to make discrete judgments of the morality of specific actions or decisions. Rather, there is an ongoing process of negotiating power structures to maximise the inclusion of all. An ecological approach to ethics fits well with the collaborative action research methodology to be described here. It is compatible with the participatory aspect of the research and setting, and the focus on ongoing interactions within the community. (p. 349)
 
 Summary of Flinders findings...
@@ -46,3 +50,9 @@ Summary of Flinders findings...
 | p. 350      |
 
 !!! Flinders, D.J. (1992) In Search of Ethic Guidance: constructing a basis for dialog, *Qualitative Studies in Education, 5*(2), pp. 101-115.
+
+- AR does not allow for predictability, so consent is problematic
+- also can't guaranteed avoidance of harm due to subtle events causing stress
+- confidentiality also difficult due to the nature of qual research relying on rich descriptions
+
+> Beyond just informed consent at the start of the research, cultural sensitivity must be an ongoing focus of reflection and discourse. More than avoidance of harm, ecological ethics demand that we recognise the individual as part of a larger system. Therefore, protection of the entire environment is necessary, including the attachment of every individual to the whole culture. To damage one part of an ecological system is to damage the whole and vice versa. Responsive communication in reporting, as contrasted to confidentiality, is necessary in ecological ethics. (p. 350)
