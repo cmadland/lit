@@ -36,7 +36,8 @@ Collins rejects the use of utilitarian ethics which are common to IRBs in univer
 
 > Each member, whether a teacher, student or researcher, is an integral part of a co-evolving whole. As such, it is not enough to make discrete judgments of the morality of specific actions or decisions. Rather, there is an ongoing process of negotiating power structures to maximise the inclusion of all. An ecological approach to ethics fits well with the collaborative action research methodology to be described here. It is compatible with the participatory aspect of the research and setting, and the focus on ongoing interactions within the community. (p. 349)
 
-Summary of Flinders findings:
+Summary of Flinders findings...
+
 |   | Utilitarian  | Ecological  |
 |:---:|:---:|:---:|
 | Recruitment  | Informed consent  | Cultural sensitivity  |
