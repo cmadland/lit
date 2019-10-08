@@ -56,3 +56,22 @@ Summary of Flinders findings...
 - confidentiality also difficult due to the nature of qual research relying on rich descriptions
 
 > Beyond just informed consent at the start of the research, cultural sensitivity must be an ongoing focus of reflection and discourse. More than avoidance of harm, ecological ethics demand that we recognise the individual as part of a larger system. Therefore, protection of the entire environment is necessary, including the attachment of every individual to the whole culture. To damage one part of an ecological system is to damage the whole and vice versa. Responsive communication in reporting, as contrasted to confidentiality, is necessary in ecological ethics. (p. 350)
+
+> It is important to note that this framework was constructed to aid in conceptualising approaches to ethical thinking. In practice, there is much overlap. Flinders (1992), rather than pursuing one best system, seeks ‘a frame of reference that is able to encompass multiple points of view’ (p. 101). (p.351)
+
+> The second activity in the research depends on the outcome of the reflection on this first step. As the spiral of inquiry emerges, these limited research endeavors could become very significant and sophisticated. Robin McTaggart (1991) recommends that research start small and build a basis for collaboration:
+>> It starts with small cycles of planning, acting, observing, and reflecting which can help define the issues, ideas, and assumptions more clearly so that those involved can define more powerful questions for themselves as their work progresses. (p. 178)
+
+!!! McTaggart, R. (1991) Principles for Participatory Action Research, *Adult Education Quarterly, 41*(3), pp. 168-187.
+
+> Clearly, in participatory collaborative action research, joint ownership of the research is necessary, despite differing roles among the participants. However, power differences are subtle and pervasive.
+> McTaggart (1991) points to the substantive knowledge that exists in the academy, which can help people to understand that their own subjectivity is likely to be gendered, colonialised, nationalised, westernised and capitalistic (p. 174). To address issues of power, group members must change their language, activities and social relationships.
+
+> Irwin rejected the idea that one should abandon their expertise, allowing others to stumble, in the name of sharing power:
+>> Rather, a delicate balance must be maintained so that empowerment of the collective is nurtured while the power of the individual is recognized ... The only way to truly accept this dynamic is to develop a level of trust within the group that allows for reflection and action that constantly examines the effects of teaching and leadership. (Irwin, 1997, p. 10)
+
+!!! Irwin, R., Crawford, N., Mastri, R., Neale, A., Robertson, H. & Stephenson, W. (1997) Collaborative Action Research: a journey of six women artist-pedagogues, *British Columbia Art Teachers’ Association Journal for Art Teachers, 37*(2), pp. 8-17.
+
+> Many authors (Carr & Kemmis, 1986; McTaggart, 1991) claim that action research should be a participatory and emancipatory process. Its purpose is to enact social change. Although I do not anticipate a classroom revolution where students dominate the teacher and control without reason, there is an opportunity in action research for students to assume some negotiated autonomy with regard to their own learning in the current research. (p. 358)
+
+!!!! [Further reflections on this article at at this link.](https://grav.madland.ca/blog/public-spheres)
