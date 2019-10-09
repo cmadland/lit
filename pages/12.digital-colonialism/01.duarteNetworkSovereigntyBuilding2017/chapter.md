@@ -2,7 +2,6 @@
 title: 'Duarte, 2017'
 taxonomy:
     category: docs
-    tag: ''
 visible: true
 ---
 
