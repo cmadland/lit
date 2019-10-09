@@ -1,8 +1,9 @@
 ---
 title: 'Duarte, 2017'
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
+visible: true
 ---
 
 !!! Duarte, M. E. (2017). *Network sovereignty: Building the Internet across Indian Country.* Seattle: University of Washington.
