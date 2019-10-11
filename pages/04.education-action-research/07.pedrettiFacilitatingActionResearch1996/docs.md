@@ -14,8 +14,6 @@ Action research as a form of professional development encourages teachers to par
 
 ---
 
-<a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Hegemony">Hegemony</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > The notion of the teacher as a 'reflective practitioner' (see Stenhouse, 1975 ; Schon, 1983 ; Russell & Munby, 1992; Whitehead, 1993; Gilbert, 1994) engaged in action research implies active participation in cycles of planning, acting, observing and reflecting on one's teaching practices. Action research creates possibilities for change, improvement of practice; a shift in consciousness. (p. 308)
 
@@ -47,14 +45,16 @@ AR is not a method. Any method can be used in AR. (note on p.310)
 
 > Any theoretical hegemony between academics and teachers should be dissolved. (p. 311)
 
-Turns out I have misunderstood hegemony for a while now. (note on p.311)
+!!!! Turns out I have misunderstood hegemony for a while now. (note on p.311)
 
+<a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Hegemony">Hegemony</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
 
 > My journal entry written the night before the first group meeting expressed not only my excitement, but my concern as well: The few days leading up to the fist action research meeting were filed with excitement trepidation and anxiety. How many teachers would participate? I had spoken to them individually over the summer, and now the time had come to meet as a group. How were we to begin? What issues would we tackle? How would the group Junction? What was my role to be? (15 September) (p. 311)
 
-#meirl (note on p.311)
+!!!! #meirl (note on p.311)
 
 
 
@@ -93,7 +93,7 @@ Turns out I have misunderstood hegemony for a while now. (note on p.311)
 
 > This turning point was a significant event in the life of the action research group because it challenged our notion of curriculum development, knowledge generation and validation, and provided an opportunity for renewed focus and purpose. (p. 317)
 
-> Structure (p. 318)
+### Structure (p. 318)
 
 > It could be counter-productive if you're inundated with paper reading and doing things, and not having a chance to reflect on what you want to get out of it (p. 318)
 
