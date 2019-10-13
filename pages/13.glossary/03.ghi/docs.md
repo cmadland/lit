@@ -9,6 +9,13 @@ taxonomy:
 
 ## I
 
+##### Inclusive pedagogy
+
+> to ensure that I not only have high expectations of all learners, but ensure that I provide opportunities to access an enriching curriculum that enables all students to meet or exceed their potential.
+
+!!! Wakefield, S. (2019). A collaborative Action Research project within a data-driven culture: Improving teaching and learning through Social Constructivism in England. In F. Armstrong & D. Tsokova (Eds.), *Action Research for Inclusive Education: Participation and Democracy in Teaching and Learning.* [https://doi.org/10.4324/9781351048361-11](https://doi.org/10.4324/9781351048361-11)
+
+
 ##### Indian Act
 
 <a class="embedly-card" data-card-controls="0" href="https://laws-lois.justice.gc.ca/eng/acts/i-5/index.html">Indian Act</a>

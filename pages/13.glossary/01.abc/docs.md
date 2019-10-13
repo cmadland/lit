@@ -6,7 +6,7 @@ taxonomy:
 ---
 # ABC
 
-### Action Research
+##### Action Research
 
 > Action research is when people reflect on and improve their own work and their own situations by tightly linking their reflection with action and making their experience public, not only to the other participants, but also to other persons interested in the work and the situation (Altrichter et al, 1991). Data are collected by the participants themselves, they participate in the decision making, power is shared democratically, and members collaborate. Reflection is a key characteristic of action research. The practitioner-researchers self-reflect, self-evaluate, and self-manage the research autonomously and responsibly. More concisely, McClutcheon & Jung (1990) define action research as the inquiry teachers undertake to understand and improve their own practice.
 
