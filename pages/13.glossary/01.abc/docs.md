@@ -4,9 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-# ABC
-
-[plugin:content-inject](../../_action-research)
 
 ##### Action Research
 
