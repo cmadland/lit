@@ -6,7 +6,7 @@ taxonomy:
 ---
 # ABC
 
-[plugin:content-inject](_action-research)
+[plugin:content-inject](/_action-research)
 
 ##### Action Research
 
