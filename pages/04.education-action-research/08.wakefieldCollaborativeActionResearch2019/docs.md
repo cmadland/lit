@@ -26,13 +26,13 @@ Extracted Annotations (2019-10-13, 7:49:23 AM)
 
 > DuFour (2010), as cited by Juma, Lehtomäki and Naukkarinen (2017), defines CAR as the process by which teachers jointly observe their situation, plan to take informed action to ameliorate undesirable actions and then critically reflect in and on their action. In this way, they can turn their schools into professional learning communities as they improve their classroom practices with a focus on learning for all. (DuFour et al., 2010: 12) (p. 4)
 
-> Participatory Action Research has been defined by Brydon-Miller and Maguire as 'a systematic approach to personal, organisational and structural transformation . . . that places human selfdetermination, the development of critical consciousness and positive social change as central goals' (Brydon-Miller and Maguire, 2009: 80). (p. 5)
+> Participatory Action Research has been defined by Brydon-Miller and Maguire as 'a systematic approach to personal, organisational and structural transformation . . . that places human self-determination, the development of critical consciousness and positive social change as central goals' (Brydon-Miller and Maguire, 2009: 80). (p. 5)
 
 > A key part of the project was the presentation of our findings to the rest of the teaching staff. This project required staff researchers to adopt both a scholarly and an activist role. (p. 5)
 
 > From the outset the head teacher did not explicitly express a willingness to facilitate change. He wanted us to share our findings for the purposes of learning from each other, but the extent to which whole-school policies would be adapted as a result of the research was regrettably ambiguous throughout this journey. (p. 5)
 
-> The learning theory that informed this research was Social Constructivism. One of the principles of Social Constructivism is that it 'establishes a teacherpupil relationship built upon the idea of guidance not instruction' (Adams, 2006: 247) and the values that underpinned this project were inclusive. (p. 5)
+> The learning theory that informed this research was Social Constructivism. One of the principles of Social Constructivism is that it 'establishes a teacher/pupil relationship built upon the idea of guidance not instruction' (Adams, 2006: 247) and the values that underpinned this project were inclusive. (p. 5)
 
 > As a teacher-researcher committed to inclusive education it was fundamental to this project that inclusive pedagogies were practiced. My definition of inclusion is simple; it is to ensure that I not only have high expectations of all learners, but ensure that I provide opportunities to access an enriching curriculum that enables all students to meet or exceed their potential. (p. 6)
 
