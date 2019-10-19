@@ -141,8 +141,8 @@ Researchers want to engage the researched in a conversation on what has been wri
 > Giving voice to the participants. (p. 20)
 
 !!!! KEY POINTS  
-!!!! The conventional interview method works within a standard vocabulary, terms, concepts, and categories of analysis informed by Western academic disciplines with their associated theories and a Western social science research culture with its emphasis on the individual as the social unit of focus.  
-!!!! In postcolonial indigenous societies, researchers conduct interviews as privileged elites and knowers who are researching and operating with Western models of thought and conducting interviews within frame­works of Othering ideologies supported by deficit theories and literature that constructs the researched as the problem.  
-!!!! Researchers should use indigenous knowledge to guide interview ques­tion structures, types of questions asked, and data analysis procedures.  
-!!!! Researchers should recognize indigenous people who have expertise and knowledge.  
-!!!! Researchers should highlight reviewed literature about the researched and dialogue with the researched to enable them to participate in a cri­tique of the literature produced about them. (p. 22)  
+!!!! - The conventional interview method works within a standard vocabulary, terms, concepts, and categories of analysis informed by Western academic disciplines with their associated theories and a Western social science research culture with its emphasis on the individual as the social unit of focus.  
+!!!! - In postcolonial indigenous societies, researchers conduct interviews as privileged elites and knowers who are researching and operating with Western models of thought and conducting interviews within frame­works of Othering ideologies supported by deficit theories and literature that constructs the researched as the problem.  
+!!!! - Researchers should use indigenous knowledge to guide interview ques­tion structures, types of questions asked, and data analysis procedures.  
+!!!! - Researchers should recognize indigenous people who have expertise and knowledge.  
+!!!! - Researchers should highlight reviewed literature about the researched and dialogue with the researched to enable them to participate in a cri­tique of the literature produced about them. (p. 22)  
