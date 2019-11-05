@@ -51,6 +51,7 @@ Extracted Annotations (2019-11-05, 6:06:06 AM)
 - looked for links between images and hashtags
 - categorized into themes
 
+
 > In an era of social media, as Matzner and Ochs (2017) have pointed out, the concept of privacy must be understood as inherently social, relational, and sociotechnical, not merely evaluated in relation to individuals (p. 796-7)
 
 !!! Zimmer, M., & Kinder-Kurlanda, K. (Eds.). (2017). *Internet research ethics for the social age: New challenges, cases, and contexts.* Retrieved from https://dlnext.acm.org/doi/10.5555/3169874
