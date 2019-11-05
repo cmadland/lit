@@ -48,7 +48,8 @@ Extracted Annotations (2019-11-05, 6:06:06 AM)
   - transition from chronological to algorithmic feeds
   - policies constantly changing ... difficult to keep up
 - followed materials across platforms
--
+- looked for links between images and hashtags
+- categorized into themes
 
 > In an era of social media, as Matzner and Ochs (2017) have pointed out, the concept of privacy must be understood as inherently social, relational, and sociotechnical, not merely evaluated in relation to individuals (p. 796-7)
 
