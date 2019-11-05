@@ -95,3 +95,5 @@ Extracted Annotations (2019-11-05, 6:06:06 AM)
 ### Conclusion (p. 805)
 
 > Indigenous publics on social media - Tricksters - enact a form of digital survivance and, we believe, thus have the potential to change'the giants,' including those contemporary post-colonial assemblages that are not life-affirming or nature-protecting. (p. 805)
+
+eh?
