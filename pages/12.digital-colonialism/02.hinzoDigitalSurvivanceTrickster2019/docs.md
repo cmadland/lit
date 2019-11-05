@@ -3,6 +3,7 @@ title: 'Hinzo & Clark, 2019'
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 !!! Hinzo, A. M., & Clark, L. S. (2019). Digital survivance and Trickster humor: Exploring visual and digital Indigenous epistemologies in the #NoDAPL movement. *Information, Communication & Society, 22*(6), 791–807. <https://doi.org/10.1080/1369118X.2019.1573911>
@@ -16,7 +17,7 @@ taxonomy:
 Extracted Annotations (2019-11-05, 6:06:06 AM)
 
 ### KEYWORDS
-/#NoDAPL; Indigenous; Identity; social movements; digital and visual methods; decolonizing internet studies (p. 792)
+\#NoDAPL; Indigenous; Identity; social movements; digital and visual methods; decolonizing internet studies (p. 792)
 
 > Introduction (p. 793)
 
@@ -60,9 +61,6 @@ Extracted Annotations (2019-11-05, 6:06:06 AM)
 > Ascertaining the extent to which online visual material was intended for a broad public or a more private audience can be challenging. Thus, even as an image might be available for examination and analysis, any such material must be treated responsibly through an 'ethics of care' by the research team, which seeks to do no harm in the communities in which we work (Luka, Millette, & Wallace, 2017). Given the fact that FBI have infiltrated Indigenous activist activities (Parrish, 2017), it is worth considering how best to conduct research that benefits the Indigenous community while preserving its members' safety. (p. 798)
 
 > Between January and August 2018, after eliminating advertisements and other content that was not linked to #NoDAPL either by hashtag or time frame, we curated 463 visual artifacts of digital survivance in a Pinterest file so that others in the Indigenous community could view and comment. (p. 798)
-
-- attempted to trace images back to original artist
-- categorize images to identify the humor
 
 > Because of the small size of the sample relative to how many images were shared, we were less interested in counting how often instances of humor appeared or how frequently they were shared than in exploring why these instances might have had resonance among those who shared them. (p. 799)
 
