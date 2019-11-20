@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-!!! Cunsolo Willox, A., Harper, S. L., & Edge, V. L. (2012). Storytelling in a digital age: digital storytelling as an emerging narrative method for preserving and promoting indigenous oral wisdom. Qualitative Research, 13(2), 127–147. [https://doi.org/10.1177/1468794112446105](https://doi.org/10.1177/1468794112446105)
+!!! Cunsolo Willox, A., Harper, S. L., & Edge, V. L. (2012). Storytelling in a digital age: digital storytelling as an emerging narrative method for preserving and promoting indigenous oral wisdom. *Qualitative Research, 13*(2), 127–147. [https://doi.org/10.1177/1468794112446105](https://doi.org/10.1177/1468794112446105)
 
 
 ### Abstract
