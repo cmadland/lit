@@ -27,3 +27,15 @@ taxonomy:
 > Participatory Action Research has been defined by Brydon-Miller and Maguire as 'a systematic approach to personal, organisational and structural transformation . . . that places human selfdetermination, the development of critical consciousness and positive social change as central goals' (Brydon-Miller and Maguire, 2009: 80). (p. 5)
 
 !!! Wakefield, S. (2019). A collaborative Action Research project within a data-driven culture: Improving teaching and learning through Social Constructivism in England. In F. Armstrong & D. Tsokova (Eds.), *Action Research for Inclusive Education: Participation and Democracy in Teaching and Learning.* [https://doi.org/10.4324/9781351048361-11](https://doi.org/10.4324/9781351048361-11)
+
+# C
+
+###### Colonialism (external)
+
+> External colonialism (also called exogenous or exploitation colonization) denotes the expropriation of fragments of Indigenous worlds, animals, plants and human beings, extracting them in order to transport them to - and build the wealth, the privilege, or feed the appetites of - the colonizers, who get marked as the first world.
+
+###### Colonialism (internal)
+
+> The other form of colonialism that is attended to by postcolonial theories and theories of coloniality is internal colonialism, the biopolitical and geopolitical management of people, land, flora and fauna within the “domestic” borders of the imperial nation.
+
+!!! Tuck, E., & Yang, K. W. (2012). Decolonization is not a metaphor. *Decolonization: Indigeneity, Education & Society, 1*(1), 1–40. Retrieved from <https://jps.library.utoronto.ca/index.php/des/article/view/18630>
