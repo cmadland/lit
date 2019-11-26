@@ -71,7 +71,7 @@ Extracted Annotations (2019-11-24, 7:24:57 PM)
 
 >  5 Emergent Inquiry towards Enduring Consequence (p. 350)
 
->  We have noticed the repeated criticisms of exist­ ing institutional structures, especially universities. We are interested to note that action research seems to thrive where institutions have been intention­ ally created to support, sustain and legitimate it. The Society for Participatory Research in Asia and the Highlander Research and Education Center; the Work Research Institute in Norway; and our own institutional homes, the Department of Organizational Behavior at Case Western Reserve University and the Centre for Action Research in Professional Practice at the University of Bath, all offer good examples of ongoing institutions from the civic, the quasigovernmental and the academic realms which sustain action research practice. (p. 350)
+>  We have noticed the repeated criticisms of exist­ing institutional structures, especially universities. We are interested to note that action research seems to thrive where institutions have been intention­ally created to support, sustain and legitimate it. The Society for Participatory Research in Asia and the Highlander Research and Education Center; the Work Research Institute in Norway; and our own institutional homes, the Department of Organizational Behavior at Case Western Reserve University and the Centre for Action Research in Professional Practice at the University of Bath, all offer good examples of ongoing institutions from the civic, the quasi-governmental and the academic realms which sustain action research practice. (p. 350)
 
 >  The integration of the three aspects of action research (first-, second and third-person) suggests that sustaining the work of action research is often the outcome of a logic of structurated action in which the dyadic or small-group micro-engagement of people working on a project together convened around an area of mutual concern manifests in an ongoing new patterning of behaviours at a more macro-level. (p. 350)
 
@@ -81,7 +81,8 @@ Extracted Annotations (2019-11-24, 7:24:57 PM)
 
 >  We believe it is helpful to address all questions if only to say why one is more important than the other. Thus when next asked how big one's 'n' was or what to do about the fact that one's data must be considered contaminated by interests or that the co­ inquirers were all self-selected, the action research may refer to the differing axiomatic assumptions in action research which arise from a worldview and lived experience of participation. We suggest that the action researcher seek to expand the conversa­tion about validity to include the broader bandwidth of considerations that inhere in research/practice in search of a world worthy of our lives. (p. 351)
 
-!!!!  Issues as choice-points and questions for quality in action research Is the action research:
+!!!!  Issues as choice-points and questions for quality in action research:  
+!!!! Is the action research:
 !!!!  - Explicit in developing a praxis of relational participation?
 !!!!  - Guided by reflexive concern for practical outcomes?
 !!!!  - Inclusive of a plurality of knowing?
@@ -90,3 +91,11 @@ Extracted Annotations (2019-11-24, 7:24:57 PM)
 !!!!    - Intentionally choosing appropriate research methods?
 !!!!  - Worthy of the term significant?
 !!!!  - Emerging towards a new and enduring infrastructure? (p. 351)
+
+! Consider your evolving action research question and choose one of the 5 choice points articulated by Bradbury and Reason (2001) in the Conclusion chapter p. 346-350 for quality action research. For example you could consider your question in light of Choice Point #5 - Enduring Consequence. What might be your hope for ongoing action and change (even small in scope) of your action research project? For this Discussion Post - provide a beginning statement of your ideas for your action research project and  what you will need to think about in order to work toward your selected Choice Point.
+
+My planned AR project involves working with the Indigenous Education department at UVic to support the work of Indigenous educators to build digital competencies with educators and learners in the department with the goal of increasing their willingness and ability to practice digital self-determination and reclaim their online identity. *Digital self-determination* refers to the knowledge, skills, and attitudes required for people to present themselves as whole and fully realized persons using digital tools which protect the flow of personal and community data from being weaponized by governments and corporations invested in surveillance capitalism [@zuboffShoshanaZuboffDigital2014].
+
+Q - How can open digital technologies enable and empower Indigenous learners to practice digital self-determination in higher ed?
+
+Reason and Bradbury's fifth broad concern for quality in AR is that AR projects be aimed at building new and enduring infrastructure in institutions (like universities and governments) such that the project may live on beyond the tenure of the researcher. In working towards this, I need to, first of all, attend to the first broad concern that the project be grounded in a deeply relational practice which begins with me exploring my ancestral roots as a settler. Following that, and based in those relationships, I need to, as Reason and Bradbury state, "create a living interest in the work" (p. 346). Creating a living interest in this work can only happen in relationship. In the end, my hope is that the Indigenous Education department is fully capable of sustaining an ongoing project to empower and enable Indigenous learners to be digitally self-determined.
