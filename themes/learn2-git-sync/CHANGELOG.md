@@ -1,3 +1,15 @@
+# v1.5.8
+## 12/05/2019
+
+1. [](#bugfix)
+    * Do not display the SimpleSearch field when the SimpleSearch plugin is disabled
+
+# v1.5.7
+## 11/25/2019
+
+1. [](#improved)
+    * 'Top Level Version' theme option now only displays visible pages (thanks @awrog for reporting this issue)
+
 # v1.5.6
 ## 08/16/2019
 
