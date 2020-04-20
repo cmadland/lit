@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User Acceptance of Information Technology: Toward a Unified View. MIS Quarterly, 27(3), 425–478. JSTOR. https://doi.org/10/gc8zn2
+!!! Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User Acceptance of Information Technology: Toward a Unified View. MIS Quarterly, 27(3), 425–478. JSTOR. [https://doi.org/10/gc8zn2](https://doi.org/10/gc8zn2)
 
 ##### Extracted Annotations (2020-04-18, 11:46:37 a.m.)
 
