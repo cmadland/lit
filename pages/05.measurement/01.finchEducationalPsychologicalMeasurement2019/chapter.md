@@ -7,7 +7,7 @@ taxonomy:
 
 !!! Finch, W. H., & French, B. F. (2019). *Educational and psychological measurement.* Routledge.
 
-1. Introduction to Educational and Psychological Measurement
+1. [Introduction to Educational and Psychological Measurement](https://lit.madland.ca/measurement/fincheducationalpsychologicalmeasurement2019/ch-1)
 2. Basic Statistical Concepts for Measurement
 3. Classical Test Theory
 4. Reliability
