@@ -5,9 +5,9 @@ taxonomy:
         - docs
 ---
 
-### Introduction to Educational and Psychological Measurement
+#### Introduction to Educational and Psychological Measurement
 
-##### psychometrics
+###### psychometrics
 - subspecialty combining statistics and educational psychology
 > development, and vetting of educational and psychological assessments using a wide variety of tools and methodological approaches
 
@@ -25,21 +25,21 @@ taxonomy:
 
 > At the center of this process is the measurement professional who works to ensure that these scales are doing what they were designed to do and that scores are supported by the proper evidence to justify use. (p. 2)
 
-### IQ
+##### IQ
  - the idea that a single number can predict success is not justified and is against the *Standards*
  - how can psychometricians better the situation around testing controversies?
 
-### Personality
+##### Personality
 - Minnesota Multiphasic Personality Inventory (1920s)
 
-### Modern testing
+##### Modern testing
 - 1947 - Educational Testing Service (ETS)
 - early work in multi-factor analysis was slowed by a lack of computational power until the 1970s
 
-### Item Response theory
+#### Item Response theory
 - examines individual item responses and using that info to better understand the construct
 
-### Recent developments
+#### Recent developments
 - computer adaptive Testing
 - automated test assembly and scoring
 - automated item generation
@@ -49,16 +49,16 @@ taxonomy:
 
 all come from advances in computing power, improved estimation algorithms, and user-friendly software
 
-### Future developments
+#### Future developments
 - important to recognize the accelerating growth in computing power, large data sets, data mining, machine learning etc will lead to greater advances
 
 !!!! Critical to remember that the work of psychometricians is to
 !!!! > try to understand something about an individual person to make an accurate and fair decision to the benefit of that individual. Too often, this goal can become lost in our psychometric machinery. (p. 6)
 
-## Types of measures
+### Types of measures
 - these categories are not immutable or well-defined, but fluid and overlapping
 
-### Standardization
+#### Standardization
 
 > A standardized measure is one that has been administered following a set of consistent directions to a (typically) large sample of individuals from the target population. This ensures that testing conditions are the same for all individuals assessed. In turn, these data, from a representative sample, are used for the establishment of norms. Norms are estimates of typical performance in the population and serve as a way in which performance of future examinees can be judged. (p. 7)
 
@@ -68,7 +68,7 @@ all come from advances in computing power, improved estimation algorithms, and u
 
 - standardized and non-standardized are not better or worse, just different in how the scores are obtained and reported
 
-### Type of construct measured
+#### Type of construct measured
 
 > Achievement tests, which are extremely common in educational assessment, measure what an examinee has learned in a specific academic domain.
 > In contrast, aptitude tests are designed to help determine an individual’s potential for learning or performance in some discipline.
@@ -81,7 +81,7 @@ all come from advances in computing power, improved estimation algorithms, and u
 
 > Finally, employment counselors might use interest inventories as a way of assessing a person’s suitability for certain types of employment or career decision making. These scales yield scores that reflect how likely an individual is to find certain types of work interesting and rewarding, for example.
 
-### Type of data collected
+#### Type of data collected
 
 > Tests of maximal performance require examinees to engage in a task with the goal of completing it as well as they possibly can.
 
