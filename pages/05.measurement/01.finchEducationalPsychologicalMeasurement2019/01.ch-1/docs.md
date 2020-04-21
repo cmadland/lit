@@ -72,3 +72,19 @@ all come from advances in computing power, improved estimation algorithms, and u
 
 > Achievement tests, which are extremely common in educational assessment, measure what an examinee has learned in a specific academic domain.
 > In contrast, aptitude tests are designed to help determine an individual’s potential for learning or performance in some discipline.
+
+- GRE, LSAT, SAT
+
+!! > The validity evidence for these exams is not sufficient to support an implication inference (i.e., students with high exam scores perform in college and life at higher levels than do students with lower exam scores), perhaps the inference we care most about. In fact, when this exam was given to professionals in Rhode Island, only 40% had scores high enough to earn a high school diploma (Borg, 2013). (p. 8)
+
+> Personality assessments may be best thought of as measuring an individual’s disposition, often (though by no means always) with an eye toward identifying potentially problematic issues.
+
+> Finally, employment counselors might use interest inventories as a way of assessing a person’s suitability for certain types of employment or career decision making. These scales yield scores that reflect how likely an individual is to find certain types of work interesting and rewarding, for example.
+
+### Type of data collected
+
+> Tests of maximal performance require examinees to engage in a task with the goal of completing it as well as they possibly can.
+
+> In contrast, self-report measures are designed to elicit responses reflecting the attitudes, feelings, and opinions of individuals about one or more issues.
+
+> Finally, some assessments are observational, meaning that an individual’s behavior or performance is scored by another person using a formal rubric and list of target behaviors.
