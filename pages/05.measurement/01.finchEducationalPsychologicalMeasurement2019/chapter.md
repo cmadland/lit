@@ -1,8 +1,8 @@
 ---
 title: 'Finch & French, 2019'
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 ---
 
 !!! Finch, W. H., & French, B. F. (2019). *Educational and psychological measurement.* Routledge.
