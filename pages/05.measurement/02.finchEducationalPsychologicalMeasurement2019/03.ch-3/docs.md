@@ -3,6 +3,8 @@ title: 'Chapter 3'
 taxonomy:
     category:
         - docs
+page-toc:
+  active: true
 ---
 
 
