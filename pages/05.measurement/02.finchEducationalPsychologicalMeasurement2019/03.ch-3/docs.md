@@ -43,3 +43,14 @@ Where
 - if a student scores 91 on a math test, the score (X<sub>i</sub>) shows how much the students knows, measured on an imperfect test.
   - the score will be used to infer the student's understanding of math, T<sub>i</sub>, based on a single sample from the population of theoretically possible scores from the population.
   - ... the teacher needs to rely on the next best thing, the observed score
+
+#### error
+
+#### What constitutes an assessment?
+- an assessment can be anything from a full scale to a single item b/c all the models derived from Eq3.1 will allow us to gain a deeper understanding of the nature of the trait and the people.
+
+###### Example
+- multiple assessments of a construct on the same individuals.
+- If we have *J* different assessments, eq3.1 would be
+
+!! X<sub>ij</sub> = T<sub>ij</sub> + E<sub>ij</sub>   
