@@ -26,7 +26,7 @@ page-toc:
 
 Core of CTT is the equation
 
-`X = T + E`
+!! X = T + E
 
 Where  
 `X` = the observed score on the scale  
@@ -54,3 +54,11 @@ Where
 - If we have *J* different assessments, eq3.1 would be
 
 !! X<sub>ij</sub> = T<sub>ij</sub> + E<sub>ij</sub>   
+
+where
+
+- X<sub>ij</sub> = observed score for individual i on assessment j
+- T<sub>ij</sub> = true score for individual i on assessment j
+- E<sub>ij</sub> = error for individual i on assessment j
+
+(Eq 3.2, p. 35)
