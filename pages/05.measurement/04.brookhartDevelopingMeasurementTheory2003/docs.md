@@ -50,7 +50,7 @@ Extracted Annotations (2020-09-30, 6:40:03 a.m.)
 
 #### Formative and Summative Purposes
 
-! Formative - using evaluation in the development or improvement of some educational process
+! Formative - using evaluation in the development or improvement of some educational process  
 ! Summative - using evaluation in decision-making about the end result of an educational process
 
 ###### formative
@@ -72,5 +72,5 @@ Extracted Annotations (2020-09-30, 6:40:03 a.m.)
 - summative assessment - the assessor is the only one who needs to understand the standard
   - changes the relationship between measurers and the measured
 
-> Summative assessment requires that teachers (or other assessors) become members of a community of practice, while formative assessment requires that the learners become members of the `same` community of practice (Wiliam, 1998)
+> Summative assessment requires that teachers (or other assessors) become members of a community of practice, while formative assessment requires that the learners become members of the `same` community of practice (Wiliam, 1998)  
 > Wiliam, D. (1998, September) Enculturating learners into communities of practice: Raising achievement through classroom assessment. Paper presented at the European Conference for Educational Research, University of Ljubljana, Slovenia.
