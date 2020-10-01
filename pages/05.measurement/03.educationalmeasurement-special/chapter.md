@@ -5,7 +5,7 @@ taxonomy:
     tag: ''
 ---
 
-!!! Special Issue
+
 
 Brookhart, S. M. (2003). Developing Measurement Theory for Classroom Assessment Purposes and Uses. *Educational Measurement: Issues and Practice, 22*(4), 5–12. [https://doi.org/10/dj7bxr](https://doi.org/10/dj7bxr)  
 McMillan, J. H. (2005). Understanding and Improving Teachers’ Classroom Assessment Decision Making: Implications for Theory and Practice. *Educational Measurement: Issues and Practice, 22*(4), 34–43. [https://doi.org/10/d26nxv](https://doi.org/10/d26nxv)  
