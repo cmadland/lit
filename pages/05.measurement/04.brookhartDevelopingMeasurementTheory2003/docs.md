@@ -74,3 +74,13 @@ Extracted Annotations (2020-09-30, 6:40:03 a.m.)
 
 > Summative assessment requires that teachers (or other assessors) become members of a community of practice, while formative assessment requires that the learners become members of the `same` community of practice (Wiliam, 1998)  
 > Wiliam, D. (1998, September) Enculturating learners into communities of practice: Raising achievement through classroom assessment. Paper presented at the European Conference for Educational Research, University of Ljubljana, Slovenia.
+
+#### Measurement Theory for classroom assessment
+
+Table 1. (P. 9)
+
+| Concepts in Large-Scale Assessment | Concepts in Classroom Assessment|
+|---|---|
+|*Validity*: The measure is external to the inferences made and actions taken. <br> - Students are 'subjects' upon whom observations are made. <br> - The validity goal is a meaningful inference about student performance and/or effective use of that information fro a specified purpose.   | *Validity*: Inferences made and actions taken are internal to the measurement process. <br> - Students are observers jointly with teachers; 'those measured' make the inferences and take the actions in the formative assessment process. <br> Students' awareness of and benefit from assessment information are part of the 'information' itself. <br> - The validity goal is an understanding of how students' work compares to  'ideal' work (as defined in the learning objectives) and/or effective use of that information for further learning.   |
+| *Validity:* The measurement context is construct-irrelevant <br> - Content specifications describe a domain. <br> - Administration can be standardized. <br> Scores can be equated or linked across contexts and forms of assessment.   | *Validity:* The measurement context is construct-relevant. <br> Assessment is part of instruction. A good assessment is an 'episode of genuine learning' <br> Content specifications reflect both the domain (learning objectives) and instructions (modes, activities) <br> - Teacher beliefs, teacher instructional practices, and teacher understanding of both the subject matter and students (including cultural and linguistic differences) are relevant validity concerns   |
+|*Reliability* is consistency over irrelevant factors <br> - Occassions, time, items, and/or tasks are facets of error variance. <br> - The reliability goal is stable ranking of students on a score scale (NRT) or stable categorization of students on an achievement continuum (CRT)   | *Reliability* is sufficiency of information. <br> - The reliability goal is stable information about the gap between students' work and 'ideal' work as defined in students' and teachers' learning objectives  |
