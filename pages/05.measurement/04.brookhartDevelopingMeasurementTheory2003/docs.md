@@ -10,8 +10,7 @@ taxonomy:
 
 !! Brookhart, S. M. (2003). Developing Measurement Theory for Classroom Assessment Purposes and Uses. Educational Measurement: Issues and Practice, 22(4), 5–12. https://doi.org/10/dj7bxr
 
-Extracted Annotations (2020-09-30, 6:40:03 a.m.)
-
+#### Abstract
 > In many fields of inquiry, the need for new theoretical developments is often best seen in areas of strain, and strain is apparent in several areas in which the conventions of measurement theory not quite "fit" classroom assessment. Three areas of do strain are analyzed in order to suggest how theoretical development might focus directly on information quality in the classroom assessment context. article describes the conThis text dependence of classroom assessment, its inextricable relationship instruction, and its simultaneous formative and with summative functions. Thus a case is made for new theoretical developments in the area of measurement in the classroom. (p. 5)
 
 > Keywords: classroom assessment, reliability, validity (p. 5)
