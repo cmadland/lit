@@ -38,3 +38,15 @@ Psychometric characterizations of learning infer learning from observed changes 
 Sociocultural perspective suggests that learning is perceived through changing relationships among the learner, other human participants, and the material and symbolic tools available.
 - not just a new skill, but a new identity and social position w/i the discourse or CoP
 - learning changes who we are by changing our ability to participate and belong (Wenger, 1998)
+
+Author's thinking about validity informed by interpretive social sciens, esp philosophical hermeneutics. Like psychometrics, hermeneutics interprets human products, expressions or actions by combining information across data sources and evidence [`assessment as research`].
+
+- In psychmetrics, scores on independent tests are weighted and aggregated to form an overall grade,
+- in hermeneutics, evidence is gathered holistically and integrated with interpreting human phenomena, seeks to understand the whole in light of its parts, repeatedly tests interpretations against available evidence until each part can be accounted for in an integrated whole.
+  - known as hermeneutic circle
+  - evidence is used to illuminate and challenge bias
+
+#### One case of classroom assessment Practice
+
+- *Qualitative Methods in Educational research* co-designed and taught with Lesley Rex
+- different perspectives contribute to validity b/c they can challenge each other's biases
