@@ -110,3 +110,16 @@ Author's thinking about validity informed by interpretive social sciens, esp phi
   > In educational settings, a decision or characterization that will have major impact on a student should not he made on the basis of a single test score. Other relevant information should he taken into account if it will enhance the overall validity of the decision. (p. 146)14
 
 - yet, psychometrics has little to offer on how to combine 'other relevant information' into a warranted inference
+
+##### Common features of validity in hermeneutics
+- interpretations are formed and refined through an iterative process of repeated testing against available Evidence
+- multiple sources of evidence across time and context enhances Validity
+- attempting to uncover problems with a proposed interpretation  (looking for disconfirmatory evidence) is central to the development of warranted Interpretations
+- interpretations and supporting evidence are best presented in a way that the learner can evaluate the interpretation and evidence and be allowed to offer counter interpretations and examples
+- valid interpretaions are justified, not imposed
+- multiple readers/interpreters strengthens validity
+  - disagreement among interpreters is also a source of validity
+
+##### Role of Consequences: “Consequences are an aspect of validity only if they can be traced to a source of construct underrepresentation or construct irrelevant variance”
+
+> Whatever one’s definition of validity, with classroom assessment, understanding these effects is crucial to sound practice. I might go so far as to argue that validity in classroom assessment-where the focus is on enhancing students’ learning-is primarily about consequences. Assuming interpretations are intended to inform instructional decisions and that instructional decisions entail interpretations about students’ learning, it is on evidence of their (immediate, long-range, and cumulative) effects on which their validity primarily rests.
